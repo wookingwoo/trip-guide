@@ -13,6 +13,8 @@
   "city": {
     "attractions": "주요 명소",
     "food": "추천 음식",
+    "tips": "여행 팁",
+    "bestTime": "방문하기 좋은 시기",
     "back": "홈으로 돌아가기"
   },
   "cities": {
@@ -32,6 +34,21 @@
           "name": "삿포로 맥주 박물관",
           "description": "일본 유일의 맥주 박물관으로 역사적인 벽돌 건물에 위치해 있습니다.",
           "image": "/images/beer-museum.jpg"
+        },
+        {
+          "name": "스스키노",
+          "description": "일본 3대 유흥가 중 하나로, 밤문화와 맛집이 즐비한 거리입니다.",
+          "image": "/images/susukino.jpg"
+        },
+        {
+          "name": "홋카이도 신궁",
+          "description": "홋카이도의 수호신을 모시는 신사로, 벚꽃 명소로도 유명합니다.",
+          "image": "/images/hokkaido-shrine.jpg"
+        },
+        {
+          "name": "시로이 코이비토 파크",
+          "description": "유명한 과자 '시로이 코이비토'의 제조 공장 견학 및 체험이 가능한 테마파크입니다.",
+          "image": "/images/shiroi-koibito.jpg"
         }
       ],
       "foods": [
@@ -44,8 +61,29 @@
           "name": "스프 카레",
           "description": "채소와 고기가 들어간 묽은 카레 맛 스프입니다.",
           "image": "/images/soup-curry.jpg"
+        },
+        {
+          "name": "징기스칸",
+          "description": "양고기를 야채와 함께 구워 먹는 홋카이도의 대표적인 향토 요리입니다.",
+          "image": "/images/genghis-khan.jpg"
+        },
+        {
+          "name": "카이센동",
+          "description": "신선한 해산물을 밥 위에 듬뿍 올린 덮밥입니다.",
+          "image": "/images/kaisendon.jpg"
+        },
+        {
+          "name": "소프트 아이스크림",
+          "description": "홋카이도의 신선한 우유로 만든 진하고 부드러운 아이스크림입니다.",
+          "image": "/images/soft-serve.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "겨울에는 눈이 많이 오므로 미끄러지지 않는 신발을 준비하세요.",
+        "2월 눈 축제 기간에는 숙소를 미리 예약하는 것이 좋습니다.",
+        "지하도가 잘 발달되어 있어 이동 시 활용하면 편리합니다."
+      ],
+      "bestTime": "눈 축제를 즐기려면 2월, 꽃과 시원한 날씨를 즐기려면 7-8월이 좋습니다."
     },
     "rome": {
       "id": "rome",
@@ -63,6 +101,21 @@
           "name": "트레비 분수",
           "description": "로마 트레비 지구에 있는 바로크 양식의 분수입니다.",
           "image": "/images/trevi-fountain.jpg"
+        },
+        {
+          "name": "판테온",
+          "description": "모든 신을 위한 신전으로, 고대 로마 건축의 걸작입니다.",
+          "image": "/images/pantheon.jpg"
+        },
+        {
+          "name": "바티칸 박물관",
+          "description": "역대 교황들이 수집한 예술품을 전시하는 세계 최대 규모의 박물관 중 하나입니다.",
+          "image": "/images/vatican-museums.jpg"
+        },
+        {
+          "name": "포로 로마노",
+          "description": "고대 로마의 정치, 경제, 종교의 중심지였던 유적지입니다.",
+          "image": "/images/roman-forum.jpg"
         }
       ],
       "foods": [
@@ -75,8 +128,29 @@
           "name": "젤라또",
           "description": "이탈리아식 아이스크림입니다.",
           "image": "/images/gelato.jpg"
+        },
+        {
+          "name": "카초 에 페페",
+          "description": "치즈와 후추만으로 맛을 낸 로마의 전통 파스타입니다.",
+          "image": "/images/cacio-e-pepe.jpg"
+        },
+        {
+          "name": "피자 알 탈리오",
+          "description": "사각형 팬에 구워 조각으로 잘라 파는 로마식 피자입니다.",
+          "image": "/images/pizza-al-taglio.jpg"
+        },
+        {
+          "name": "티라미수",
+          "description": "커피, 마스카포네 치즈, 코코아 파우더로 만든 이탈리아의 대표적인 디저트입니다.",
+          "image": "/images/tiramisu.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "콜로세움과 바티칸 박물관은 미리 예약하는 것이 필수입니다.",
+        "식당에서는 물값을 따로 받는 경우가 많으니 참고하세요.",
+        "소매치기를 주의하고 가방을 앞으로 메는 것이 좋습니다."
+      ],
+      "bestTime": "날씨가 온화한 봄(4-5월)이나 가을(9-10월)이 여행하기 가장 좋습니다."
     }
   }
 }

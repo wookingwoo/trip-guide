@@ -13,6 +13,8 @@
   "city": {
     "attractions": "人気の観光スポット",
     "food": "必食グルメ",
+    "tips": "旅行のヒント",
+    "bestTime": "ベストシーズン",
     "back": "ホームに戻る"
   },
   "cities": {
@@ -32,6 +34,21 @@
           "name": "サッポロビール博物館",
           "description": "日本唯一のビール博物館で、歴史的な赤レンガの建物内にあります。",
           "image": "/images/beer-museum.jpg"
+        },
+        {
+          "name": "すすきの",
+          "description": "日本3大歓楽街の一つで、ナイトライフやグルメが楽しめる賑やかなエリアです。",
+          "image": "/images/susukino.jpg"
+        },
+        {
+          "name": "北海道神宮",
+          "description": "北海道の守護神を祀る神社で、桜の名所としても有名です。",
+          "image": "/images/hokkaido-shrine.jpg"
+        },
+        {
+          "name": "白い恋人パーク",
+          "description": "有名な銘菓「白い恋人」の製造ライン見学やお菓子作り体験ができるテーマパークです。",
+          "image": "/images/shiroi-koibito.jpg"
         }
       ],
       "foods": [
@@ -44,8 +61,29 @@
           "name": "スープカレー",
           "description": "野菜と肉が入った、さらっとしたカレー風味のスープです。",
           "image": "/images/soup-curry.jpg"
+        },
+        {
+          "name": "ジンギスカン",
+          "description": "羊肉を野菜と一緒に焼いて食べる北海道の代表的な郷土料理です。",
+          "image": "/images/genghis-khan.jpg"
+        },
+        {
+          "name": "海鮮丼",
+          "description": "新鮮な魚介類をご飯の上にたっぷり乗せた丼です。",
+          "image": "/images/kaisendon.jpg"
+        },
+        {
+          "name": "ソフトクリーム",
+          "description": "北海道の新鮮な牛乳で作られた濃厚で滑らかなアイスクリームです。",
+          "image": "/images/soft-serve.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "冬は雪が多いので、滑りにくい靴を用意してください。",
+        "2月の雪まつり期間中は、宿泊施設の予約を早めに済ませることをお勧めします。",
+        "地下歩行空間が発達しているので、移動に活用すると便利です。"
+      ],
+      "bestTime": "雪まつりを楽しむなら2月、花と涼しい気候を楽しむなら7-8月がおすすめです。"
     },
     "rome": {
       "id": "rome",
@@ -63,6 +101,21 @@
           "name": "トレビの泉",
           "description": "ローマのトレビ地区にあるバロック様式の噴水です。",
           "image": "/images/trevi-fountain.jpg"
+        },
+        {
+          "name": "パンテオン",
+          "description": "すべての神々のための神殿で、古代ローマ建築の傑作です。",
+          "image": "/images/pantheon.jpg"
+        },
+        {
+          "name": "バチカン美術館",
+          "description": "歴代教皇が収集した芸術品を展示する世界最大級の美術館の一つです。",
+          "image": "/images/vatican-museums.jpg"
+        },
+        {
+          "name": "フォロ・ロマーノ",
+          "description": "古代ローマの政治、経済、宗教の中心地だった遺跡です。",
+          "image": "/images/roman-forum.jpg"
         }
       ],
       "foods": [
@@ -75,8 +128,29 @@
           "name": "ジェラート",
           "description": "イタリアのアイスクリームです。",
           "image": "/images/gelato.jpg"
+        },
+        {
+          "name": "カチョ・エ・ペペ",
+          "description": "チーズと胡椒だけで味付けされたローマの伝統的なパスタです。",
+          "image": "/images/cacio-e-pepe.jpg"
+        },
+        {
+          "name": "ピッツァ・アル・タリオ",
+          "description": "四角い鉄板で焼かれ、切り売りされるローマ風ピザです。",
+          "image": "/images/pizza-al-taglio.jpg"
+        },
+        {
+          "name": "ティラミス",
+          "description": "コーヒー、マスカルポーネチーズ、ココアパウダーで作るイタリアの代表的なデザートです。",
+          "image": "/images/tiramisu.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "コロッセオとバチカン美術館は事前の予約が必須です。",
+        "レストランでは水代が別料金になることが多いので注意してください。",
+        "スリに注意し、バッグは前に抱えるようにしましょう。"
+      ],
+      "bestTime": "気候が穏やかな春（4-5月）や秋（9-10月）が旅行に最適です。"
     }
   }
 }

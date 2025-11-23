@@ -14,6 +14,8 @@ export interface City {
     description: string;
     image: string;
   }[];
+  tips: string[];
+  bestTime: string;
 }
 
 export const cities: Record<string, City> = {
@@ -47,6 +49,11 @@ export const cities: Record<string, City> = {
         image: '/images/soup-curry.jpg',
       },
     ],
+    tips: [
+      'Wear comfortable shoes for walking.',
+      'Visit the snow festival in February.',
+    ],
+    bestTime: 'Winter for snow, Summer for flowers.',
   },
   rome: {
     id: 'rome',
@@ -78,5 +85,10 @@ export const cities: Record<string, City> = {
         image: '/images/gelato.jpg',
       },
     ],
+    tips: [
+      'Book tickets for Colosseum in advance.',
+      'Carry a water bottle to refill at fountains.',
+    ],
+    bestTime: 'Spring (April-May) or Autumn (September-October).',
   },
 };

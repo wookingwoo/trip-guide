@@ -12,7 +12,11 @@ import {
     Button,
     Stack,
     useColorModeValue,
+    List,
+    ListItem,
+    ListIcon,
 } from '@chakra-ui/react';
+import { CheckCircleIcon } from '@chakra-ui/icons';
 import { City } from '@/data/cities';
 import Link from 'next/link';
 
@@ -121,6 +125,33 @@ export default function CityDetailContent({
                             </Box>
                         ))}
                     </SimpleGrid>
+                </Box>
+
+                {/* Travel Tips */}
+                <Box mb={16}>
+                    <Heading size="xl" mb={8} borderBottom="2px solid" borderColor="brand.500" pb={2} display="inline-block">
+                        {dict.city.tips}
+                    </Heading>
+                    <Box bg={bg} p={8} borderRadius="lg" boxShadow="lg">
+                        <List spacing={4}>
+                            {city.tips?.map((tip, index) => (
+                                <ListItem key={index} fontSize="lg" display="flex" alignItems="center">
+                                    <ListIcon as={CheckCircleIcon} color="brand.500" mr={4} />
+                                    {tip}
+                                </ListItem>
+                            ))}
+                        </List>
+                    </Box>
+                </Box>
+
+                {/* Best Time to Visit */}
+                <Box mb={16}>
+                    <Heading size="xl" mb={8} borderBottom="2px solid" borderColor="brand.500" pb={2} display="inline-block">
+                        {dict.city.bestTime}
+                    </Heading>
+                    <Box bg={bg} p={8} borderRadius="lg" boxShadow="lg">
+                        <Text fontSize="lg">{city.bestTime}</Text>
+                    </Box>
                 </Box>
             </Container>
         </Box>

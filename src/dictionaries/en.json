@@ -13,6 +13,8 @@
   "city": {
     "attractions": "Top Attractions",
     "food": "Must-Try Foods",
+    "tips": "Travel Tips",
+    "bestTime": "Best Time to Visit",
     "back": "Back to Home"
   },
   "cities": {
@@ -32,6 +34,21 @@
           "name": "Sapporo Beer Museum",
           "description": "The only beer museum in Japan, located in a historic brick building.",
           "image": "/images/beer-museum.jpg"
+        },
+        {
+          "name": "Susukino",
+          "description": "One of Japan's three major entertainment districts, bustling with nightlife and restaurants.",
+          "image": "/images/susukino.jpg"
+        },
+        {
+          "name": "Hokkaido Shrine",
+          "description": "A shrine dedicated to the guardian deities of Hokkaido, also famous for cherry blossoms.",
+          "image": "/images/hokkaido-shrine.jpg"
+        },
+        {
+          "name": "Shiroi Koibito Park",
+          "description": "A theme park where you can tour the factory of the famous 'Shiroi Koibito' cookie.",
+          "image": "/images/shiroi-koibito.jpg"
         }
       ],
       "foods": [
@@ -44,8 +61,29 @@
           "name": "Soup Curry",
           "description": "A light curry flavored soup served with vegetables and meat.",
           "image": "/images/soup-curry.jpg"
+        },
+        {
+          "name": "Genghis Khan",
+          "description": "A representative local dish of Hokkaido featuring grilled lamb and vegetables.",
+          "image": "/images/genghis-khan.jpg"
+        },
+        {
+          "name": "Kaisendon",
+          "description": "A rice bowl topped generously with fresh seafood.",
+          "image": "/images/kaisendon.jpg"
+        },
+        {
+          "name": "Soft Serve Ice Cream",
+          "description": "Rich and smooth ice cream made from fresh Hokkaido milk.",
+          "image": "/images/soft-serve.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "Wear non-slip shoes in winter as it snows heavily.",
+        "Book accommodation in advance during the Snow Festival in February.",
+        "Use the well-developed underground walkways for convenient travel."
+      ],
+      "bestTime": "February for the Snow Festival, July-August for flowers and cool weather."
     },
     "rome": {
       "id": "rome",
@@ -63,6 +101,21 @@
           "name": "Trevi Fountain",
           "description": "A Baroque fountain in the Trevi district in Rome.",
           "image": "/images/trevi-fountain.jpg"
+        },
+        {
+          "name": "Pantheon",
+          "description": "A temple for all the gods, a masterpiece of ancient Roman architecture.",
+          "image": "/images/pantheon.jpg"
+        },
+        {
+          "name": "Vatican Museums",
+          "description": "One of the largest museums in the world, displaying art collected by popes throughout history.",
+          "image": "/images/vatican-museums.jpg"
+        },
+        {
+          "name": "Roman Forum",
+          "description": "The center of political, economic, and religious life in ancient Rome.",
+          "image": "/images/roman-forum.jpg"
         }
       ],
       "foods": [
@@ -75,8 +128,29 @@
           "name": "Gelato",
           "description": "Italian ice cream.",
           "image": "/images/gelato.jpg"
+        },
+        {
+          "name": "Cacio e Pepe",
+          "description": "A traditional Roman pasta dish made with only cheese and pepper.",
+          "image": "/images/cacio-e-pepe.jpg"
+        },
+        {
+          "name": "Pizza al Taglio",
+          "description": "Roman-style pizza baked in rectangular trays and sold by the slice.",
+          "image": "/images/pizza-al-taglio.jpg"
+        },
+        {
+          "name": "Tiramisu",
+          "description": "A classic Italian dessert made with coffee, mascarpone cheese, and cocoa powder.",
+          "image": "/images/tiramisu.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "Booking tickets for the Colosseum and Vatican Museums in advance is essential.",
+        "Note that restaurants often charge for water.",
+        "Beware of pickpockets and keep your bag in front of you."
+      ],
+      "bestTime": "Spring (April-May) or Autumn (September-October) are the best times to travel for mild weather."
     }
   }
 }

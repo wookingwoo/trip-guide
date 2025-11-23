@@ -13,6 +13,8 @@
   "city": {
     "attractions": "Attrazioni principali",
     "food": "Cibi da provare",
+    "tips": "Consigli di viaggio",
+    "bestTime": "Periodo migliore per visitare",
     "back": "Torna alla Home"
   },
   "cities": {
@@ -32,6 +34,21 @@
           "name": "Museo della Birra di Sapporo",
           "description": "L'unico museo della birra in Giappone, situato in uno storico edificio in mattoni.",
           "image": "/images/beer-museum.jpg"
+        },
+        {
+          "name": "Susukino",
+          "description": "Uno dei tre principali quartieri di intrattenimento del Giappone, vivace con vita notturna e ristoranti.",
+          "image": "/images/susukino.jpg"
+        },
+        {
+          "name": "Santuario di Hokkaido",
+          "description": "Un santuario dedicato alle divinità protettrici di Hokkaido, famoso anche per i fiori di ciliegio.",
+          "image": "/images/hokkaido-shrine.jpg"
+        },
+        {
+          "name": "Parco Shiroi Koibito",
+          "description": "Un parco a tema dove è possibile visitare la fabbrica del famoso biscotto 'Shiroi Koibito'.",
+          "image": "/images/shiroi-koibito.jpg"
         }
       ],
       "foods": [
@@ -44,8 +61,29 @@
           "name": "Soup Curry",
           "description": "Una zuppa leggera al gusto di curry servita con verdure e carne.",
           "image": "/images/soup-curry.jpg"
+        },
+        {
+          "name": "Genghis Khan",
+          "description": "Un piatto locale rappresentativo di Hokkaido a base di agnello alla griglia e verdure.",
+          "image": "/images/genghis-khan.jpg"
+        },
+        {
+          "name": "Kaisendon",
+          "description": "Una ciotola di riso ricoperta generosamente di frutti di mare freschi.",
+          "image": "/images/kaisendon.jpg"
+        },
+        {
+          "name": "Gelato Soft",
+          "description": "Gelato ricco e morbido fatto con latte fresco di Hokkaido.",
+          "image": "/images/soft-serve.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "Indossa scarpe antiscivolo in inverno poiché nevica molto.",
+        "Prenota l'alloggio in anticipo durante il Festival della Neve a febbraio.",
+        "Usa i passaggi sotterranei ben sviluppati per spostarti comodamente."
+      ],
+      "bestTime": "Febbraio per il Festival della Neve, luglio-agosto per i fiori e il clima fresco."
     },
     "rome": {
       "id": "rome",
@@ -63,6 +101,21 @@
           "name": "Fontana di Trevi",
           "description": "Una fontana barocca nel rione Trevi a Roma.",
           "image": "/images/trevi-fountain.jpg"
+        },
+        {
+          "name": "Pantheon",
+          "description": "Un tempio per tutti gli dei, un capolavoro dell'antica architettura romana.",
+          "image": "/images/pantheon.jpg"
+        },
+        {
+          "name": "Musei Vaticani",
+          "description": "Uno dei musei più grandi del mondo, che espone arte collezionata dai papi nel corso della storia.",
+          "image": "/images/vatican-museums.jpg"
+        },
+        {
+          "name": "Foro Romano",
+          "description": "Il centro della vita politica, economica e religiosa nell'antica Roma.",
+          "image": "/images/roman-forum.jpg"
         }
       ],
       "foods": [
@@ -75,8 +128,29 @@
           "name": "Gelato",
           "description": "Gelato italiano.",
           "image": "/images/gelato.jpg"
+        },
+        {
+          "name": "Cacio e Pepe",
+          "description": "Un piatto di pasta tradizionale romano fatto solo con formaggio e pepe.",
+          "image": "/images/cacio-e-pepe.jpg"
+        },
+        {
+          "name": "Pizza al Taglio",
+          "description": "Pizza in stile romano cotta in teglie rettangolari e venduta al taglio.",
+          "image": "/images/pizza-al-taglio.jpg"
+        },
+        {
+          "name": "Tiramisù",
+          "description": "Un classico dessert italiano fatto con caffè, mascarpone e cacao in polvere.",
+          "image": "/images/tiramisu.jpg"
         }
-      ]
+      ],
+      "tips": [
+        "È essenziale prenotare i biglietti per il Colosseo e i Musei Vaticani in anticipo.",
+        "Nota che i ristoranti spesso fanno pagare l'acqua.",
+        "Fai attenzione ai borseggiatori e tieni la borsa davanti a te."
+      ],
+      "bestTime": "La primavera (aprile-maggio) o l'autunno (settembre-ottobre) sono i periodi migliori per viaggiare per il clima mite."
     }
   }
 }
