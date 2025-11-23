@@ -1,0 +1,18 @@
+{
+  "home": {
+    "title": "Discover Your Next Adventure",
+    "subtitle": "Explore the beauty of Sapporo and Rome with our premium guide.",
+    "explore": "Explore Cities",
+    "sapporo": "Sapporo",
+    "rome": "Rome"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "city": {
+    "attractions": "Top Attractions",
+    "food": "Must-Try Foods",
+    "back": "Back to Home"
+  }
+}
