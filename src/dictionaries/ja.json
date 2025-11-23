@@ -4,7 +4,8 @@
     "subtitle": "札幌とローマの美しさをプレミアムガイドで探索しましょう。",
     "explore": "都市を探索",
     "sapporo": "札幌",
-    "rome": "ローマ"
+    "rome": "ローマ",
+    "bangkok": "バンコク"
   },
   "nav": {
     "home": "ホーム",
@@ -151,6 +152,42 @@
         "スリに注意し、バッグは前に抱えるようにしましょう。"
       ],
       "bestTime": "気候が穏やかな春（4-5月）や秋（9-10月）が旅行に最適です。"
+    },
+    "bangkok": {
+      "id": "bangkok",
+      "name": "バンコク",
+      "country": "タイ",
+      "description": "華やかな寺院と活気あるストリートライフで知られる、タイの活気あふれる首都です。",
+      "image": "/images/bangkok-hero.jpg",
+      "attractions": [
+        {
+          "name": "王宮",
+          "description": "タイのバンコク中心部にある建物群です。この宮殿はシャム国王の公式な住居でした。",
+          "image": "/images/grand-palace.jpg"
+        },
+        {
+          "name": "ワット・アルン",
+          "description": "タイのバンコク、バンコクヤイ地区のチャオプラヤー川トンブリー西岸にある仏教寺院、暁の寺です。",
+          "image": "/images/wat-arun.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "パッタイ",
+          "description": "タイの屋台やほとんどのレストランで一般的に提供される焼きそば料理です。",
+          "image": "/images/pad-thai.jpg"
+        },
+        {
+          "name": "トムヤムクン",
+          "description": "通常エビを使って調理される、辛くて酸っぱいタイのスープの一種です。",
+          "image": "/images/tom-yum-goong.jpg"
+        }
+      ],
+      "tips": [
+        "寺院を訪れる際は、控えめな服装を心がけてください。",
+        "トゥクトゥクに乗る前に、運転手と料金を交渉してください。"
+      ],
+      "bestTime": "涼しい気候の11月から2月がおすすめです。"
     }
   }
 }

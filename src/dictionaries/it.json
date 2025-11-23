@@ -4,7 +4,8 @@
     "subtitle": "Esplora la bellezza di Sapporo e Roma con la nostra guida premium.",
     "explore": "Esplora le città",
     "sapporo": "Sapporo",
-    "rome": "Roma"
+    "rome": "Roma",
+    "bangkok": "Bangkok"
   },
   "nav": {
     "home": "Home",
@@ -151,6 +152,42 @@
         "Fai attenzione ai borseggiatori e tieni la borsa davanti a te."
       ],
       "bestTime": "La primavera (aprile-maggio) o l'autunno (settembre-ottobre) sono i periodi migliori per viaggiare per il clima mite."
+    },
+    "bangkok": {
+      "id": "bangkok",
+      "name": "Bangkok",
+      "country": "Thailandia",
+      "description": "La vibrante capitale della Thailandia, nota per i suoi santuari decorati e la vivace vita di strada.",
+      "image": "/images/bangkok-hero.jpg",
+      "attractions": [
+        {
+          "name": "Grande Palazzo Reale",
+          "description": "Un complesso di edifici nel cuore di Bangkok, Thailandia. Il palazzo è stato la residenza ufficiale dei re del Siam.",
+          "image": "/images/grand-palace.jpg"
+        },
+        {
+          "name": "Wat Arun",
+          "description": "Il Tempio dell'Alba, un tempio buddista nel distretto di Bangkok Yai a Bangkok, Thailandia, sulla riva occidentale di Thonburi del fiume Chao Phraya.",
+          "image": "/images/wat-arun.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Pad Thai",
+          "description": "Un piatto di spaghetti di riso saltati in padella comunemente servito come cibo di strada e nella maggior parte dei ristoranti in Thailandia.",
+          "image": "/images/pad-thai.jpg"
+        },
+        {
+          "name": "Tom Yum Goong",
+          "description": "Un tipo di zuppa thailandese piccante e aspra, solitamente cucinata con gamberi.",
+          "image": "/images/tom-yum-goong.jpg"
+        }
+      ],
+      "tips": [
+        "Vestiti in modo modesto quando visiti i templi.",
+        "Negozia i prezzi con gli autisti di tuk-tuk prima di salire."
+      ],
+      "bestTime": "Da novembre a febbraio per un clima più fresco."
     }
   }
 }

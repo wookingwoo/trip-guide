@@ -4,7 +4,8 @@
     "subtitle": "삿포로와 로마의 아름다움을 프리미엄 가이드와 함께 탐험하세요.",
     "explore": "도시 탐험하기",
     "sapporo": "삿포로",
-    "rome": "로마"
+    "rome": "로마",
+    "bangkok": "방콕"
   },
   "nav": {
     "home": "홈",
@@ -151,6 +152,42 @@
         "소매치기를 주의하고 가방을 앞으로 메는 것이 좋습니다."
       ],
       "bestTime": "날씨가 온화한 봄(4-5월)이나 가을(9-10월)이 여행하기 가장 좋습니다."
+    },
+    "bangkok": {
+      "id": "bangkok",
+      "name": "방콕",
+      "country": "태국",
+      "description": "화려한 사원과 활기찬 거리 생활로 유명한 태국의 활기찬 수도입니다.",
+      "image": "/images/bangkok-hero.jpg",
+      "attractions": [
+        {
+          "name": "왕궁",
+          "description": "태국 방콕 중심부에 있는 건물 단지입니다. 이 궁전은 시암 국왕의 공식 거주지였습니다.",
+          "image": "/images/grand-palace.jpg"
+        },
+        {
+          "name": "왓 아룬",
+          "description": "태국 방콕 방콕야이 지구의 짜오프라야 강 톤부리 서쪽 은행에 있는 불교 사원인 새벽 사원입니다.",
+          "image": "/images/wat-arun.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "팟타이",
+          "description": "태국의 길거리 음식이나 대부분의 식당에서 흔히 볼 수 있는 볶음 쌀국수 요리입니다.",
+          "image": "/images/pad-thai.jpg"
+        },
+        {
+          "name": "똠얌꿍",
+          "description": "보통 새우를 넣어 조리하는 맵고 신 맛이 나는 태국식 수프입니다.",
+          "image": "/images/tom-yum-goong.jpg"
+        }
+      ],
+      "tips": [
+        "사원을 방문할 때는 단정한 복장을 착용하세요.",
+        "툭툭을 타기 전에 기사와 요금을 협상하세요."
+      ],
+      "bestTime": "날씨가 선선한 11월부터 2월까지가 좋습니다."
     }
   }
 }

@@ -4,7 +4,8 @@
     "subtitle": "Explore the beauty of Sapporo and Rome with our premium guide.",
     "explore": "Explore Cities",
     "sapporo": "Sapporo",
-    "rome": "Rome"
+    "rome": "Rome",
+    "bangkok": "Bangkok"
   },
   "nav": {
     "home": "Home",
@@ -151,6 +152,42 @@
         "Beware of pickpockets and keep your bag in front of you."
       ],
       "bestTime": "Spring (April-May) or Autumn (September-October) are the best times to travel for mild weather."
+    },
+    "bangkok": {
+      "id": "bangkok",
+      "name": "Bangkok",
+      "country": "Thailand",
+      "description": "The vibrant capital of Thailand, known for its ornate shrines and vibrant street life.",
+      "image": "/images/bangkok-hero.jpg",
+      "attractions": [
+        {
+          "name": "Grand Palace",
+          "description": "A complex of buildings at the heart of Bangkok, Thailand. The palace has been the official residence of the Kings of Siam.",
+          "image": "/images/grand-palace.jpg"
+        },
+        {
+          "name": "Wat Arun",
+          "description": "The Temple of Dawn, a Buddhist temple in Bangkok Yai district of Bangkok, Thailand, on the Thonburi west bank of the Chao Phraya River.",
+          "image": "/images/wat-arun.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Pad Thai",
+          "description": "A stir-fried rice noodle dish commonly served as a street food and at most restaurants in Thailand.",
+          "image": "/images/pad-thai.jpg"
+        },
+        {
+          "name": "Tom Yum Goong",
+          "description": "A type of hot and sour Thai soup, usually cooked with shrimp.",
+          "image": "/images/tom-yum-goong.jpg"
+        }
+      ],
+      "tips": [
+        "Dress modestly when visiting temples.",
+        "Negotiate prices with tuk-tuk drivers before getting in."
+      ],
+      "bestTime": "November to February for cooler weather."
     }
   }
 }
