@@ -42,7 +42,7 @@ export default function CityCard({
                     objectFit="cover"
                     w="100%"
                     h="100%"
-                    fallbackSrc="https://via.placeholder.com/400x300"
+                    fallbackSrc="/images/empty.png"
                 />
             </Box>
             <Stack>

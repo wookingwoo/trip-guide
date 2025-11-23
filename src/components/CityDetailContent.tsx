@@ -37,7 +37,7 @@ export default function CityDetailContent({
                     objectFit="cover"
                     w="100%"
                     h="100%"
-                    fallbackSrc="https://via.placeholder.com/1200x500"
+                    fallbackSrc="/images/empty.png"
                 />
                 <Box
                     position="absolute"
@@ -85,7 +85,7 @@ export default function CityDetailContent({
                                     h="200px"
                                     w="100%"
                                     objectFit="cover"
-                                    fallbackSrc="https://via.placeholder.com/600x400"
+                                    fallbackSrc="/images/empty.png"
                                 />
                                 <Heading size="md" mb={2}>
                                     {attraction.name}
@@ -112,7 +112,7 @@ export default function CityDetailContent({
                                     h="200px"
                                     w="100%"
                                     objectFit="cover"
-                                    fallbackSrc="https://via.placeholder.com/600x400"
+                                    fallbackSrc="/images/empty.png"
                                 />
                                 <Heading size="md" mb={2}>
                                     {food.name}

@@ -22,7 +22,7 @@ export const cities: Record<string, City> = {
     name: 'Sapporo',
     country: 'Japan',
     description: 'The capital of Hokkaido, famous for its beer, ramen, and annual snow festival.',
-    image: '/images/sapporo-hero.jpg',
+    image: '/images/sapporo-hero.png',
     attractions: [
       {
         name: 'Odori Park',
