@@ -1,7 +1,7 @@
 import { getDictionary } from '@/get-dictionary';
-import { Locale } from '@/i18n-config';
-import { cities } from '@/data/cities';
+import { Locale, i18n } from '@/i18n-config';
 import HomePageContent from '@/components/HomePageContent';
+import { notFound } from 'next/navigation';
 
 export default async function Home({
     params: { lang },
@@ -11,6 +11,6 @@ export default async function Home({
     const dict = await getDictionary(lang);
 
     return (
-        <HomePageContent lang={lang} dict={dict} cities={Object.values(cities)} />
+        <HomePageContent lang={lang} dict={dict} cities={Object.values(dict.cities)} />
     );
 }

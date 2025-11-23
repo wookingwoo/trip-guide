@@ -14,5 +14,69 @@
     "attractions": "주요 명소",
     "food": "추천 음식",
     "back": "홈으로 돌아가기"
+  },
+  "cities": {
+    "sapporo": {
+      "id": "sapporo",
+      "name": "삿포로",
+      "country": "일본",
+      "description": "홋카이도의 주도로 맥주, 라멘, 그리고 매년 열리는 눈 축제로 유명합니다.",
+      "image": "/images/sapporo-hero.png",
+      "attractions": [
+        {
+          "name": "오도리 공원",
+          "description": "1.5km에 걸쳐 뻗어 있는 공원으로 삿포로 눈 축제의 주요 장소입니다.",
+          "image": "/images/odori-park.jpg"
+        },
+        {
+          "name": "삿포로 맥주 박물관",
+          "description": "일본 유일의 맥주 박물관으로 역사적인 벽돌 건물에 위치해 있습니다.",
+          "image": "/images/beer-museum.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "미소 라멘",
+          "description": "삿포로는 미소 라멘의 발상지입니다.",
+          "image": "/images/miso-ramen.jpg"
+        },
+        {
+          "name": "스프 카레",
+          "description": "채소와 고기가 들어간 묽은 카레 맛 스프입니다.",
+          "image": "/images/soup-curry.jpg"
+        }
+      ]
+    },
+    "rome": {
+      "id": "rome",
+      "name": "로마",
+      "country": "이탈리아",
+      "description": "영원한 도시로 불리며, 약 3,000년의 역사와 전 세계적으로 영향력 있는 예술, 건축, 문화를 자랑합니다.",
+      "image": "/images/rome-hero.jpg",
+      "attractions": [
+        {
+          "name": "콜로세움",
+          "description": "이탈리아 로마 중심부에 위치한 타원형 원형 극장입니다.",
+          "image": "/images/colosseum.jpg"
+        },
+        {
+          "name": "트레비 분수",
+          "description": "로마 트레비 지구에 있는 바로크 양식의 분수입니다.",
+          "image": "/images/trevi-fountain.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "까르보나라",
+          "description": "계란, 경질 치즈, 염장 돼지고기, 후추로 만든 로마의 파스타 요리입니다.",
+          "image": "/images/carbonara.jpg"
+        },
+        {
+          "name": "젤라또",
+          "description": "이탈리아식 아이스크림입니다.",
+          "image": "/images/gelato.jpg"
+        }
+      ]
+    }
   }
 }

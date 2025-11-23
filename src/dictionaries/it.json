@@ -14,5 +14,69 @@
     "attractions": "Attrazioni principali",
     "food": "Cibi da provare",
     "back": "Torna alla Home"
+  },
+  "cities": {
+    "sapporo": {
+      "id": "sapporo",
+      "name": "Sapporo",
+      "country": "Giappone",
+      "description": "La capitale di Hokkaido, famosa per la sua birra, il ramen e il festival annuale della neve.",
+      "image": "/images/sapporo-hero.png",
+      "attractions": [
+        {
+          "name": "Parco Odori",
+          "description": "Un parco che si estende per 1,5 km e funge da sito principale del Festival della Neve di Sapporo.",
+          "image": "/images/odori-park.jpg"
+        },
+        {
+          "name": "Museo della Birra di Sapporo",
+          "description": "L'unico museo della birra in Giappone, situato in uno storico edificio in mattoni.",
+          "image": "/images/beer-museum.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Miso Ramen",
+          "description": "Sapporo è la città natale del Miso Ramen.",
+          "image": "/images/miso-ramen.jpg"
+        },
+        {
+          "name": "Soup Curry",
+          "description": "Una zuppa leggera al gusto di curry servita con verdure e carne.",
+          "image": "/images/soup-curry.jpg"
+        }
+      ]
+    },
+    "rome": {
+      "id": "rome",
+      "name": "Roma",
+      "country": "Italia",
+      "description": "La Città Eterna, conosciuta per i suoi quasi 3.000 anni di arte, architettura e cultura influenti a livello globale.",
+      "image": "/images/rome-hero.jpg",
+      "attractions": [
+        {
+          "name": "Colosseo",
+          "description": "Un anfiteatro ovale nel centro della città di Roma, Italia.",
+          "image": "/images/colosseum.jpg"
+        },
+        {
+          "name": "Fontana di Trevi",
+          "description": "Una fontana barocca nel rione Trevi a Roma.",
+          "image": "/images/trevi-fountain.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Carbonara",
+          "description": "Un piatto di pasta italiano di Roma fatto con uova, formaggio a pasta dura, maiale stagionato e pepe nero.",
+          "image": "/images/carbonara.jpg"
+        },
+        {
+          "name": "Gelato",
+          "description": "Gelato italiano.",
+          "image": "/images/gelato.jpg"
+        }
+      ]
+    }
   }
 }

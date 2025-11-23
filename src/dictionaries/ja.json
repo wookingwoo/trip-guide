@@ -14,5 +14,69 @@
     "attractions": "人気の観光スポット",
     "food": "必食グルメ",
     "back": "ホームに戻る"
+  },
+  "cities": {
+    "sapporo": {
+      "id": "sapporo",
+      "name": "札幌",
+      "country": "日本",
+      "description": "北海道の道庁所在地で、ビール、ラーメン、そして毎年開催される雪まつりで有名です。",
+      "image": "/images/sapporo-hero.png",
+      "attractions": [
+        {
+          "name": "大通公園",
+          "description": "1.5kmにわたる公園で、さっぽろ雪まつりのメイン会場となります。",
+          "image": "/images/odori-park.jpg"
+        },
+        {
+          "name": "サッポロビール博物館",
+          "description": "日本唯一のビール博物館で、歴史的な赤レンガの建物内にあります。",
+          "image": "/images/beer-museum.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "味噌ラーメン",
+          "description": "札幌は味噌ラーメン発祥の地です。",
+          "image": "/images/miso-ramen.jpg"
+        },
+        {
+          "name": "スープカレー",
+          "description": "野菜と肉が入った、さらっとしたカレー風味のスープです。",
+          "image": "/images/soup-curry.jpg"
+        }
+      ]
+    },
+    "rome": {
+      "id": "rome",
+      "name": "ローマ",
+      "country": "イタリア",
+      "description": "永遠の都と呼ばれ、約3000年にわたる世界的に影響力のある芸術、建築、文化で知られています。",
+      "image": "/images/rome-hero.jpg",
+      "attractions": [
+        {
+          "name": "コロッセオ",
+          "description": "イタリアのローマ中心部にある楕円形の円形劇場です。",
+          "image": "/images/colosseum.jpg"
+        },
+        {
+          "name": "トレビの泉",
+          "description": "ローマのトレビ地区にあるバロック様式の噴水です。",
+          "image": "/images/trevi-fountain.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "カルボナーラ",
+          "description": "卵、ハードチーズ、塩漬け豚肉、黒胡椒で作るローマのパスタ料理です。",
+          "image": "/images/carbonara.jpg"
+        },
+        {
+          "name": "ジェラート",
+          "description": "イタリアのアイスクリームです。",
+          "image": "/images/gelato.jpg"
+        }
+      ]
+    }
   }
 }
