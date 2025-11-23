@@ -5,7 +5,8 @@
     "explore": "Esplora le città",
     "sapporo": "Sapporo",
     "rome": "Roma",
-    "bangkok": "Bangkok"
+    "bangkok": "Bangkok",
+    "pattaya": "Pattaya"
   },
   "nav": {
     "home": "Home",
@@ -188,6 +189,42 @@
         "Negozia i prezzi con gli autisti di tuk-tuk prima di salire."
       ],
       "bestTime": "Da novembre a febbraio per un clima più fresco."
+    },
+    "pattaya": {
+      "id": "pattaya",
+      "name": "Pattaya",
+      "country": "Thailandia",
+      "description": "Una città turistica in Thailandia sulla costa orientale del Golfo di Thailandia, nota per le sue spiagge.",
+      "image": "/images/pattaya-hero.jpg",
+      "attractions": [
+        {
+          "name": "Santuario della Verità",
+          "description": "Un edificio interamente in legno pieno di sculture basate su motivi tradizionali buddisti e indù.",
+          "image": "/images/sanctuary-of-truth.jpg"
+        },
+        {
+          "name": "Giardino Tropicale di Nong Nooch",
+          "description": "Un giardino botanico di 500 acri e attrazione turistica.",
+          "image": "/images/nong-nooch.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Som Tum",
+          "description": "Un'insalata di papaya verde piccante.",
+          "image": "/images/som-tum.jpg"
+        },
+        {
+          "name": "Frutti di mare",
+          "description": "Frutti di mare freschi dal Golfo di Thailandia.",
+          "image": "/images/seafood.jpg"
+        }
+      ],
+      "tips": [
+        "Usa i Songthaew (autobus Baht) per trasporti economici.",
+        "Indossa la protezione solare perché può fare molto caldo."
+      ],
+      "bestTime": "Da novembre a febbraio."
     }
   }
 }

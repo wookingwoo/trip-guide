@@ -5,7 +5,8 @@
     "explore": "도시 탐험하기",
     "sapporo": "삿포로",
     "rome": "로마",
-    "bangkok": "방콕"
+    "bangkok": "방콕",
+    "pattaya": "파타야"
   },
   "nav": {
     "home": "홈",
@@ -188,6 +189,42 @@
         "툭툭을 타기 전에 기사와 요금을 협상하세요."
       ],
       "bestTime": "날씨가 선선한 11월부터 2월까지가 좋습니다."
+    },
+    "pattaya": {
+      "id": "pattaya",
+      "name": "파타야",
+      "country": "태국",
+      "description": "태국 만 동쪽 해안에 위치한 휴양 도시로, 해변으로 유명합니다.",
+      "image": "/images/pattaya-hero.jpg",
+      "attractions": [
+        {
+          "name": "진리의 성전",
+          "description": "전통적인 불교 및 힌두교 모티브를 바탕으로 한 조각품으로 가득 찬 목조 건물입니다.",
+          "image": "/images/sanctuary-of-truth.jpg"
+        },
+        {
+          "name": "농눅 빌리지",
+          "description": "500에이커 규모의 식물원이자 관광 명소입니다.",
+          "image": "/images/nong-nooch.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "솜땀",
+          "description": "매콤한 그린 파파야 샐러드입니다.",
+          "image": "/images/som-tum.jpg"
+        },
+        {
+          "name": "해산물",
+          "description": "태국 만에서 잡은 신선한 해산물입니다.",
+          "image": "/images/seafood.jpg"
+        }
+      ],
+      "tips": [
+        "저렴한 교통수단인 썽태우를 이용하세요.",
+        "날씨가 매우 더울 수 있으므로 자외선 차단제를 바르세요."
+      ],
+      "bestTime": "11월부터 2월까지."
     }
   }
 }

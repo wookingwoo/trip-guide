@@ -5,7 +5,8 @@
     "explore": "都市を探索",
     "sapporo": "札幌",
     "rome": "ローマ",
-    "bangkok": "バンコク"
+    "bangkok": "バンコク",
+    "pattaya": "パタヤ"
   },
   "nav": {
     "home": "ホーム",
@@ -188,6 +189,42 @@
         "トゥクトゥクに乗る前に、運転手と料金を交渉してください。"
       ],
       "bestTime": "涼しい気候の11月から2月がおすすめです。"
+    },
+    "pattaya": {
+      "id": "pattaya",
+      "name": "パタヤ",
+      "country": "タイ",
+      "description": "タイランド湾の東海岸に位置するリゾート都市で、ビーチで知られています。",
+      "image": "/images/pattaya-hero.jpg",
+      "attractions": [
+        {
+          "name": "サンクチュア・オブ・トゥルース",
+          "description": "伝統的な仏教やヒンドゥー教のモチーフに基づいた彫刻で満たされた木造建築です。",
+          "image": "/images/sanctuary-of-truth.jpg"
+        },
+        {
+          "name": "ノンヌット・トロピカル・ガーデン",
+          "description": "500エーカーの植物園兼観光名所です。",
+          "image": "/images/nong-nooch.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "ソムタム",
+          "description": "スパイシーな青パパイヤのサラダです。",
+          "image": "/images/som-tum.jpg"
+        },
+        {
+          "name": "シーフード",
+          "description": "タイランド湾で獲れた新鮮なシーフードです。",
+          "image": "/images/seafood.jpg"
+        }
+      ],
+      "tips": [
+        "安価な移動手段としてソンテウ（乗り合いバス）を利用しましょう。",
+        "非常に暑くなることがあるので、日焼け止めを塗りましょう。"
+      ],
+      "bestTime": "11月から2月。"
     }
   }
 }

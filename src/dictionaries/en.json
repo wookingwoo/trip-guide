@@ -5,7 +5,8 @@
     "explore": "Explore Cities",
     "sapporo": "Sapporo",
     "rome": "Rome",
-    "bangkok": "Bangkok"
+    "bangkok": "Bangkok",
+    "pattaya": "Pattaya"
   },
   "nav": {
     "home": "Home",
@@ -188,6 +189,42 @@
         "Negotiate prices with tuk-tuk drivers before getting in."
       ],
       "bestTime": "November to February for cooler weather."
+    },
+    "pattaya": {
+      "id": "pattaya",
+      "name": "Pattaya",
+      "country": "Thailand",
+      "description": "A resort city in Thailand on the east coast of the Gulf of Thailand, known for its beaches.",
+      "image": "/images/pattaya-hero.jpg",
+      "attractions": [
+        {
+          "name": "Sanctuary of Truth",
+          "description": "An all-wood building filled with sculptures based on traditional Buddhist and Hindu motifs.",
+          "image": "/images/sanctuary-of-truth.jpg"
+        },
+        {
+          "name": "Nong Nooch Tropical Garden",
+          "description": "A 500-acre botanical garden and tourist attraction.",
+          "image": "/images/nong-nooch.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Som Tum",
+          "description": "A spicy green papaya salad.",
+          "image": "/images/som-tum.jpg"
+        },
+        {
+          "name": "Seafood",
+          "description": "Fresh seafood from the Gulf of Thailand.",
+          "image": "/images/seafood.jpg"
+        }
+      ],
+      "tips": [
+        "Use Songthaew (Baht bus) for cheap transport.",
+        "Wear sunscreen as it can get very hot."
+      ],
+      "bestTime": "November to February."
     }
   }
 }
