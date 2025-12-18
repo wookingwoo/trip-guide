@@ -92,17 +92,17 @@
       "name": "Rome",
       "country": "Italy",
       "description": "The Eternal City, known for its nearly 3,000 years of globally influential art, architecture, and culture.",
-      "image": "/images/rome-hero.jpg",
+      "image": "/images/rome-hero.png",
       "attractions": [
         {
           "name": "Colosseum",
           "description": "An oval amphitheatre in the centre of the city of Rome, Italy.",
-          "image": "/images/colosseum.jpg"
+          "image": "/images/colosseum.png"
         },
         {
           "name": "Trevi Fountain",
           "description": "A Baroque fountain in the Trevi district in Rome.",
-          "image": "/images/trevi-fountain.jpg"
+          "image": "/images/trevi_fountain.png"
         },
         {
           "name": "Pantheon",
@@ -124,12 +124,12 @@
         {
           "name": "Carbonara",
           "description": "An Italian pasta dish from Rome made with egg, hard cheese, cured pork, and black pepper.",
-          "image": "/images/carbonara.jpg"
+          "image": "/images/carbonara.png"
         },
         {
           "name": "Gelato",
           "description": "Italian ice cream.",
-          "image": "/images/gelato.jpg"
+          "image": "/images/gelato.png"
         },
         {
           "name": "Cacio e Pepe",

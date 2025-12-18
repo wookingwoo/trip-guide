@@ -92,17 +92,17 @@
       "name": "Roma",
       "country": "Italia",
       "description": "La Città Eterna, conosciuta per i suoi quasi 3.000 anni di arte, architettura e cultura influenti a livello globale.",
-      "image": "/images/rome-hero.jpg",
+      "image": "/images/rome-hero.png",
       "attractions": [
         {
           "name": "Colosseo",
           "description": "Un anfiteatro ovale nel centro della città di Roma, Italia.",
-          "image": "/images/colosseum.jpg"
+          "image": "/images/colosseum.png"
         },
         {
           "name": "Fontana di Trevi",
           "description": "Una fontana barocca nel rione Trevi a Roma.",
-          "image": "/images/trevi-fountain.jpg"
+          "image": "/images/trevi_fountain.png"
         },
         {
           "name": "Pantheon",
@@ -124,12 +124,12 @@
         {
           "name": "Carbonara",
           "description": "Un piatto di pasta italiano di Roma fatto con uova, formaggio a pasta dura, maiale stagionato e pepe nero.",
-          "image": "/images/carbonara.jpg"
+          "image": "/images/carbonara.png"
         },
         {
           "name": "Gelato",
           "description": "Gelato italiano.",
-          "image": "/images/gelato.jpg"
+          "image": "/images/gelato.png"
         },
         {
           "name": "Cacio e Pepe",

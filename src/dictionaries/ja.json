@@ -92,17 +92,17 @@
       "name": "ローマ",
       "country": "イタリア",
       "description": "永遠の都と呼ばれ、約3000年にわたる世界的に影響力のある芸術、建築、文化で知られています。",
-      "image": "/images/rome-hero.jpg",
+      "image": "/images/rome-hero.png",
       "attractions": [
         {
           "name": "コロッセオ",
           "description": "イタリアのローマ中心部にある楕円形の円形劇場です。",
-          "image": "/images/colosseum.jpg"
+          "image": "/images/colosseum.png"
         },
         {
           "name": "トレビの泉",
           "description": "ローマのトレビ地区にあるバロック様式の噴水です。",
-          "image": "/images/trevi-fountain.jpg"
+          "image": "/images/trevi_fountain.png"
         },
         {
           "name": "パンテオン",
@@ -124,12 +124,12 @@
         {
           "name": "カルボナーラ",
           "description": "卵、ハードチーズ、塩漬け豚肉、黒胡椒で作るローマのパスタ料理です。",
-          "image": "/images/carbonara.jpg"
+          "image": "/images/carbonara.png"
         },
         {
           "name": "ジェラート",
           "description": "イタリアのアイスクリームです。",
-          "image": "/images/gelato.jpg"
+          "image": "/images/gelato.png"
         },
         {
           "name": "カチョ・エ・ペペ",
