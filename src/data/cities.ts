@@ -292,6 +292,18 @@ export const cities: Record<string, City> = {
         image: "/images/tokyo-hero.svg",
       },
       {
+        name: "Tokyo Disneyland",
+        description:
+          "The first Disney park to open outside the United States, part of Tokyo Disney Resort in Maihama. It is built around classic Disney lands, parade culture, and attractions and shows found only at Tokyo Disneyland.",
+        image: "/images/tokyo-hero.svg",
+      },
+      {
+        name: "Tokyo DisneySea",
+        description:
+          "The only Disney park themed to the myths and legends of the sea, also located within Tokyo Disney Resort in Maihama. Its themed ports, larger-scale atmosphere, and park design make it one of Japan's most distinctive destination parks.",
+        image: "/images/tokyo-hero.svg",
+      },
+      {
         name: "Ueno Park and the Tokyo National Museum",
         description:
           "A classic cultural zone where museums, seasonal greenery, temples, and local everyday life come together in one of the city's most rewarding walkable areas.",
