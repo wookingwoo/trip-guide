@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Discover Your Next Adventure",
-    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, and Pattaya with our premium guide.",
+    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, Pattaya, and Cebu with our premium guide.",
     "explore": "Explore Cities",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -9,7 +9,8 @@
     "sapporo": "Sapporo",
     "rome": "Rome",
     "bangkok": "Bangkok",
-    "pattaya": "Pattaya"
+    "pattaya": "Pattaya",
+    "cebu": "Cebu"
   },
   "nav": {
     "home": "Home",
@@ -730,6 +731,126 @@
         {
           "title": "Seafood and Sunset Evening",
           "description": "Finish with a seafood dinner and either a relaxed seafront walk or a more energetic nightlife route depending on your base area."
+        }
+      ]
+    },
+    "cebu": {
+      "id": "cebu",
+      "name": "Cebu",
+      "country": "Philippines",
+      "description": "Cebu is the main urban gateway to the central Philippines, combining Spanish-colonial landmarks, serious local food culture, traffic-heavy but practical city infrastructure, and quick access to Mactan resorts, marine activities, and island day trips.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Basilica Minore del Santo Nino and Magellan's Cross",
+          "description": "The core of Cebu's historic district, where Catholic devotion, colonial memory, and nonstop visitor activity overlap in a compact area. It is one of the clearest places to understand why Cebu matters so much in the religious history of the Philippines.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Fort San Pedro",
+          "description": "A compact Spanish-era fort that is easy to visit in under an hour, yet still explains Cebu's role as a fortified trading and colonial outpost through its walls, courtyard, and small exhibits.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Parian District and the Heritage of Cebu Monument",
+          "description": "This heritage cluster helps connect missionary history, old merchant neighborhoods, and the layered urban past of Cebu through monuments, ancestral-house museums, and nearby historic streets.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tops Lookout and the Busay Highlands",
+          "description": "The high ground above the city gives a wide view over Cebu's dense urban core, the port, the Mactan channel, and the evening lights. It is especially rewarding around sunset and after dark.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mactan Shrine and the Lapu-Lapu Waterfront",
+          "description": "A historical stop tied to the Battle of Mactan and the figure of Lapu-Lapu, but also part of a broader coastal area where resorts, seafood restaurants, and seaside excursions define a different side of Metro Cebu.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mactan Island-Hopping Routes",
+          "description": "Boat and snorkeling trips toward places such as Hilutungan, Nalusuan, or Caohagan make it obvious that Cebu is not just a city break. The metro area works as a direct bridge between urban travel and tropical marine time.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Cebu Lechon",
+          "description": "Cebu's most famous dish is all about crisp skin, aromatic stuffing, and richly seasoned meat. It is often considered more assertively flavored than Manila-style lechon, and the best-known spots can sell out early.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Sutukil Seafood",
+          "description": "Short for sugba, tula, and kilaw, this format lets you compare grilled, soupy, and lightly cured seafood preparations in one meal. It is one of the most practical ways to explore Cebu's seafood identity with a group.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Puso and Street Barbecue",
+          "description": "Puso, the woven hanging rice packet, is one of the most recognizable Cebu staples. Paired with grilled meat, it feels far more local in simple eateries and barbecue strips than in polished restaurants.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Larsian Grilled Nights",
+          "description": "Larsian-style barbecue dining turns smoke, heat, open grills, and casual ordering into part of the travel experience. It is less about refinement and more about diving into Cebu's evening food rhythm.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mango Desserts and Dried Mango",
+          "description": "Cebu is one of the easiest places to enjoy Philippine mango in many forms, from shakes and cakes to packaged dried mango that works as an obvious souvenir without feeling generic.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Danggit and Silog Breakfasts",
+          "description": "Crisp dried fish, garlic rice, and eggs make for a deeply local breakfast that gives a stronger sense of everyday Cebu than resort buffets alone.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Treat Cebu City days and Mactan beach or boat days as different kinds of trips. Trying to force both into one rushed day usually means more time in traffic than at the places you actually care about.",
+        "Grab, taxis, and private cars are the most realistic default for visitors, and airport transfers across the bridges can take much longer than the map suggests during rush periods.",
+        "Well-known lechon shops and seafood places can peak hard around lunch and dinner, so going earlier or ordering ahead is often worth it.",
+        "Even in the drier months the sun is strong, and in wetter periods short heavy rain can arrive suddenly, so light layers, sandals, and a small waterproof pouch are genuinely useful.",
+        "Dress a little more conservatively for church visits such as Santo Nino, and keep some cash for markets, small stores, tips, and simpler local food stops.",
+        "Island-hopping prices vary because operators include different things, so check in advance whether marine fees, gear rental, lunch, and hotel pickup are part of the quoted rate.",
+        "If you also want South Cebu canyoneering, Oslob, or a Bohol side trip, do not casually stack them onto an urban Cebu day. Those plans usually work better as separate early-start days."
+      ],
+      "bestTime": "December to May is the easiest dry-season window for clearer seas, easier boat plans, and more predictable urban sightseeing. January's Sinulog season is the city's most electric cultural moment but also one of the busiest and most expensive periods. June to November can still work if you accept sudden rain, occasional windier sea conditions, and a slower pace.",
+      "overview": "Cebu works best when you treat it as both a city and a launch point. The urban core is not polished in the same way as a resort island, but that is part of the value: churches, markets, barbecue smoke, malls, ferries, and business districts sit close to airport transfers, beach resorts, and marine excursions. Travelers who separate historic Cebu City, modern commercial districts, and Mactan's seaside rhythm usually get much more out of the area than those who expect one uniform tropical atmosphere.",
+      "highlights": [
+        "Historic plazas, major malls, night food zones, port infrastructure, and resort coastlines all sit within the same metro area, so the character of the trip can change quickly.",
+        "Cebu's food scene is approachable but distinct, with lechon, barbecue, seafood, and mango-driven snacks giving meals real destination value.",
+        "The combination of Mactan airport access, ferry links, resorts, snorkeling routes, and overland departures makes Cebu one of the most practical hubs in the central Philippines."
+      ],
+      "gettingAround": [
+        "Metro Cebu is still car-first rather than rail-based, so most visitors should assume a Grab, taxi, or driver-led plan and build in more time than the map implies.",
+        "Cebu City center, the Busay hills, and Mactan Island feel much farther apart when bridges and traffic slow down, so grouping the day by zone is usually the smartest strategy.",
+        "Island-hopping and southern excursions are easier with early departures, private transfers, or organized tours, and return times should stay conservative because road congestion can build late in the day."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Cebu Business Park and Ayala Center",
+          "description": "The easiest city base for first-time visitors thanks to malls, cafés, exchange services, and dependable dining within a more orderly part of Cebu."
+        },
+        {
+          "name": "IT Park and Lahug",
+          "description": "A good fit if you want a more modern urban feel, late-opening food options, cafés, and easier evening movement without committing to a beach stay."
+        },
+        {
+          "name": "Mactan Island and Lapu-Lapu",
+          "description": "Best if your trip leans toward early flights, resorts, diving, or boat outings and you do not need to sleep in the city center every night."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Heritage Core and Lechon Day",
+          "description": "Start with Santo Nino, Magellan's Cross, and Fort San Pedro before the heat builds, make lechon the anchor for lunch, then use the afternoon for the Parian heritage area, a museum stop, or an easier mall-based evening."
+        },
+        {
+          "title": "Urban Cebu and Busay Sunset",
+          "description": "Use the middle of the day for cafés, shopping, or a slower city rhythm around Ayala or IT Park, then head uphill toward Tops around late afternoon for wide views and a more atmospheric finish after dark."
+        },
+        {
+          "title": "Mactan and Marine Day",
+          "description": "Leave early for snorkeling or island-hopping from Mactan, slow down later at a resort or beachside venue, and end with seafood near the water for the clearest contrast to the inland city experience."
         }
       ]
     }

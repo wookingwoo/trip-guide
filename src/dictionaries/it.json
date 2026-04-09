@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Scopri la tua prossima avventura",
-    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok e Pattaya con la nostra guida premium.",
+    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok, Pattaya e Cebu con la nostra guida premium.",
     "explore": "Esplora le città",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -9,7 +9,8 @@
     "sapporo": "Sapporo",
     "rome": "Roma",
     "bangkok": "Bangkok",
-    "pattaya": "Pattaya"
+    "pattaya": "Pattaya",
+    "cebu": "Cebu"
   },
   "nav": {
     "home": "Home",
@@ -730,6 +731,126 @@
         {
           "title": "Sera di pesce e tramonto",
           "description": "Concludi con una cena di pesce e una passeggiata sul mare, oppure passa a una serata più vivace in base alla zona in cui alloggi."
+        }
+      ]
+    },
+    "cebu": {
+      "id": "cebu",
+      "name": "Cebu",
+      "country": "Filippine",
+      "description": "Cebu è la principale porta urbana delle Filippine centrali e mescola monumenti dell'epoca coloniale spagnola, una cucina locale molto forte, infrastrutture cittadine pratiche ma trafficate e accessi rapidi ai resort di Mactan, al mare e alle gite tra le isole.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Basilica Minore del Santo Nino e Croce di Magellano",
+          "description": "È il cuore della Cebu storica, dove devozione cattolica, memoria coloniale e flusso continuo di visitatori convivono nello stesso spazio. È uno dei luoghi migliori per capire perché Cebu abbia un peso così forte nella storia religiosa del paese.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Fort San Pedro",
+          "description": "Una piccola fortificazione di epoca spagnola che si visita facilmente, ma che attraverso mura, cortile e piccole esposizioni spiega bene il ruolo di Cebu come avamposto commerciale e coloniale sul mare.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Quartiere Parian e Heritage of Cebu Monument",
+          "description": "Questa zona mette insieme tracce del passato mercantile, memoria missionaria, monumenti e case storiche, permettendo di leggere la crescita urbana di Cebu con uno spostamento relativamente compatto.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tops Lookout e alture di Busay",
+          "description": "Dall'alto si apre una vista ampia sul centro urbano, sul porto, sul canale di Mactan e sulle luci serali. È un posto che dà il meglio verso il tramonto e nelle prime ore della notte.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mactan Shrine e waterfront di Lapu-Lapu",
+          "description": "È un punto legato alla battaglia di Mactan e alla figura di Lapu-Lapu, ma anche parte di una zona costiera dove resort, ristoranti di mare e uscite sull'acqua mostrano un lato molto diverso della metropoli.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Itinerari di island hopping da Mactan",
+          "description": "Le uscite in barca e snorkeling verso Hilutungan, Nalusuan o Caohagan fanno capire subito che Cebu non è solo una città. Qui il passaggio tra ritmo urbano e mare tropicale è diretto e pratico.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Lechon di Cebu",
+          "description": "Il piatto simbolo di Cebu punta su pelle croccante, ripieno aromatico e carne ben condita. In molti lo trovano più deciso del lechon di Manila, e i locali più famosi possono terminare presto.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Seafood Sutukil",
+          "description": "Il nome richiama sugba, tula e kilaw e permette di assaggiare pesce e frutti di mare grigliati, in brodo o marinati leggermente nello stesso pasto. È un ottimo formato per capire la cucina marina locale.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Puso e barbecue di strada",
+          "description": "Il puso, il riso racchiuso nelle foglie di cocco intrecciate, è uno dei simboli più immediati di Cebu. Con la carne alla griglia rende meglio nelle zone popolari e nei barbecue spot che nei ristoranti più eleganti.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Le grigliate di Larsian",
+          "description": "Mangiare in stile Larsian significa entrare in un'atmosfera fatta di fumo, calore, griglie aperte e ordinazioni informali. È un'esperienza serale molto più legata al ritmo locale che alla raffinatezza.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Dolci al mango e mango essiccato",
+          "description": "Cebu è uno dei luoghi più facili per godersi il mango filippino in molte forme, tra frullati, dessert e confezioni di mango essiccato che funzionano davvero come souvenir.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Danggit e colazioni silog",
+          "description": "Pesce essiccato croccante, riso all'aglio e uova compongono una colazione molto locale, utile per capire la quotidianità di Cebu oltre il comfort standard dei resort.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Le giornate dedicate a Cebu City e quelle orientate a Mactan o al mare hanno ritmi diversi. Se provi a fare tutto nello stesso giorno, rischi soprattutto di accumulare trasferimenti lenti.",
+        "Grab, taxi e auto con autista sono la scelta più realistica per i visitatori, e i trasferimenti aeroportuali attraverso i ponti possono richiedere molto più tempo di quanto sembri sulla mappa.",
+        "I lechon restaurant più noti e i locali di pesce più richiesti si riempiono nelle fasce forti, quindi arrivare presto o ordinare prima può fare una differenza concreta.",
+        "Anche nella stagione più asciutta il sole è forte, e nei mesi più umidi gli scrosci improvvisi sono reali: sandali, uno strato leggero e una piccola custodia impermeabile sono più utili del previsto.",
+        "Per visite religiose come Santo Nino conviene vestirsi in modo più sobrio e tenere con sé un po' di contanti per mercati, piccoli negozi, mance e soste di cucina locale.",
+        "I prezzi dell'island hopping cambiano molto perché ogni operatore include cose diverse: vale la pena controllare prima se nel costo rientrano tasse marine, attrezzatura, pranzo e pickup dall'hotel.",
+        "Se vuoi aggiungere South Cebu, Oslob, canyoning o anche Bohol, non trattarli come semplici appendici della città. In genere funzionano meglio come giornate separate con partenza molto presto."
+      ],
+      "bestTime": "Da dicembre a maggio è più facile combinare città e mare grazie alla stagione secca, con acque spesso più leggibili e programmi in barca più stabili. Il periodo del Sinulog a gennaio è il momento culturale più intenso della città, ma comporta anche più folla e costi più alti. Da giugno a novembre si viaggia ancora bene se si accettano piogge improvvise, qualche mare più mosso e un ritmo meno serrato.",
+      "overview": "Cebu dà il meglio se la consideri insieme città e piattaforma di partenza. Il nucleo urbano non ha la patina uniforme di un'isola-resort, e proprio qui sta parte del suo interesse: chiese, mercati, fumo di barbecue, mall, traghetti e quartieri direzionali convivono a poca distanza da resort, spiagge e uscite marine. Chi distingue la Cebu storica, i distretti commerciali moderni e il ritmo costiero di Mactan di solito capisce molto meglio il valore reale della zona.",
+      "highlights": [
+        "Piazze storiche, grandi centri commerciali, zone food serali, porto e costa resort convivono nella stessa area metropolitana, quindi il tono del viaggio cambia rapidamente.",
+        "La scena gastronomica è accessibile ma molto riconoscibile, con lechon, barbecue, seafood e sapori di mango che danno ai pasti un peso reale nell'esperienza.",
+        "Tra aeroporto di Mactan, collegamenti in traghetto, resort, snorkeling e partenze via terra verso altre zone, Cebu è uno degli hub più pratici delle Filippine centrali."
+      ],
+      "gettingAround": [
+        "Metro Cebu resta fortemente basata sull'auto più che sul trasporto ferroviario, quindi conviene dare per scontati Grab, taxi o driver privati e calcolare tempi larghi.",
+        "Centro città, colline di Busay e isola di Mactan possono sembrare vicini, ma traffico e ponti cambiano molto la percezione delle distanze, quindi è meglio organizzare la giornata per zone.",
+        "Island hopping ed escursioni verso il sud funzionano meglio con partenze presto, transfer privati o tour organizzati, e l'orario di rientro va tenuto prudente per non farsi sorprendere dal traffico."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Cebu Business Park e Ayala Center",
+          "description": "La base urbana più semplice per una prima visita grazie a mall, caffè, cambio valuta e ristorazione affidabile in una parte relativamente ordinata della città."
+        },
+        {
+          "name": "IT Park e Lahug",
+          "description": "Ideale se preferisci un'atmosfera più moderna, locali aperti fino a tardi, caffè e maggiore facilità nei movimenti serali senza passare a un soggiorno balneare."
+        },
+        {
+          "name": "Isola di Mactan e Lapu-Lapu",
+          "description": "La scelta migliore se il viaggio ruota soprattutto attorno a voli presto, resort, immersioni, snorkeling o uscite in barca più che alla vita nel centro città."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata tra centro storico e lechon",
+          "description": "Inizia presto con Santo Nino, Croce di Magellano e Fort San Pedro, usa il lechon come pranzo principale, poi dedica il pomeriggio al Parian, a un museo o a una chiusura più rilassata tra mall e mercati serali."
+        },
+        {
+          "title": "Cebu urbana e tramonto a Busay",
+          "description": "Nelle ore centrali alterna caffè, shopping e pause intorno ad Ayala o IT Park, poi sali verso Tops nel tardo pomeriggio per una vista ampia e un finale più atmosferico dopo il tramonto."
+        },
+        {
+          "title": "Mactan e mare",
+          "description": "Parti presto per snorkeling o island hopping da Mactan, rallenta nel pomeriggio in resort o sul lungomare e chiudi con una cena di pesce per sentire bene il contrasto con la parte più urbana di Cebu."
         }
       ]
     }
