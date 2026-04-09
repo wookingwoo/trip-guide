@@ -2,7 +2,7 @@
 
 import { Box, Container, Heading, SimpleGrid, Text, VStack } from '@chakra-ui/react';
 import CityCard from './CityCard';
-import { City } from '@/data/cities';
+import { City } from '@/types/city';
 
 export default function HomePageContent({
     lang,

@@ -20,7 +20,12 @@
     "food": "Must-Try Foods",
     "tips": "Travel Tips",
     "bestTime": "Best Time to Visit",
-    "back": "Back to Home"
+    "back": "Back to Home",
+    "overview": "Overview",
+    "highlights": "What Stands Out",
+    "gettingAround": "Getting Around",
+    "recommendedAreas": "Recommended Areas",
+    "sampleItinerary": "Sample Itinerary"
   },
   "cities": {
     "tokyo": {
@@ -97,7 +102,46 @@
         "Comfortable shoes matter more than almost anything else; even train-focused itineraries usually involve long station walks.",
         "Keep a small amount of cash despite Tokyo's improving card acceptance, especially for shrines, tiny eateries, and older shops."
       ],
-      "bestTime": "Late March to May and October to November are the easiest seasons for long city walks, while winter offers crisp air, illuminations, and comparatively clear views from observation decks."
+      "bestTime": "Late March to May and October to November are the easiest seasons for long city walks, while winter offers crisp air, illuminations, and comparatively clear views from observation decks.",
+      "overview": "Tokyo rewards selectivity more than speed. The city feels richest when you stay inside a few neighborhoods each day and let shrines, backstreets, department-store food halls, museums, cafés, and observation decks build a rhythm instead of trying to race through landmarks.",
+      "highlights": [
+        "The contrast between older eastern districts and trend-driven western neighborhoods is one of the clearest ways to understand how broad Tokyo really is.",
+        "Food is not limited to famous reservations: station complexes, depachika basements, side streets, and specialist neighborhoods make casual eating unusually strong.",
+        "Tokyo keeps rewarding repeat visits because museums, seasonal events, temporary exhibitions, and neighborhood micro-scenes change the experience constantly."
+      ],
+      "gettingAround": [
+        "JR, Tokyo Metro, and private railways cover almost everything, and an IC card is still the easiest default for visitors.",
+        "Plan by area rather than by landmark so you spend more time walking interesting streets and less time crossing the city back and forth.",
+        "Major stations can be destinations in themselves, so allow transfer time and pay attention to exits if you want to avoid unnecessary detours."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Asakusa and Sumida",
+          "description": "Strong for first visits that mix classic temple scenery, river views, older shopping streets, and Skytree access."
+        },
+        {
+          "name": "Shibuya, Harajuku, and Omotesando",
+          "description": "Best for contemporary Tokyo energy, fashion, youth culture, design shops, cafés, and easy evening movement into Shinjuku."
+        },
+        {
+          "name": "Ueno and Yanaka",
+          "description": "A good choice if you want museums, park space, older neighborhood texture, and a slightly slower pace than the major nightlife hubs."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Classic East Tokyo Day",
+          "description": "Begin with Senso-ji and nearby snacks, continue toward Skytree or river views, then finish with an evening food crawl in another eastern neighborhood."
+        },
+        {
+          "title": "Modern West Tokyo Day",
+          "description": "Spend the afternoon between Harajuku, Omotesando, and Shibuya, then stay into the evening for city lights, shopping, and casual nightlife."
+        },
+        {
+          "title": "Culture and Green Space Route",
+          "description": "Pair Ueno's museums with a quieter neighborhood walk or a shrine visit to balance Tokyo's density with time outdoors."
+        }
+      ]
     },
     "fuji": {
       "id": "fuji",
@@ -167,7 +211,46 @@
         "Bring a wide-angle lens or extra phone storage if you like photography because views change constantly with weather and light.",
         "If you stay into the evening, combine a daytime Mt. Fuji viewpoint with the industrial night view for two very different versions of the city."
       ],
-      "bestTime": "Late February to April is best for plum and cherry blossom scenery, May for vivid tea fields, and November to February for the clearest long-range views of Mt. Fuji."
+      "bestTime": "Late February to April is best for plum and cherry blossom scenery, May for vivid tea fields, and November to February for the clearest long-range views of Mt. Fuji.",
+      "overview": "Fuji City works best for travelers who enjoy local texture, photography, and changing landscapes more than major headline attractions. The appeal is seeing Mt. Fuji appear above tea fields, ports, neighborhoods, and industrial areas that feel distinctly lived in rather than staged for tourism.",
+      "highlights": [
+        "Tea-field viewpoints and port observatories give you some of the most distinctive Mt. Fuji compositions in Shizuoka.",
+        "The city has an honest local character, where spring water, paper-industry history, rail lines, and factory scenery all shape the atmosphere.",
+        "Fuji City is especially rewarding for visitors who like to plan around weather, light, and photography rather than only famous landmarks."
+      ],
+      "gettingAround": [
+        "Spots are spread out enough that a rental car, taxi, or careful station-to-taxi planning is usually more realistic than relying on simple walking itineraries.",
+        "Shin-Fuji Station is convenient for shinkansen arrivals, while local rail and bus options are better understood as support rather than full sightseeing coverage.",
+        "View-focused plans should start early because Mt. Fuji visibility often looks best in the morning before haze and cloud build up."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Shin-Fuji and Fuji Station",
+          "description": "The most practical zone for arrival, hotels, and assembling short trips out to viewpoints, museums, and food stops."
+        },
+        {
+          "name": "Obuchi Sasaba and Iwamotoyama",
+          "description": "Best for tea-field scenery, blossom season, and the most photogenic daytime Mt. Fuji views."
+        },
+        {
+          "name": "Tagonoura and the Gakunan Area",
+          "description": "Worth prioritizing if you want port landscapes, shirasu lunches, and the more industrial side of Fuji City after sunset."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Mt. Fuji View Morning",
+          "description": "Start early at Obuchi Sasaba or another tea-field viewpoint, then move to Iwamotoyama if blossoms or seasonal flowers are in good condition."
+        },
+        {
+          "title": "Local Culture Midday",
+          "description": "Use the warmer middle of the day for the museum, a spring-water café stop, or a relaxed lunch built around shirasu or tsuke Napolitan."
+        },
+        {
+          "title": "Port and Night View Finish",
+          "description": "End at Tagonoura or the Gakunan industrial area to contrast the daytime mountain scenery with the city's atmospheric evening lights."
+        }
+      ]
     },
     "shizuoka": {
       "id": "shizuoka",
@@ -237,7 +320,46 @@
         "Carry a light outer layer even in mild seasons because coastal areas and observation points can feel windy.",
         "Many historic shops and tea stores close earlier than nightlife districts in Tokyo, so start food shopping before evening."
       ],
-      "bestTime": "Late March to May is excellent for spring scenery, shrine walks, and fresh tea season, while October to early December often brings comfortable weather and clearer Mt. Fuji views."
+      "bestTime": "Late March to May is excellent for spring scenery, shrine walks, and fresh tea season, while October to early December often brings comfortable weather and clearer Mt. Fuji views.",
+      "overview": "Shizuoka rewards travelers who want a balanced day rather than a checklist of blockbuster sights. In a fairly compact area you can move between Tokugawa history, shrine architecture, tuna lunches, tea culture, and Mt. Fuji viewpoints with much less crowd pressure than in Japan's biggest cities.",
+      "highlights": [
+        "The city combines castle-town history and shrine culture with a calm everyday rhythm that feels easier to absorb than Kyoto or Tokyo.",
+        "Tea, tuna, sakura shrimp, and oden give Shizuoka a food identity that is both regional and very accessible to casual travelers.",
+        "Nearby viewpoints such as Nihondaira and Miho no Matsubara make the Mt. Fuji connection feel like part of the city, not a separate excursion."
+      ],
+      "gettingAround": [
+        "Around Shizuoka Station and Sunpu Castle Park, many key stops are reachable on foot, so central sightseeing is simpler than the map first suggests.",
+        "Kunozan, Nihondaira, Miho, and parts of Shimizu are easier by bus, taxi, or a ropeway connection than by trying to walk between them.",
+        "If Mt. Fuji views are important, stay flexible and move viewpoint visits earlier in the day because visibility often drops as clouds build."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Shizuoka Station and Sunpu",
+          "description": "A strong base for first visits with easy rail access, castle-park walks, shopping arcades, and older oden and tea spots nearby."
+        },
+        {
+          "name": "Nihondaira and Kunozan",
+          "description": "Best for panoramic scenery, ropeway access, and a more dramatic combination of sea, mountain, and shrine architecture."
+        },
+        {
+          "name": "Shimizu Port and Miho",
+          "description": "Ideal if seafood, harbor atmosphere, and the classic pine-grove coastline tied to Mt. Fuji matter more than downtown shopping."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "History and Tea Morning",
+          "description": "Begin around Sunpu Castle Park and Shizuoka Sengen Shrine, then pause for tea or sweets before moving toward the afternoon viewpoints."
+        },
+        {
+          "title": "Mt. Fuji View Afternoon",
+          "description": "Head to Nihondaira Yume Terrace and connect to Kunozan Toshogu if the weather is clear enough to make the panorama worthwhile."
+        },
+        {
+          "title": "Seafood Evening",
+          "description": "Finish in the Shimizu side with tuna or shirasu if timing works, or return to central Shizuoka for oden and a slower night walk."
+        }
+      ]
     },
     "sapporo": {
       "id": "sapporo",
@@ -300,11 +422,52 @@
         }
       ],
       "tips": [
-        "Wear non-slip shoes in winter as it snows heavily.",
-        "Book accommodation in advance during the Snow Festival in February.",
-        "Use the well-developed underground walkways for convenient travel."
+        "Non-slip footwear matters from late autumn through winter because packed snow and hidden ice can make even short walks slow.",
+        "Reserve hotels early if you plan to visit during the Snow Festival or major winter weekends.",
+        "Sapporo Station and Odori are the easiest bases if you want simple transport and flexible dining choices.",
+        "Popular ramen alleys, lamb barbecue restaurants, and seafood counters can peak late, so slightly early dinners often save time.",
+        "Even in summer, evenings can cool down quickly compared with Tokyo or Osaka, so a light layer is worth carrying."
       ],
-      "bestTime": "February for the Snow Festival, July-August for flowers and cool weather."
+      "bestTime": "February is best if the Snow Festival is your priority, but it is also the coldest and busiest period. Late May through August is the easiest season for long walks and beer gardens, while October offers crisp air and autumn color without winter logistics.",
+      "overview": "Sapporo is one of Japan's easiest northern cities for a first visit: the center is orderly, food is a major attraction, and the seasonal change is visible everywhere. It works well both as a compact city break and as a comfortable base for a broader Hokkaido trip.",
+      "highlights": [
+        "A walkable core around Odori, Sapporo Station, and Susukino lets you combine sightseeing, shopping, and late-night food without long transfers.",
+        "Miso ramen, soup curry, seafood bowls, lamb barbecue, and dairy desserts are central reasons to visit rather than extras between landmarks.",
+        "The city changes dramatically by season, from snow and illuminations in winter to beer gardens and flower displays in the milder months."
+      ],
+      "gettingAround": [
+        "The subway is the default way to move between Sapporo Station, Odori, Susukino, and outer neighborhoods, while many central routes are also easy on foot.",
+        "JR trains connect New Chitose Airport directly, but winter weather can slow transfers, so leave extra time if you have tight plans on arrival or departure day.",
+        "Underground walkways are especially useful from late autumn through early spring because they link major stations, department stores, and business blocks."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Odori and Susukino",
+          "description": "Best for first-time visitors who want easy access to nightlife, shopping streets, ramen spots, and the main festival and illumination areas."
+        },
+        {
+          "name": "Sapporo Station",
+          "description": "A practical base for airport transfers, JR day trips, department stores, and fast access to both central and regional transport."
+        },
+        {
+          "name": "Maruyama and Hokkaido Shrine",
+          "description": "A calmer side of the city with greener walks, local cafés, and a more residential feel that balances the busier downtown grid."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Central Sapporo Day",
+          "description": "Start in Odori Park, continue toward the historic government district and Sapporo Station area, then spend the evening in Susukino for ramen or jingisukan."
+        },
+        {
+          "title": "Culture and Sweets Route",
+          "description": "Pair Hokkaido Shrine or Maruyama with Shiroi Koibito Park and finish with coffee, parfait, or soft serve back in the center."
+        },
+        {
+          "title": "Winter-Focused Plan",
+          "description": "Use the underground network during the day, visit the Beer Museum or indoor sights, and return outdoors after dark for festival lights or snow scenery."
+        }
+      ]
     },
     "rome": {
       "id": "rome",
@@ -321,7 +484,7 @@
         {
           "name": "Trevi Fountain",
           "description": "A Baroque fountain in the Trevi district in Rome.",
-          "image": "/images/trevi_fountain.png"
+          "image": "/images/trevi-fountain.png"
         },
         {
           "name": "Pantheon",
@@ -367,11 +530,52 @@
         }
       ],
       "tips": [
-        "Booking tickets for the Colosseum and Vatican Museums in advance is essential.",
-        "Note that restaurants often charge for water.",
-        "Beware of pickpockets and keep your bag in front of you."
+        "Book the Colosseum, Roman Forum, and Vatican Museums before arrival if they are priorities, especially in spring, summer, and holiday periods.",
+        "Expect uneven stone streets, steps, and long walking days even on seemingly short itineraries through the center.",
+        "Restaurants directly beside famous monuments are often paying for the address; better-value meals usually appear a few streets away.",
+        "Early morning and late evening give the best balance of light, temperature, and crowd levels for outdoor sightseeing.",
+        "Keep bags secure on buses, in metro stations, and around the most crowded fountains, steps, and transport hubs."
       ],
-      "bestTime": "Spring (April-May) or Autumn (September-October) are the best times to travel for mild weather."
+      "bestTime": "April to June and late September to early November usually offer the best balance of light, temperature, and walkability. July and August can be beautiful but hot and crowded, while winter is calmer and often excellent for museums, long lunches, and easier reservations.",
+      "overview": "Rome is less a checklist city than a long historical walk stitched together by piazzas, churches, ruins, espresso bars, and neighborhood meals. Distances can look short on the map, but the city is most rewarding when you leave time for detours, viewpoints, and long pauses between the big monuments.",
+      "highlights": [
+        "Ancient ruins, Baroque fountains, and ordinary residential streets overlap so tightly that even short walks can feel historically dense.",
+        "Roman food culture is strongest when you think neighborhood by neighborhood, mixing pasta classics, pizza al taglio, markets, and evening aperitivo stops.",
+        "Rome's best moments often happen outside ticketed sites, especially in morning light, late-evening piazzas, and slower side streets."
+      ],
+      "gettingAround": [
+        "Much of the historic center is best experienced on foot, so comfortable shoes and realistic walking expectations matter more than perfect transit planning.",
+        "The metro is limited but useful for longer jumps such as the Vatican, Termini, or the Colosseum area, while buses help fill the gaps.",
+        "Start major sightseeing early because queues, heat, and group tours build quickly around the most famous monuments."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Centro Storico and Pantheon",
+          "description": "Best for postcard Rome, with easy access to piazzas, fountains, churches, and evening walks that feel atmospheric even without a fixed plan."
+        },
+        {
+          "name": "Monti and the Colosseum Area",
+          "description": "A strong base for ancient-Rome priorities, combining major ruins with smaller streets, wine bars, and a more local rhythm after the day crowds thin out."
+        },
+        {
+          "name": "Trastevere and Prati",
+          "description": "Choose Trastevere for lively evenings and characterful lanes, or Prati for a calmer stay near the Vatican and broader avenues."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Ancient Rome Morning",
+          "description": "Start with the Colosseum and Roman Forum while crowds are still manageable, then continue with a slower lunch instead of stacking too many museums immediately after."
+        },
+        {
+          "title": "Historic Center Afternoon",
+          "description": "Walk between the Pantheon, Piazza Navona, and the Trevi area, leaving time for coffee, churches, and the visual rhythm of small streets in between."
+        },
+        {
+          "title": "Evening in Trastevere",
+          "description": "Cross the river for dinner, wine, and a looser night walk where the atmosphere is often more memorable than ticking off another monument."
+        }
+      ]
     },
     "bangkok": {
       "id": "bangkok",
@@ -404,10 +608,52 @@
         }
       ],
       "tips": [
-        "Dress modestly when visiting temples.",
-        "Negotiate prices with tuk-tuk drivers before getting in."
+        "Start outdoor sightseeing early because temple compounds and market streets feel much more comfortable before late-morning heat builds.",
+        "Use BTS, MRT, and river boats whenever practical, and treat taxis as selective tools rather than the default for every move.",
+        "Carry water, tissues, and a small towel or wipes because heat, humidity, and quick street-food stops make them useful throughout the day.",
+        "Dress modestly for temple visits and keep a light layer handy for heavily air-conditioned malls, trains, and restaurants.",
+        "If rooftop bars, special dinners, or famous cafés matter to you, reserve ahead rather than assuming walk-ins will be easy."
       ],
-      "bestTime": "November to February for cooler weather."
+      "bestTime": "November to February is the easiest season for most visitors thanks to lower humidity and more comfortable walking weather. March to May is much hotter, while the rainy months can still be rewarding if you plan around short heavy showers and rely more on transit, malls, and indoor breaks.",
+      "overview": "Bangkok works best when you mix its contrasts instead of choosing only one side of the city. River temples, royal history, modern rail corridors, giant malls, street food zones, and late-night rooftops all make more sense when you build in rest, shade, and realistic travel times.",
+      "highlights": [
+        "The city shifts quickly between ornate temple architecture, dense market streets, glossy shopping districts, and surprisingly calm riverside stretches.",
+        "Bangkok is one of Asia's easiest cities for spontaneous eating, from quick market snacks to destination restaurants and rooftop bars.",
+        "Transport choices shape the experience: boats, BTS, MRT, taxis, and walking each reveal a different version of the city."
+      ],
+      "gettingAround": [
+        "BTS and MRT are the most reliable ways to skip traffic on longer urban moves, while river boats are especially useful for temple-heavy days.",
+        "Road traffic can change travel times dramatically, so avoid packing too many cross-city transfers into a single afternoon.",
+        "Heat and humidity are part of the planning equation, so indoor pauses and short taxi hops can make a full day much more sustainable."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Riverside and the Old City",
+          "description": "Best for first-time visitors focused on temples, palace sights, historic atmosphere, and boat-based movement along the river."
+        },
+        {
+          "name": "Sukhumvit",
+          "description": "The most convenient base for rail access, malls, international dining, nightlife, and a wide range of hotels."
+        },
+        {
+          "name": "Silom and Sathorn",
+          "description": "A strong middle ground with food, business-district convenience, rooftop bars, and easier access to both old and modern Bangkok."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Temple and River Morning",
+          "description": "Begin early with the Grand Palace area or Wat Pho, then use the river to connect to Wat Arun or another riverside stop before the heat peaks."
+        },
+        {
+          "title": "Modern Bangkok Afternoon",
+          "description": "Shift to a BTS-connected district for malls, cafés, or air-conditioned museum and shopping time during the hottest part of the day."
+        },
+        {
+          "title": "Night Market or Rooftop Finish",
+          "description": "End with a food-focused evening, either at a market for casual variety or at a rooftop bar if you want skyline views and a slower pace."
+        }
+      ]
     },
     "pattaya": {
       "id": "pattaya",
@@ -440,10 +686,52 @@
         }
       ],
       "tips": [
-        "Use Songthaew (Baht bus) for cheap transport.",
-        "Wear sunscreen as it can get very hot."
+        "Pick accommodation by area first because the mood and convenience level vary more than many first-time visitors expect.",
+        "Check sea conditions if an island day trip is important, especially during windier or wetter periods.",
+        "Use baht buses for simple main-road movement, but confirm taxi or private-transfer fares before longer trips.",
+        "Weekends and Thai holiday periods can bring heavier local crowds, so allow extra time for restaurants and road traffic.",
+        "Sun protection, sandals, and a small dry bag are useful if your days mix beaches, boats, and evening markets."
       ],
-      "bestTime": "November to February."
+      "bestTime": "November to February is the most comfortable season for beach time, island trips, and outdoor sightseeing. The hotter months are manageable if you build the day around shade and evening activity, while rainy-season visits can still work when the goal is a slower and cheaper coastal break.",
+      "overview": "Pattaya is more varied than its nightlife reputation suggests. It can work as an easy coastal break with seafood, island day trips, gardens, family attractions, and relaxed beachfront time, especially if you stay in an area that matches your pace rather than choosing solely by price.",
+      "highlights": [
+        "The city can be approached in very different ways: beach rest, nightlife, family-friendly attractions, or short island escapes all produce different trips.",
+        "Seafood, sunsets, and easy transport make Pattaya a low-friction destination for travelers who want a simpler resort rhythm than Bangkok.",
+        "Choosing the right base area matters a lot because the feel of Naklua, Central Pattaya, and Jomtien is noticeably different."
+      ],
+      "gettingAround": [
+        "Songthaews, often called baht buses, are the easiest low-cost option for short hops along the main routes, but route awareness helps.",
+        "Taxis, ride-hailing, and hotel transfers become more useful if you are visiting gardens, viewpoints, or attractions outside the beach strip.",
+        "Island plans depend on weather and sea conditions, so keep a little flexibility instead of building your entire stay around one boat trip."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Naklua and North Pattaya",
+          "description": "A better fit for travelers who want a slightly calmer base, easier seafood access, and proximity to attractions such as the Sanctuary of Truth."
+        },
+        {
+          "name": "Central Pattaya",
+          "description": "Most convenient if you want nightlife, shopping, and quick access to the busiest stretch of city activity."
+        },
+        {
+          "name": "Jomtien",
+          "description": "Usually the best area for a slower beachfront stay, longer walks, and a more relaxed family or couple-oriented pace."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Coast and Culture Morning",
+          "description": "Start with the Sanctuary of Truth or another early attraction before the midday heat, then slow down with lunch by the water."
+        },
+        {
+          "title": "Garden or Island Afternoon",
+          "description": "Choose Nong Nooch for a land-based half day or take a boat plan if weather is stable and beach time is the priority."
+        },
+        {
+          "title": "Seafood and Sunset Evening",
+          "description": "Finish with a seafood dinner and either a relaxed seafront walk or a more energetic nightlife route depending on your base area."
+        }
+      ]
     }
   }
 }

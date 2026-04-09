@@ -10,7 +10,7 @@ import {
     useColorModeValue,
 } from '@chakra-ui/react';
 import Link from 'next/link';
-import { City } from '@/data/cities';
+import { City } from '@/types/city';
 
 export default function CityCard({
     city,
@@ -62,7 +62,7 @@ export default function CityCard({
                 >
                     {city.name}
                 </Heading>
-                <Text color={'gray.500'}>
+                <Text color={'gray.500'} noOfLines={3}>
                     {city.description}
                 </Text>
             </Stack>
