@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Scopri la tua prossima avventura",
-    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok, Pattaya, Cebu e Osaka con la nostra guida premium.",
+    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne e Singapore con la nostra guida premium.",
     "explore": "Esplora le città",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -11,7 +11,10 @@
     "bangkok": "Bangkok",
     "pattaya": "Pattaya",
     "cebu": "Cebu",
-    "osaka": "Osaka"
+    "osaka": "Osaka",
+    "sydney": "Sydney",
+    "melbourne": "Melbourne",
+    "singapore": "Singapore"
   },
   "nav": {
     "home": "Home",
@@ -55,6 +58,16 @@
         {
           "name": "Tokyo Skytree",
           "description": "Un simbolo contemporaneo della città con viste immense, negozi, ristoranti e comodi collegamenti con i quartieri più tradizionali dell'est come Asakusa.",
+          "image": "/images/tokyo-hero.svg"
+        },
+        {
+          "name": "Tokyo Disneyland",
+          "description": "Il primo parco Disney aperto fuori dagli Stati Uniti, parte del Tokyo Disney Resort a Maihama. Si distingue per la struttura classica dei Disney park, la forte cultura delle parate e attrazioni e spettacoli presenti solo a Tokyo Disneyland.",
+          "image": "/images/tokyo-hero.svg"
+        },
+        {
+          "name": "Tokyo DisneySea",
+          "description": "L'unico parco Disney al mondo ispirato ai miti e alle leggende del mare, anch'esso all'interno del Tokyo Disney Resort di Maihama. I suoi porti tematici, l'atmosfera più scenografica e il design del parco lo rendono una delle destinazioni più particolari del Giappone.",
           "image": "/images/tokyo-hero.svg"
         },
         {
@@ -873,6 +886,11 @@
           "image": "/images/empty.png"
         },
         {
+          "name": "Universal Studios Japan",
+          "description": "Grande parco a tema di Osaka, nel quartiere di Konohana, in continua evoluzione dalla sua apertura nel 2001. È particolarmente noto per le attrazioni di richiamo internazionale e per aree tematiche come Super Nintendo World, The Wizarding World of Harry Potter e Minion Park.",
+          "image": "/images/empty.png"
+        },
+        {
           "name": "Mercato di Kuromon",
           "description": "Questo mercato coperto di circa 580 metri vicino a Nipponbashi è una delle introduzioni più immediate alla reputazione gastronomica di Osaka. Pesce, frutta, sushi, fritti e piccoli assaggi convivono in poco spazio, anche se nelle ore di punta la folla è notevole.",
           "image": "/images/empty.png"
@@ -973,6 +991,366 @@
         {
           "title": "Osaka sud retrò",
           "description": "Usa Tennoji o Abeno per una prima metà giornata più ordinata, poi entra più tardi in Shinsekai, Tsutenkaku e Janjan Yokocho per kushikatsu, insegne d'altri tempi e un'atmosfera serale più ruvida."
+        }
+      ]
+    },
+    "sydney": {
+      "id": "sydney",
+      "name": "Sydney",
+      "country": "Australia",
+      "description": "Sydney unisce il paesaggio del porto più riconoscibile d'Australia, spostamenti in traghetto, storia coloniale, cultura da spiaggia e una scena gastronomica fatta tanto di brunch e caffè quanto di seafood e cucina multiculturale.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Sydney Opera House",
+          "description": "È il simbolo assoluto della città, ma funziona meglio quando non la tratti come un semplice punto foto. Le viste circostanti, un tour degli interni o uno spettacolo aiutano a capire perché questo edificio conti così tanto nell'identità di Sydney.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Circular Quay e The Rocks",
+          "description": "Qui si concentrano insieme il nodo dei trasporti e una delle letture più immediate della città. Circular Quay mette nello stesso sguardo Opera House e Harbour Bridge, mentre The Rocks aggiunge vicoli storici, pub, mercatini e il lato più antico della Sydney coloniale.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Sydney Harbour Bridge e Pylon Lookout",
+          "description": "Il ponte dà forma visiva a tutto il porto e aiuta a percepire la scala reale di Sydney. Anche senza fare una bridge climb completa, il Pylon o le passeggiate sul lato di Milsons Point bastano per ottenere viste molto forti.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Royal Botanic Garden e Mrs Macquarie's Chair",
+          "description": "È uno dei punti migliori per capire che Sydney vive tanto di prospettive aperte e di luce quanto di monumenti. Giardini, acqua e skyline si fondono in modo estremamente naturale.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Bondi Beach e Bondi to Coogee Coastal Walk",
+          "description": "È la porta d'ingresso più chiara alla cultura balneare di Sydney, con scogliere, piscine oceaniche, surf, caffè e un senso di apertura che cambia davvero il viaggio urbano.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Darling Harbour e Barangaroo",
+          "description": "Questo lato più contemporaneo della città è utile per vedere come Sydney combina waterfront, ristorazione, grandi spazi pubblici, musei e riqualificazione urbana. È molto meno storico di The Rocks e molto più legato alla Sydney attuale.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Flat White",
+          "description": "A Sydney il flat white non è solo un caffè ma parte del ritmo quotidiano. La cultura del bar qui conta davvero e merita tempo, non solo una sosta rapida.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Brunch australiano",
+          "description": "Pane, uova, verdure stagionali e piatti curati sono una delle espressioni più forti della Sydney di tutti i giorni. I quartieri un po' più locali spesso lasciano ricordi migliori delle zone puramente turistiche.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Seafood e Sydney Rock Oysters",
+          "description": "La presenza del porto si sente chiaramente a tavola, e ostriche, gamberi e pesce ben preparato sono uno dei modi più diretti per entrare nel carattere gastronomico della città.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Fish and Chips",
+          "description": "È uno dei pasti più facili da legare a traghetti, passeggiate sul lungomare o giornate di spiaggia. A Sydney ha più senso vicino all'acqua che nel cuore del CBD.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Meat Pie",
+          "description": "È uno dei cibi australiani più pratici da mangiare al volo e funziona bene tra un tratto a piedi e uno in trasporto pubblico. Racconta il lato quotidiano, non quello patinato, della cucina locale.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cucina multiculturale",
+          "description": "Uno dei veri punti forti di Sydney è la facilità con cui convivono tavole asiatiche, mediorientali, mediterranee e modern australian. La città funziona meglio quando la vivi come un mosaico di cucine, non come una sola specialità.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Sydney rende molto di più se usi insieme traghetti, treni, light rail e bus invece di trattarla come una città solo da camminare.",
+        "Opal o il pagamento contactless coprono bene quasi tutto il movimento urbano, quindi conviene pensare ai mezzi pubblici fin dall'inizio.",
+        "Tour dell'Opera House, spettacoli, esperienze sul ponte e ristoranti richiesti funzionano spesso meglio con prenotazione anticipata.",
+        "Le zone di mare come Bondi sono molto più esposte a sole e vento rispetto al centro, quindi cappello, protezione solare e uno strato leggero sono davvero utili.",
+        "Sulla mappa Sydney può sembrare compatta, ma se mescoli porto, centro e spiagge nella stessa giornata i tempi di trasferimento crescono in fretta.",
+        "L'estate è molto luminosa e viva, ma il sole di metà giornata può stancare parecchio: mattina all'aperto, pausa indoor e rientro sul waterfront nel tardo pomeriggio è spesso la formula migliore.",
+        "Il meteo può cambiare rapidamente, ma non sempre serve riscrivere tutto il programma: a Sydney piccoli aggiustamenti di orario funzionano spesso meglio di un cambio totale."
+      ],
+      "bestTime": "Da settembre a novembre e da marzo a maggio è più facile bilanciare porto, passeggiate, spiagge, caffè e visite urbane. L'estate valorizza il mare ma porta un sole molto più duro, mentre l'inverno resta comunque valido per la città.",
+      "overview": "Sydney non è soltanto una somma di monumenti famosi. È una città in cui il porto, i mezzi di trasporto e i punti di vista costruiscono l'esperienza quanto le attrazioni stesse. Quando vedi Opera House e Harbour Bridge nello stesso campo visivo, prendi un traghetto o colleghi The Rocks a una lunga passeggiata nel giardino botanico, la città inizia davvero a funzionare. Conviene dividerla in zone di porto, centro e spiaggia e lasciare tempo a ciascuna invece di inseguire troppi luoghi celebri in modo frammentato.",
+      "highlights": [
+        "Poche città intrecciano panorami globalmente iconici e vita quotidiana locale con la stessa naturalezza del bordo porto di Sydney.",
+        "I traghetti sono uno dei mezzi turistici più efficaci della città, non solo un trasporto pratico.",
+        "Caffè, brunch, seafood e ristorazione multiculturale danno a Sydney una profondità che va oltre l'immagine da cartolina."
+      ],
+      "gettingAround": [
+        "Il collegamento ferroviario tra aeroporto e centro è semplice, ma il viaggio migliora davvero quando aggiungi i traghetti.",
+        "Circular Quay è il miglior punto mentale di riferimento per un primo viaggio, perché lì si sovrappongono trasporti e viste principali.",
+        "Le spiagge servite soprattutto da bus funzionano meglio come mezze giornate dedicate che come deviazioni rapide."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Circular Quay e The Rocks",
+          "description": "La base più intuitiva per una prima visita, con porto, traghetti, storia e le viste più emblematiche già fuori dall'hotel."
+        },
+        {
+          "name": "CBD e Darling Harbour",
+          "description": "Una scelta pratica e stabile per trasporti, shopping, flessibilità indoor-outdoor e movimenti facili nel centro città."
+        },
+        {
+          "name": "Surry Hills, Paddington o una base più orientata alla spiaggia",
+          "description": "Più adatta se vuoi caffè di quartiere, piccole boutique o un soggiorno che punti più al mare che ai classici simboli del porto."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata porto classica",
+          "description": "Parti da Circular Quay e The Rocks, continua verso l'Opera House e il giardino botanico e chiudi la giornata con il waterfront illuminato."
+        },
+        {
+          "title": "Giornata mare e traghetti",
+          "description": "Usa la mattina per Bondi e la costa, poi riporta il viaggio verso il porto con un tratto in traghetto per far convivere bene Sydney balneare e Sydney urbana."
+        },
+        {
+          "title": "Sydney vissuta",
+          "description": "Comincia con un vero brunch, poi costruisci la giornata tra CBD, Barangaroo o Darling Harbour e chiudi con una cena sull'acqua per sentire il lato più quotidiano della città."
+        }
+      ]
+    },
+    "melbourne": {
+      "id": "melbourne",
+      "name": "Melbourne",
+      "country": "Australia",
+      "description": "Melbourne è una città di tram, laneway, caffè, mercati, sport, arte e cultura urbana quotidiana, e tende a piacere di più a chi resta abbastanza a lungo da assorbirne il ritmo invece di inseguire solo grandi icone.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Flinders Street Station e Federation Square",
+          "description": "La facciata storica della stazione e la piazza contemporanea di fronte costruiscono una delle scene urbane più riconoscibili della città. È il punto più semplice da cui partire per orientarsi.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Laneway e arcades",
+          "description": "Hosier Lane, Degraves Street, Block Arcade e spazi simili spiegano bene perché Melbourne sia più una città di dettagli che di monumenti giganti. Murales, piccoli bar, boutique e passaggi storici danno spessore al centro.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Queen Victoria Market",
+          "description": "È una delle istituzioni quotidiane più importanti di Melbourne e un ottimo luogo per leggere la città attraverso prodotti freschi, food hall, snack, negozi e mescolanza culturale.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Southbank e NGV",
+          "description": "Riverside, musei, ristoranti e cultura convivono qui in una forma molto facile da vivere. È perfetto quando vuoi un pomeriggio che alterni passeggiata e spazi interni senza sentirti mai forzato.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Royal Botanic Gardens e Shrine of Remembrance",
+          "description": "Questa zona rallenta il ritmo del centro e aggiunge verde, architettura commemorativa e buone prospettive sullo skyline. Funziona bene come pausa tra parti più dense del CBD.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "St Kilda Beach e molo",
+          "description": "St Kilda porta il mare dentro un viaggio urbano senza complicare troppo la logistica, grazie al collegamento in tram. Passeggiate, caffè e luce serale cambiano l'atmosfera dell'intera giornata.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Specialty coffee e flat white",
+          "description": "La cultura del caffè a Melbourne è una delle vere identità della città, e non va trattata come un dettaglio secondario. Il bar qui è parte integrante dell'esperienza urbana.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Brunch in stile Melbourne",
+          "description": "Uova, pane, verdure, piatti curati e ingredienti di qualità fanno del brunch una delle categorie gastronomiche più affidabili e rappresentative della città.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Meat pie e sausage roll",
+          "description": "Sono classici da bakery e mercato, pratici e perfetti per una città che spesso si esplora in movimento. Mostrano il lato più concreto dell'alimentazione australiana.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Italian dining",
+          "description": "L'eredità italiana è ancora molto visibile nella vita gastronomica di Melbourne, tra pasta, pizza e gelato. Non è una semplice aggiunta internazionale ma una parte strutturale della città.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Noodle e cucina asiatica casual",
+          "description": "Dalla Chinatown in poi, la città offre un ventaglio molto ampio di cucina cinese e del Sud-est asiatico che si inserisce perfettamente nei pranzi veloci e nelle serate senza formalità.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Snack di mercato e dessert",
+          "description": "Melbourne si presta bene a mangiare per tappe brevi tra mercati, bakery e dolci, più che soltanto attraverso grandi pasti strutturati. Questo stile si adatta molto bene al modo in cui si vive la città.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Il CBD diventa molto semplice se combini passeggiate e tram, soprattutto dentro la Free Tram Zone.",
+        "Se prevedi di uscire dal perimetro gratuito, conviene pensare subito a myki invece di aspettare di essere già in movimento.",
+        "Il meteo può cambiare parecchio nello stesso giorno, quindi strati leggeri, ombrello compatto e occhiali da sole sono spesso la combinazione più sensata.",
+        "Colazione e brunch contano davvero a Melbourne, quindi vale la pena sceglierli con intenzione invece di trattarli come una tappa frettolosa.",
+        "Le laneway più celebri sono molto più godibili al mattino o nei giorni feriali se vuoi fotografie e un passo più lento.",
+        "Eventi sportivi, festival e grandi appuntamenti possono far salire molto prezzi degli hotel e affollamento, perciò il calendario eventi va guardato insieme alle date del viaggio.",
+        "Melbourne premia chi resta dentro pochi quartieri ben collegati e lascia che caffè, librerie, mercati, gallerie e fiume riempiano la giornata."
+      ],
+      "bestTime": "Da marzo a maggio e da settembre a novembre è più facile bilanciare tram, camminate, caffè, mercati e musei. L'inverno resta ottimo per cultura indoor e giornate da bar, mentre l'estate aggiunge più energia all'aperto ma anche sbalzi di caldo più marcati.",
+      "overview": "Melbourne non vive di un singolo panorama assoluto, ma della forza del suo tessuto urbano. La città si costruisce strada dopo strada, tra stazioni, laneway, arcades, caffè, librerie, mercati, gallerie e passeggiate lungo il fiume. Il centro è relativamente facile da leggere a piedi e in tram, e il fascino cresce proprio perché non si esaurisce in due o tre icone. Per questo Melbourne piace soprattutto a chi ama passare del tempo dentro l'atmosfera della città, non solo spuntare luoghi famosi.",
+      "highlights": [
+        "Laneway, arcades, mercati e cultura del caffè creano un'identità urbana fortissima senza bisogno di grandi monumenti.",
+        "L'unione tra CBD camminabile e rete tram rende il movimento in città intuitivo una volta capito il ritmo.",
+        "Caffè, brunch, cucina multiculturale, sport e arte trasformano la giornata in modo naturale dal mattino alla sera."
+      ],
+      "gettingAround": [
+        "Nel cuore della città bastano spesso camminate e tram per tenere tutto il programma fluido.",
+        "Carlton, Fitzroy e St Kilda sono ottime estensioni di mezza giornata grazie ai collegamenti tram abbastanza diretti.",
+        "L'aeroporto non si innesta sul centro con la stessa immediatezza ferroviaria di Sydney, quindi bus o auto vanno considerati a parte nella pianificazione."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "CBD e Federation Square",
+          "description": "La base più semplice per una prima visita, con stazioni, tram, caffè e accesso rapido alla maggior parte delle tappe centrali."
+        },
+        {
+          "name": "Carlton e Fitzroy",
+          "description": "Più adatti se preferisci caffè di quartiere, librerie, piccole boutique e un'atmosfera creativa meno da distretto direzionale."
+        },
+        {
+          "name": "Southbank, South Melbourne o un soggiorno orientato a St Kilda",
+          "description": "Una scelta valida se vuoi più waterfront, cultura o un legame un po' più diretto con il lato marino della città."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "CBD e laneway",
+          "description": "Parti da Flinders Street e Federation Square, attraversa con calma laneway e caffè, poi aggiungi arcades, centro commerciale e una chiusura lungo il fiume."
+        },
+        {
+          "title": "Mercato e cultura",
+          "description": "Dedica la mattina a Queen Victoria Market e sposta il pomeriggio verso NGV o Southbank per una giornata che tenga insieme vita quotidiana e istituzioni culturali."
+        },
+        {
+          "title": "Città e costa",
+          "description": "Usa il mattino per il centro e il caffè, poi porta il ritmo verso St Kilda nella seconda parte del giorno per mare, passeggiata e luce serale."
+        }
+      ]
+    },
+    "singapore": {
+      "id": "singapore",
+      "name": "Singapore",
+      "country": "Singapore",
+      "description": "Singapore concentra in uno spazio molto compatto una rete MRT estremamente efficiente, skyline futuristici, quartieri culturali nettamente distinti e una delle più forti culture gastronomiche quotidiane del mondo grazie agli hawker centre.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Marina Bay e area del Merlion",
+          "description": "È il cuore visivo della Singapore contemporanea, con passeggiate sul lungomare, hotel iconici, skyline finanziario e una trasformazione molto evidente tra luce del giorno e sera.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Gardens by the Bay",
+          "description": "Pochi luoghi raccontano il rapporto tra urbanistica e verde di Singapore meglio di questo complesso. Supertree, serre climatizzate e waterfront formano un insieme che è insieme attrazione e dichiarazione d'identità urbana.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Chinatown",
+          "description": "Templi, shophouse, hawker culture e nuovi ristoranti convivono a distanza molto ravvicinata, rendendo Chinatown uno dei quartieri più utili per leggere la profondità culturale della città al di là del suo lato più lucido.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kampong Glam e Sultan Mosque",
+          "description": "Qui la città mostra un lato più stratificato, con eredità malese-musulmana, boutique, caffè, murales e strade come Arab Street e Haji Lane che cambiano subito il ritmo del viaggio.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Little India",
+          "description": "Colori, templi, mercati, profumi e ristorazione fitta rendono questo quartiere una delle espressioni più dirette della Singapore multiculturale. Colpisce ancora di più proprio perché il resto della città appare così ordinato.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Singapore Botanic Gardens",
+          "description": "Mostrano l'altro volto della città-stato: uno spazio verde curato e ampio che si stacca dalla densità di Marina Bay pur restando ben integrato nella mobilità urbana.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Hainanese Chicken Rice",
+          "description": "È uno dei piatti quotidiani più rappresentativi di Singapore, costruito sull'equilibrio tra pollo, riso profumato e salse. Nei contesti hawker rende spesso più che nei locali formali.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Laksa",
+          "description": "Noodle in brodo ricco di cocco e spezie che raccontano bene la stratificazione culturale della cucina locale. È uno dei piatti che meglio fa percepire il carattere del Sud-est asiatico in città.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Chili Crab",
+          "description": "Uno dei grandi simboli gastronomici di Singapore, basato su salsa agrodolce-piccante, granchio e panini per raccogliere tutto il condimento. Funziona meglio come cena vera e propria.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Satay",
+          "description": "Spiedini alla griglia con salsa di arachidi che danno il meglio in contesti serali all'aperto, quando il cibo si intreccia con il clima e con l'energia degli hawker o delle food court.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kaya Toast e uova morbide",
+          "description": "È una delle colazioni più riconoscibili della città, leggera ma fortemente locale, ideale per iniziare la giornata senza appesantire troppo il programma.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mangiare negli hawker centre",
+          "description": "La vera identità gastronomica di Singapore non sta solo in un piatto ma nel sistema degli hawker centre, dove condividere più piccoli assaggi è spesso più rivelatore di qualsiasi singolo ristorante famoso.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Singapore diventa molto semplice se metti l'accesso alla MRT al centro sia della scelta dell'hotel sia dell'organizzazione quotidiana.",
+        "La città si cammina bene, ma caldo e umidità tropicali rendono essenziali mall, musei e caffè come parte del percorso nelle ore centrali.",
+        "Piogge brevi ma intense possono arrivare all'improvviso, quindi un piccolo ombrello o uno strato impermeabile leggero sono più utili di quanto sembri.",
+        "Gli hawker centre cambiano un po' per modalità di occupazione dei tavoli, restituzione dei vassoi e pagamenti, quindi è meglio prendere confidenza gradualmente.",
+        "Marina Bay e Gardens by the Bay sono molto più forti se li vivi dal tardo pomeriggio fino alla sera, non come semplice tappa diurna.",
+        "Anche se la città sembra piccola, Chinatown, Little India, Kampong Glam, Orchard e Marina Bay hanno identità così diverse che metterne troppe nello stesso giorno può appiattire il ricordo.",
+        "Sentosa e le appendici più da resort possono funzionare, ma in un primo viaggio breve di solito rende di più approfondire skyline, quartieri culturali e hawker del centro."
+      ],
+      "bestTime": "Singapore si visita tutto l'anno, ma molti viaggiatori trovano più facile costruire un buon ritmo tra febbraio e aprile e tra luglio e settembre. In pratica conta più la gestione delle ore della giornata che la stagione in sé.",
+      "overview": "Singapore assomiglia meno a un viaggio attraverso un grande paese e più alla lettura rapida di una città estremamente ben connessa. Skyline futuristici, quartieri culturali, hawker centre e giardini urbani convivono a distanze molto ridotte grazie a una mobilità particolarmente efficiente. Questo rende i soggiorni brevi sorprendentemente ricchi, ma premia chi sceglie bene le combinazioni di zone invece di provare a vedere tutto insieme. Un'area urbana iconica e un quartiere culturale nello stesso giorno sono spesso la struttura migliore.",
+      "highlights": [
+        "Skyline, verde urbano, quartieri storici e cultura hawker sono collegati con un'efficienza rara e fanno funzionare molto bene anche i viaggi brevi.",
+        "Gli hawker centre permettono di vivere una cucina fortemente identitaria senza trasformare ogni pasto in una spesa elevata.",
+        "L'immagine futuristica di Marina Bay convive in modo chiarissimo con quartieri culturali dal carattere molto distinto."
+      ],
+      "gettingAround": [
+        "La MRT è così fitta e prevedibile che per molti visitatori basta trattarla come livello principale di quasi tutto il viaggio.",
+        "Anche arrivo e partenza possono contenere mezza giornata utile grazie al collegamento efficiente tra aeroporto e centro.",
+        "Nelle ore più calde conviene sfruttare stazioni, mall e passaggi coperti per ridurre l'esposizione a caldo e pioggia."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Marina Bay e City Hall",
+          "description": "La base migliore se la priorità è stare vicini allo skyline, ai grandi landmark e a un centro città molto ordinato."
+        },
+        {
+          "name": "Chinatown e Tanjong Pagar",
+          "description": "Forte se vuoi hawker, passeggiate culturali, cene serali e accesso pratico al cuore della città."
+        },
+        {
+          "name": "Bugis, Kampong Glam o Orchard",
+          "description": "Una scelta adatta quando vuoi combinare shopping, caffè, carattere culturale e comodità pulita della MRT in proporzioni diverse."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata Marina Bay",
+          "description": "Inizia più tardi nel pomeriggio lungo la baia, collega la promenade a Gardens by the Bay e resta fino a dopo il tramonto per vedere cambiare completamente la scena urbana."
+        },
+        {
+          "title": "Quartieri culturali e hawker",
+          "description": "Costruisci la giornata attorno a Chinatown o Little India, inserisci un pasto in hawker centre e chiudi a Kampong Glam per una sera più rilassata tra caffè e bar."
+        },
+        {
+          "title": "Città e verde",
+          "description": "Usa la mattina per i Botanic Gardens o un'altra tappa verde, passa le ore più calde in spazi interni e torna verso il centro dopo il tramonto per skyline e luci."
         }
       ]
     }
