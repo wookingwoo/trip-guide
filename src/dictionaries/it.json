@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Scopri la tua prossima avventura",
-    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok, Pattaya e Cebu con la nostra guida premium.",
+    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok, Pattaya, Cebu e Osaka con la nostra guida premium.",
     "explore": "Esplora le città",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -10,7 +10,8 @@
     "rome": "Roma",
     "bangkok": "Bangkok",
     "pattaya": "Pattaya",
-    "cebu": "Cebu"
+    "cebu": "Cebu",
+    "osaka": "Osaka"
   },
   "nav": {
     "home": "Home",
@@ -851,6 +852,127 @@
         {
           "title": "Mactan e mare",
           "description": "Parti presto per snorkeling o island hopping da Mactan, rallenta nel pomeriggio in resort o sul lungomare e chiudi con una cena di pesce per sentire bene il contrasto con la parte più urbana di Cebu."
+        }
+      ]
+    },
+    "osaka": {
+      "id": "osaka",
+      "name": "Osaka",
+      "country": "Giappone",
+      "description": "Osaka concentra in spazi relativamente compatti la storia del castello, i neon di Dotonbori, l'energia dei mercati, i grandi terminal ferroviari di Umeda e una cultura gastronomica quotidiana che rende la città molto densa ma anche sorprendentemente gestibile.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Museo del Castello di Osaka e Osaka Castle Park",
+          "description": "È uno dei simboli più forti della città e collega la memoria di Toyotomi Hideyoshi, le campagne di Osaka, i grandi fossati, le mura in pietra e la torre ricostruita che oggi funziona da museo e punto panoramico. Va vissuto come un intero distretto storico, non come un singolo edificio.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Dotonbori",
+          "description": "Il tratto più famoso di Minami unisce passeggiate lungo il canale, insegne gigantesche, una forte tradizione di spettacolo e una densità continua di locali. Più che un semplice luogo da fotografare, è il punto in cui l'energia commerciale di Osaka si sente al massimo volume.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mercato di Kuromon",
+          "description": "Questo mercato coperto di circa 580 metri vicino a Nipponbashi è una delle introduzioni più immediate alla reputazione gastronomica di Osaka. Pesce, frutta, sushi, fritti e piccoli assaggi convivono in poco spazio, anche se nelle ore di punta la folla è notevole.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Shinsekai e Tsutenkaku",
+          "description": "Attorno a Tsutenkaku sopravvive una Osaka più popolare, retrò e meno levigata rispetto ai quartieri commerciali del nord. Insegne fitte, kushikatsu, la figura di Billiken e l'atmosfera serale sono gli elementi che danno carattere a tutta la zona.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Umeda Sky Building e Floating Garden Observatory",
+          "description": "È uno dei grandi punti panoramici di Kita e offre viste ampie sui grattacieli di Umeda e verso il lato del fiume Yodo. Funziona bene di giorno, ma la fascia tra tardo pomeriggio e notte è la più suggestiva.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Nakanoshima",
+          "description": "L'isola urbana tra i fiumi Dojima e Tosabori propone musei, architettura civica, ponti scenografici, passeggiate sull'acqua e caffè più tranquilli. È uno dei modi migliori per scoprire un volto più elegante e culturale del centro di Osaka.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Takoyaki",
+          "description": "Il simbolo più immediato dello street food di Osaka vive sul contrasto tra l'esterno appena dorato e l'interno morbido e bollente. Ogni negozio cambia impasto, quantità di polpo, salsa e finitura, quindi il confronto tra più tappe è parte del piacere.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Okonomiyaki",
+          "description": "Uno dei grandi comfort food della città, costruito su pastella alla piastra, cavolo e spesso maiale, con un'identità più da pasto completo che da semplice spuntino. Molti locali usano una base con dashi e a volte yam per una consistenza più soffice.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kushikatsu",
+          "description": "Spiedini di carne, pesce o verdure fritti in modo leggero e serviti in ambienti molto informali. Shinsekai è l'area più associata a questo stile, e la regola del non intingere due volte nella salsa resta parte del rito classico di Osaka.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kitsune Udon",
+          "description": "Un piatto di noodle molto rappresentativo di Osaka, con udon più morbidi, brodo delicato e tofu fritto condito. È perfetto quando vuoi una pausa più equilibrata rispetto alle specialità fritte e più pesanti.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Osaka sushi e hakozushi",
+          "description": "Il sushi pressato in scatola e altre forme di sushi in stile Osaka raccontano bene la storia commerciale della città e si distinguono chiaramente dall'Edomae. Aggiungono una nota più storica e regionale all'itinerario gastronomico.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Butaman",
+          "description": "I panini al vapore ripieni di carne sono uno dei cibi più pratici da prendere al volo a Osaka, a metà tra snack e piccolo pasto. Raccontano la quotidianità cittadina meglio di molti piatti più celebrati.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Osaka si capisce meglio per zone che per singolo monumento: Umeda e Nakanoshima, Namba e Shinsaibashi, il Castello di Osaka, Tennoji e Shinsekai funzionano meglio se li affronti come blocchi separati.",
+        "Le stazioni di Umeda e Namba sommano più compagnie ferroviarie, uscite, passaggi sotterranei e centri commerciali, quindi orientarsi può richiedere più tempo del previsto.",
+        "La comodità dall'aeroporto dipende molto dalla base scelta: Namba è particolarmente pratica con la Nankai da Kansai International Airport, mentre Umeda, Osaka Station e Tennoji si legano meglio alle soluzioni JR.",
+        "Dotonbori e Kuromon sono molto più gradevoli fuori dai picchi di pranzo e serata, soprattutto se il tuo obiettivo principale è passeggiare, fotografare e fare assaggi con meno pressione.",
+        "I locali più famosi di takoyaki, okonomiyaki e kushikatsu possono avere file lunghe anche quando il ricambio sembra rapido, quindi conviene decidere prima se puntare su una sola tappa simbolica o su più soste leggere.",
+        "L'estate di Osaka è calda e umida al punto da cambiare davvero il ritmo della giornata: mall, caffè, musei e passaggi sotterranei non sono semplici ripieghi ma strumenti di pianificazione intelligente.",
+        "Una IC card resta la soluzione base, ma nei giorni con molti spostamenti in Metro o bus può valere la pena controllare anche le opzioni di pass giornaliero.",
+        "Kyoto, Nara e Kobe sono facili da raggiungere, ma se vuoi vivere bene la sera e la cucina di Osaka è meglio non caricare troppo quelle escursioni sullo stesso rientro serale."
+      ],
+      "bestTime": "Da fine marzo a maggio e da ottobre a novembre sono i periodi più facili per camminare a lungo, mangiare bene e fare shopping. La primavera valorizza Osaka Castle Park, l'estate è calda ma molto viva la sera, mentre l'inverno spesso offre aria più limpida, illuminazioni e itinerari indoor più semplici.",
+      "overview": "Osaka è una grande metropoli, ma di solito risulta più leggibile di quanto sembri. La chiave è dividerla in zone: Kita attorno a Umeda, Minami attorno a Namba e Shinsaibashi, l'area del castello e il lato sud con Tennoji e Shinsekai. Il fascino vero non sta solo nelle attrazioni celebri, ma nel modo in cui stazioni, gallerie commerciali, mercati, ristoranti alla piastra, passeggiate sul canale e osservatori si saldano in una giornata coerente. Se non provi a coprire tutta la mappa troppo in fretta, Osaka riesce a concentrare storia, cibo, shopping e nightlife in pochissimo tempo.",
+      "highlights": [
+        "Il grande nodo ferroviario e business di Umeda, i neon e le arcate di Namba, l'anima retrò di Shinsekai e la memoria storica del castello si distinguono con grande chiarezza nello stesso tessuto urbano.",
+        "La fama di città del cibo non dipende solo da takoyaki e okonomiyaki, ma dalla densità generale del mangiare informale, dai noodle ai mercati fino agli snack da prendere al volo.",
+        "Osaka Metro, JR e le ferrovie private rendono molto semplice sia muoversi in città sia usare Osaka come base pratica per il resto del Kansai e per l'aeroporto."
+      ],
+      "gettingAround": [
+        "Per il centro bastano spesso Osaka Metro e JR, mentre Hankyu, Hanshin, Kintetsu o Nankai diventano importanti quando allarghi il viaggio verso altre destinazioni del Kansai.",
+        "A Osaka conta spesso più la complessità delle stazioni che la distanza reale, quindi le giornate scorrono meglio quando massimizzi gli spostamenti a piedi dentro una sola zona.",
+        "La scelta tra alloggiare a Minami o a Kita cambia parecchio la logica del viaggio: Minami è più forte per cibo e vita notturna, Kita per collegamenti ferroviari, grandi magazzini e hotel dal taglio più pratico."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Namba, Shinsaibashi e Minami",
+          "description": "La scelta migliore se vuoi neon, street food, arcate commerciali e movimento fino a tardi appena fuori dall'hotel."
+        },
+        {
+          "name": "Umeda, Osaka Station e Kita",
+          "description": "La base più stabile per connessioni ferroviarie, grandi magazzini, centri commerciali e spostamenti facili verso aeroporto e altre città."
+        },
+        {
+          "name": "Tennoji, Abeno e Shinsekai",
+          "description": "Adatta a chi cerca un lato più locale e meridionale della città, con carattere retrò, grandi mall e spesso soluzioni alberghiere più pratiche."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Storia e Kita in un giorno",
+          "description": "Inizia dal Castello di Osaka e dal parco, usa il pomeriggio per Nakanoshima tra passeggiate o musei, poi chiudi con vista panoramica e cena nella zona di Umeda."
+        },
+        {
+          "title": "Minami tra cibo e luci",
+          "description": "Parti con calma da Kuromon Market, attraversa Namba e Shinsaibashi senza fretta e lascia che la sera si costruisca tra Hozenji Yokocho, le luci di Dotonbori e una cena a base di takoyaki o okonomiyaki."
+        },
+        {
+          "title": "Osaka sud retrò",
+          "description": "Usa Tennoji o Abeno per una prima metà giornata più ordinata, poi entra più tardi in Shinsekai, Tsutenkaku e Janjan Yokocho per kushikatsu, insegne d'altri tempi e un'atmosfera serale più ruvida."
         }
       ]
     }

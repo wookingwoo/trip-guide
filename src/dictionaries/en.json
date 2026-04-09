@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Discover Your Next Adventure",
-    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, Pattaya, and Cebu with our premium guide.",
+    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, Pattaya, Cebu, and Osaka with our premium guide.",
     "explore": "Explore Cities",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -10,7 +10,8 @@
     "rome": "Rome",
     "bangkok": "Bangkok",
     "pattaya": "Pattaya",
-    "cebu": "Cebu"
+    "cebu": "Cebu",
+    "osaka": "Osaka"
   },
   "nav": {
     "home": "Home",
@@ -851,6 +852,127 @@
         {
           "title": "Mactan and Marine Day",
           "description": "Leave early for snorkeling or island-hopping from Mactan, slow down later at a resort or beachside venue, and end with seafood near the water for the clearest contrast to the inland city experience."
+        }
+      ]
+    },
+    "osaka": {
+      "id": "osaka",
+      "name": "Osaka",
+      "country": "Japan",
+      "description": "Osaka compresses castle history, neon-heavy nightlife, huge rail terminals, market energy, and everyday food culture into a city that feels dense but surprisingly workable even on a short trip.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Osaka Castle Museum and Osaka Castle Park",
+          "description": "One of the city's defining symbols, the castle area connects Toyotomi history, the memory of the Osaka campaigns, broad moats, stone walls, and a reconstructed main tower that now functions as a museum and observation point. It is best understood as a full district rather than a single building.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Dotonbori",
+          "description": "Osaka's most famous Minami entertainment strip mixes canal-side walks, giant neon signs, theater heritage, exaggerated storefront design, and a nonstop concentration of places to eat. It is less about one landmark and more about absorbing Osaka's commercial energy at full volume.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kuromon Market",
+          "description": "This roughly 580-meter market arcade near Nipponbashi is one of the clearest introductions to Osaka's reputation as a food city. Seafood, fruit, grilled items, sushi, and snack-style stops all sit close together, though the busiest lunch hours can feel very crowded.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Shinsekai and Tsutenkaku Tower",
+          "description": "Centered on Tsutenkaku, this retro district preserves a more rough-edged, popular image of Osaka than the polished shopping corridors farther north. Kushikatsu shops, dense signage, Billiken imagery, and the evening atmosphere are the main draw.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Umeda Sky Building Floating Garden Observatory",
+          "description": "A major Kita landmark with expansive views over Umeda's high-rises and the Yodo River side of the city. It works in daytime, but late afternoon into night is when the view feels most rewarding.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Nakanoshima",
+          "description": "The island district between the Dojima and Tosabori Rivers offers museums, civic architecture, bridge views, waterside walks, and calmer cafés. It is one of the best places to experience a quieter and more cultured side of central Osaka.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Takoyaki",
+          "description": "Osaka's most iconic everyday street food depends on contrast: lightly crisp outside, molten and soft inside, with shops differentiating themselves through batter, octopus size, sauce balance, and finishing style.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Okonomiyaki",
+          "description": "A core Osaka comfort dish built around griddled batter, cabbage, and usually pork, often with a dashi-driven base and sometimes yam for extra softness. It is substantial enough to anchor a full meal rather than just a snack stop.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kushikatsu",
+          "description": "Skewered meat, seafood, and vegetables fried crisp and served in a highly casual setting. Shinsekai is especially associated with it, and the no-double-dipping sauce rule remains part of the classic Osaka experience.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kitsune Udon",
+          "description": "A representative Osaka noodle dish built on softer udon and a gentler broth balance, topped with seasoned fried tofu. It is a good counterweight when you want something calmer than the city's heavier fried specialties.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Osaka Sushi and Hakozushi",
+          "description": "Pressed box sushi and related Osaka-style forms reflect the city's trading history and differ clearly from Edomae sushi. They add a more historical and regional note to an Osaka food itinerary.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Butaman",
+          "description": "Steamed pork buns are one of the most practical Osaka grab-and-go foods, sitting somewhere between a snack and a quick meal. They reveal the city's everyday eating culture better than many more famous restaurant dishes.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Osaka is easiest when planned by zone rather than by individual sight. Group Umeda and Nakanoshima, Namba and Shinsaibashi, Osaka Castle, and Tennoji or Shinsekai instead of zigzagging constantly.",
+        "Umeda Station and Namba Station each combine multiple rail operators, underground passages, and many exits, so transfers and wayfinding often take longer than visitors expect.",
+        "Airport convenience depends heavily on where you stay. Namba is especially convenient for Nankai access from Kansai International Airport, while Umeda, Osaka Station, and Tennoji work more naturally with JR airport routes.",
+        "Dotonbori and Kuromon Market become much less pleasant at peak lunch and evening hours, so go earlier or during in-between periods if photos and casual tasting matter more than crowd energy.",
+        "Famous takoyaki, okonomiyaki, and kushikatsu shops can build long lines even when turnover seems fast, so decide in advance whether you want one symbolic stop or several lighter comparisons.",
+        "Osaka summers are hot and humid enough that midday outdoor walking can drain you quickly. Shopping complexes, cafés, museums, and underground corridors become part of smart route design rather than backup plans.",
+        "Use an IC card as the default, and if you expect repeated Metro or bus use on the same day, it can be worth checking day-pass options to simplify urban movement.",
+        "Kyoto, Nara, and Kobe day trips are easy from Osaka, but if you actually want to enjoy Osaka nights and food, avoid overloading those outside-city plans onto the same evening."
+      ],
+      "bestTime": "Late March to May and October to November are the easiest seasons for long walks, food exploration, and shopping. Spring is especially strong around Osaka Castle Park, summer is hot but lively with festivals and night energy, and winter often offers clearer air, illuminations, and easier indoor-heavy itineraries.",
+      "overview": "Osaka is a major city, but it is often easier to handle than first-time visitors expect. The key is to break it into distinct urban zones: Kita around Umeda, Minami around Namba and Shinsaibashi, the Osaka Castle area, and the southern Tennoji or Shinsekai side. The city's real appeal comes not only from famous sights but from how station complexes, covered shopping streets, markets, griddle restaurants, canal walks, and observation decks naturally connect into a full day. If you avoid trying to do too much across the entire map, Osaka can deliver history, food, shopping, and nightlife at very high density in a short stay.",
+      "highlights": [
+        "Umeda's giant terminal district, Namba's neon and arcade streets, Shinsekai's retro grit, and the castle area's history all feel clearly different despite belonging to the same city.",
+        "The reputation as a food city is justified not only by famous specialties like takoyaki and okonomiyaki, but by the overall density of casual eating from noodle shops to markets and buns on the go.",
+        "Osaka Metro, JR, and the private rail network make both city travel and wider Kansai access unusually practical, especially with Kansai International Airport and easy regional connections."
+      ],
+      "gettingAround": [
+        "Most visitors can rely on Osaka Metro and JR for core city sightseeing, then add Hankyu, Hanshin, Kintetsu, or Nankai when extending toward other Kansai destinations.",
+        "Station complexity often matters more than distance, so itineraries are smoother when you maximize walking within one district instead of forcing repeated cross-city transfers.",
+        "Your hotel area changes the logic of the whole trip: Minami is stronger for food and nightlife, while Kita is usually better for department stores, business-style hotels, and wider rail connections."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Namba, Shinsaibashi, and Minami",
+          "description": "Best if you want classic Osaka neon, dense food options, arcade shopping, and late-night energy right outside your hotel."
+        },
+        {
+          "name": "Umeda, Osaka Station, and Kita",
+          "description": "The most stable base for rail connectivity, department stores, large commercial complexes, and easier airport or regional movement."
+        },
+        {
+          "name": "Tennoji, Abeno, and Shinsekai",
+          "description": "A good fit for travelers who want a more local-feeling south-side base with retro Osaka character, large malls, and often more practical hotel pricing."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "History and Kita Day",
+          "description": "Start with Osaka Castle and the park in the morning, add Nakanoshima for a calmer afternoon of museums or river walks, then finish with skyline views and dinner around Umeda."
+        },
+        {
+          "title": "Minami Food and Night Route",
+          "description": "Begin lightly at Kuromon Market, walk through Namba and Shinsaibashi at an unhurried pace, then let the evening build through Hozenji Yokocho, Dotonbori lights, and a takoyaki or okonomiyaki dinner."
+        },
+        {
+          "title": "South Osaka Retro Day",
+          "description": "Use Tennoji or Abeno to keep the first half of the day manageable, then move into Shinsekai, Tsutenkaku, and Janjan Yokocho later on for kushikatsu, older street texture, and a more rugged night atmosphere."
         }
       ]
     }
