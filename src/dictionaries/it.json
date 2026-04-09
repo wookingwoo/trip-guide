@@ -1,9 +1,12 @@
 {
   "home": {
     "title": "Scopri la tua prossima avventura",
-    "subtitle": "Esplora la bellezza di Sapporo e Roma con la nostra guida premium.",
+    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok e Pattaya con la nostra guida premium.",
     "explore": "Esplora le città",
     "sapporo": "Sapporo",
+    "shizuoka": "Shizuoka",
+    "fuji": "Fuji City",
+    "tokyo": "Tokyo",
     "rome": "Roma",
     "bangkok": "Bangkok",
     "pattaya": "Pattaya"
@@ -86,6 +89,222 @@
         "Usa i passaggi sotterranei ben sviluppati per spostarti comodamente."
       ],
       "bestTime": "Febbraio per il Festival della Neve, luglio-agosto per i fiori e il clima fresco."
+    },
+    "shizuoka": {
+      "id": "shizuoka",
+      "name": "Shizuoka",
+      "country": "Giappone",
+      "description": "Città portuale storica tra la baia di Suruga e le montagne, Shizuoka unisce eredità dei Tokugawa, cultura del tè, magnifici punti panoramici sul Monte Fuji e alcuni dei migliori frutti di mare del Giappone centrale.",
+      "image": "/images/shizuoka-hero.svg",
+      "attractions": [
+        {
+          "name": "Sunpu Castle Park",
+          "description": "L'antico complesso del castello legato a Tokugawa Ieyasu. Oggi fossati, porte, giardini e grandi prati lo rendono uno dei luoghi migliori per capire la vecchia Sumpu con una piacevole passeggiata nel centro cittadino.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Santuario Shizuoka Sengen",
+          "description": "Un complesso di santuari riccamente decorato ai piedi delle montagne, noto per i suoi edifici vermigli e per il profondo legame con la storia spirituale e politica della regione.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Santuario Kunozan Toshogu",
+          "description": "Raggiungibile tramite una lunga scalinata o con la funivia di Nihondaira, questo santuario sontuoso custodisce Tokugawa Ieyasu e regala splendide viste sul mare e sulla costa di Shimizu.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Nihondaira Yume Terrace",
+          "description": "Un osservatorio panoramico celebre per le ampie vedute sul Monte Fuji, sulla baia di Suruga, sui campi di tè e sul porto di Shimizu. Al mattino, con cielo limpido, la vista è particolarmente nitida.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Miho no Matsubara",
+          "description": "Una celebre pineta costiera che fa parte del paesaggio del sito patrimonio mondiale del Monte Fuji. L'insieme di pini, brezza marina e montagna sullo sfondo rappresenta al meglio Shizuoka.",
+          "image": "/images/shizuoka-hero.svg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Shizuoka Oden",
+          "description": "Oden cotto in un brodo scuro e servito con polvere di pesce e alga verde. È uno dei piatti simbolo della città, perfetto soprattutto nei vicoli tradizionali dedicati all'oden.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Tonno del porto di Shimizu",
+          "description": "Shimizu è nota da tempo per il tonno, quindi sushi e ciotole di riso qui risultano spesso molto freschi e più convenienti rispetto alle grandi aree turistiche.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Gamberetti Sakura",
+          "description": "Questi piccoli gamberi rosa della baia di Suruga si gustano crudi in stagione, in kakiage fritto o sul riso. Il loro sapore dolce e marino è strettamente legato alla zona di Yui.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Shirasu",
+          "description": "Le bianchetti fresche o leggermente bollite compaiono in donburi, menù fissi e piatti da izakaya lungo la baia. Sono un gusto tipicamente costiero della regione.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Tè di Shizuoka e dolci al tè",
+          "description": "Dal raffinato sencha ai dessert matcha e al gelato al tè, la cultura del tè di Shizuoka si può bere, assaggiare e acquistare in tutta la città.",
+          "image": "/images/shizuoka-food.svg"
+        }
+      ],
+      "tips": [
+        "Il centro di Shizuoka si gira bene a piedi, ma Miho, Nihondaira e Kunozan sono molto più comodi con autobus, taxi o con il collegamento in funivia.",
+        "Se per te conta vedere il Monte Fuji, punta alle mattine limpide e mantieni una certa flessibilità perché le nuvole possono coprirlo rapidamente.",
+        "Abbinare Nihondaira Yume Terrace e Kunozan Toshogu nello stesso giorno riduce molto i tempi morti negli spostamenti.",
+        "I locali di pesce intorno al porto di Shimizu possono esaurire presto il pranzo, soprattutto nei fine settimana.",
+        "Anche nelle stagioni miti conviene avere uno strato leggero: la costa e i punti panoramici possono essere ventosi.",
+        "Molti negozi storici e sale da tè chiudono prima rispetto ai quartieri serali di Tokyo, quindi è meglio fare shopping gastronomico nel pomeriggio."
+      ],
+      "bestTime": "Da fine marzo a maggio è ideale per i paesaggi primaverili, le passeggiate tra santuari e la stagione del tè nuovo; da ottobre a inizio dicembre il clima è piacevole e le viste sul Monte Fuji tendono a essere più limpide."
+    },
+    "fuji": {
+      "id": "fuji",
+      "name": "Fuji City",
+      "country": "Giappone",
+      "description": "Ai piedi sud-occidentali del Monte Fuji, Fuji City è una città locale concreta ma ricca di panorami sul monte, campi di tè, sorgenti, paesaggi portuali e un'identità industriale molto distinta.",
+      "image": "/images/fuji-hero.svg",
+      "attractions": [
+        {
+          "name": "Campi di tè di Obuchi Sasaba",
+          "description": "Uno dei migliori luoghi della prefettura per fotografare il Monte Fuji che si alza direttamente dietro filari ordinati di tè verde. Il panorama è particolarmente forte durante la stagione del tè novello.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Fujinokuni Tagonoura Port Park",
+          "description": "Un parco panoramico che domina il porto di Tagonoura, le fabbriche costiere e il Monte Fuji. Riassume bene il mix di industria, mare e montagna che rende unica Fuji City.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Iwamotoyama Park",
+          "description": "Un grande parco collinare amato per pruni, ciliegi, fiori stagionali e ampie viste verso il Monte Fuji. È perfetto per una mezza giornata tranquilla all'aperto.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Mt. Fuji and Princess Kaguya Museum",
+          "description": "Un museo locale che racconta la storia, il folklore, l'industria cartaria e la vita quotidiana di Fuji City, accanto a Hiromi Park e a edifici storici ricostruiti.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Vista notturna industriale e area della Gakunan Railway",
+          "description": "Dopo il tramonto, l'area industriale si illumina con ciminiere, magazzini e binari creando un paesaggio sorprendentemente fotogenico e molto diverso dal volto diurno della città.",
+          "image": "/images/fuji-hero.svg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Don di shirasu fresco",
+          "description": "La zona di Tagonoura è nota per i bianchetti, e una ciotola di riso con shirasu crudo o appena bollito è il modo più diretto per assaggiare il mare locale.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Tsuke Napolitan",
+          "description": "Il più famoso piatto B-grade di Fuji City: noodles serviti con un ricco sugo al pomodoro in cui intingere, spesso completato con formaggio, funghi o ingredienti locali.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Piatti a base di gamberetti Sakura",
+          "description": "Grazie alla vicinanza della baia di Suruga, i gamberetti sakura compaiono in kakiage, ciotole di riso e menù fissi, aggiungendo un sapore tipicamente surughese alla cucina locale.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Tè di Fuji e dessert al tè",
+          "description": "I campi di tè fanno parte del paesaggio cittadino, e i caffè locali trasformano questa identità in parfait, soft serve e dolci al tè verde.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Bevande e sake con acqua sorgiva del Monte Fuji",
+          "description": "L'acqua filtrata dal Monte Fuji plasma la cultura gastronomica locale, dal sake dal gusto pulito al tofu morbido, fino a bevande e dolci realizzati con acqua di grande purezza.",
+          "image": "/images/fuji-food.svg"
+        }
+      ],
+      "tips": [
+        "Per le foto più nitide del Monte Fuji punta alla mattina presto o alle giornate invernali secche.",
+        "I luoghi interessanti sono sparsi, quindi Fuji City si visita molto meglio con auto a noleggio, taxi o con una pianificazione attenta treno più taxi da Shin-Fuji Station.",
+        "I punti panoramici sui campi di tè e i parchi del porto hanno poca ombra, quindi la protezione dal sole è importante dalla primavera all'inizio dell'autunno.",
+        "Se i fiori sono una priorità, controlla le date di fioritura prima di andare a Iwamotoyama; nei weekend di alta stagione l'area si affolla.",
+        "Se ti piace fotografare, porta un grandangolo o molto spazio sul telefono perché panorama e luce cambiano continuamente.",
+        "Se resti fino a sera, abbina un bel punto panoramico sul Monte Fuji di giorno con la vista notturna industriale per vedere due anime molto diverse della città."
+      ],
+      "bestTime": "Da fine febbraio ad aprile è ideale per pruni e ciliegi, maggio per i campi di tè più vividi, e da novembre a febbraio per le viste più limpide e lontane sul Monte Fuji."
+    },
+    "tokyo": {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "country": "Giappone",
+      "description": "La capitale del Giappone è un intreccio densissimo di quartieri storici, cucina globale, shopping d'avanguardia, grandi musei, santuari immersi nel verde e passeggiate urbane che cambiano volto a ogni ora.",
+      "image": "/images/tokyo-hero.svg",
+      "attractions": [
+        {
+          "name": "Senso-ji e Nakamise",
+          "description": "Il distretto templare più celebre di Tokyo unisce porte storiche, incenso e lanterne a una via commerciale piena di snack tradizionali e souvenir.",
+          "image": "/images/tokyo-hero.svg"
+        },
+        {
+          "name": "Meiji Jingu",
+          "description": "Un grande santuario immerso nel bosco vicino a Harajuku che trasmette una calma sorprendente nonostante la posizione centrale. È uno dei luoghi migliori per percepire il lato spirituale di Tokyo.",
+          "image": "/images/tokyo-hero.svg"
+        },
+        {
+          "name": "Shibuya Scramble Crossing e Center-Gai",
+          "description": "L'icona dell'energia urbana di Tokyo moderna: maxischermi, cultura giovanile, folla continua, locali aperti fino a tardi e accesso immediato a shopping e punti panoramici.",
+          "image": "/images/tokyo-hero.svg"
+        },
+        {
+          "name": "Tokyo Skytree",
+          "description": "Un simbolo contemporaneo della città con viste immense, negozi, ristoranti e comodi collegamenti con i quartieri più tradizionali dell'est come Asakusa.",
+          "image": "/images/tokyo-hero.svg"
+        },
+        {
+          "name": "Ueno Park e Tokyo National Museum",
+          "description": "Una classica zona culturale dove musei, verde stagionale, templi e vita quotidiana locale si incontrano in uno degli itinerari pedonali più gratificanti della città.",
+          "image": "/images/tokyo-hero.svg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Sushi Edomae",
+          "description": "Il sushi tradizionale in stile Tokyo, radicato nelle tecniche dell'epoca Edo. Va dai banconi veloci ai raffinati omakase, ma il cuore resta l'equilibrio tra riso condito e pesce preparato con precisione.",
+          "image": "/images/tokyo-food.svg"
+        },
+        {
+          "name": "Monjayaki",
+          "description": "Il celebre piatto alla piastra di Tokyo, da provare soprattutto a Tsukishima dove intere strade sono specializzate. È conviviale, informale e molto divertente.",
+          "image": "/images/tokyo-food.svg"
+        },
+        {
+          "name": "Tempura",
+          "description": "Frutti di mare e verdure fritti con una leggerezza che esalta la qualità degli ingredienti. Tokyo rimane uno dei posti migliori del Giappone per provarla sia in modo classico sia ad alto livello.",
+          "image": "/images/tokyo-food.svg"
+        },
+        {
+          "name": "Ramen di Tokyo",
+          "description": "La città offre ogni stile immaginabile, ma il classico shoyu ramen e le tante varianti di quartiere fanno di Tokyo uno dei migliori luoghi al mondo per la caccia informale ai noodle.",
+          "image": "/images/tokyo-food.svg"
+        },
+        {
+          "name": "Fukagawa-meshi",
+          "description": "Piatto storico di riso e vongole legato ai vecchi quartieri operai sul waterfront di Tokyo, soprattutto nell'area di Fukagawa.",
+          "image": "/images/tokyo-food.svg"
+        },
+        {
+          "name": "Ningyo-yaki e dolci di Asakusa",
+          "description": "Piccole tortine soffici e snack tradizionali facili da gustare ad Asakusa durante una pausa tra una visita e l'altra.",
+          "image": "/images/tokyo-food.svg"
+        }
+      ],
+      "tips": [
+        "Usa una carta IC compatibile con Suica o PASMO e privilegia la rete ferroviaria; i taxi sono utili di notte ma molto più lenti e costosi nelle zone trafficate.",
+        "Se possibile evita le grandi fasce di pendolarismo, soprattutto le mattine feriali e il tardo pomeriggio.",
+        "Tokyo premia gli itinerari per quartiere, quindi conviene unire zone vicine come Asakusa e Skytree oppure Harajuku e Shibuya nella stessa giornata.",
+        "Musei popolari, osservatori, cafe a tema e mostre speciali richiedono spesso prenotazioni anticipate.",
+        "Gli ultimi treni arrivano prima di quanto molti visitatori immaginino dopo cene tardive o serate nei bar: controlla il rientro prima di mezzanotte.",
+        "Le scarpe comode contano più di quasi tutto: anche un itinerario basato sui treni comporta spesso lunghi percorsi a piedi dentro le stazioni.",
+        "Tieni un po' di contanti nonostante la diffusione crescente delle carte, specialmente per santuari, piccoli ristoranti e negozi più tradizionali."
+      ],
+      "bestTime": "Da fine marzo a maggio e da ottobre a novembre sono i periodi più facili per lunghe passeggiate urbane, mentre l'inverno offre aria limpida, illuminazioni e viste spesso più chiare dagli osservatori."
     },
     "rome": {
       "id": "rome",

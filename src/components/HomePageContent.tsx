@@ -25,7 +25,7 @@ export default function HomePageContent({
                     </Text>
                 </VStack>
 
-                <SimpleGrid columns={{ base: 1, md: 2 }} spacing={10} justifyItems="center">
+                <SimpleGrid columns={{ base: 1, md: 2, xl: 3 }} spacing={10} justifyItems="center">
                     {cities.map((city) => (
                         <CityCard
                             key={city.id}

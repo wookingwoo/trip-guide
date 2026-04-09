@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Shizuoka hero illustration</title>
+  <desc id="desc">Tea fields, Suruga Bay, shrine gate, and Mount Fuji representing Shizuoka.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b9e6ff" />
+      <stop offset="55%" stop-color="#eff9ff" />
+      <stop offset="100%" stop-color="#fff8ee" />
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6ac2d8" />
+      <stop offset="100%" stop-color="#2f7f97" />
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6bb34d" />
+      <stop offset="100%" stop-color="#2f6f34" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="680" fill="url(#sky)" />
+  <circle cx="950" cy="120" r="54" fill="#ffd28c" opacity="0.9" />
+  <path d="M 0 420 Q 120 360 240 385 T 480 370 T 720 390 T 960 360 T 1200 385 V 680 H 0 Z" fill="#d6e8d0" />
+  <path d="M 350 395 L 600 150 L 850 395 Z" fill="#6d8594" />
+  <path d="M 470 270 L 600 150 L 730 270 Z" fill="#f8fbff" />
+  <path d="M 450 290 L 600 180 L 750 290 Z" fill="#eff6fb" />
+  <path d="M 0 470 C 140 420 240 430 360 455 C 510 488 615 515 760 505 C 930 494 1060 430 1200 455 V 680 H 0 Z" fill="url(#sea)" />
+  <path d="M 0 510 C 160 470 260 485 390 515 C 540 548 650 575 790 560 C 950 545 1085 490 1200 510 V 680 H 0 Z" fill="#1e6078" opacity="0.4" />
+  <path d="M 0 520 C 170 500 320 560 470 590 C 650 625 860 635 1200 560 V 680 H 0 Z" fill="url(#field)" />
+  <path d="M 0 575 C 150 550 280 600 430 630 C 600 662 860 665 1200 610 V 680 H 0 Z" fill="#214d24" />
+  <g fill="none" stroke="#9ed06f" stroke-width="6" opacity="0.8">
+    <path d="M 40 560 C 170 525 300 560 445 610" />
+    <path d="M 210 545 C 365 520 500 560 640 612" />
+    <path d="M 420 540 C 565 520 730 555 885 605" />
+    <path d="M 690 545 C 830 530 980 560 1135 598" />
+  </g>
+  <g transform="translate(880 405)">
+    <rect x="-12" y="0" width="24" height="120" fill="#8a5236" />
+    <path d="M -72 34 L 72 34 L 52 16 L -52 16 Z" fill="#d03b30" />
+    <rect x="-58" y="34" width="16" height="86" fill="#d03b30" />
+    <rect x="42" y="34" width="16" height="86" fill="#d03b30" />
+    <path d="M -54 0 Q 0 -22 54 0" fill="none" stroke="#c82828" stroke-width="10" stroke-linecap="round" />
+  </g>
+  <g transform="translate(140 390)" fill="#214d24">
+    <path d="M 0 90 C 60 0 120 0 180 90 C 120 45 60 45 0 90 Z" />
+    <rect x="86" y="88" width="8" height="62" fill="#5c3f2a" />
+  </g>
+</svg>
