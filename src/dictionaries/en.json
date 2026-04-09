@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Discover Your Next Adventure",
-    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, and Singapore with our premium guide.",
+    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore, and Shanghai with our premium guide.",
     "explore": "Explore Cities",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -14,7 +14,8 @@
     "osaka": "Osaka",
     "sydney": "Sydney",
     "melbourne": "Melbourne",
-    "singapore": "Singapore"
+    "singapore": "Singapore",
+    "shanghai": "Shanghai"
   },
   "nav": {
     "home": "Home",
@@ -1351,6 +1352,127 @@
         {
           "title": "City and Greenery Balance",
           "description": "Use the morning for the Botanic Gardens or another lower-heat green space, retreat indoors during the hottest hours, then return to the city core after dark for skyline views."
+        }
+      ]
+    },
+    "shanghai": {
+      "id": "shanghai",
+      "name": "Shanghai",
+      "country": "China",
+      "description": "Shanghai brings together Bund-era waterfront history, Lujiazui's futuristic skyline, old-city lanes around Yuyuan Garden, major commercial corridors, and a deeply everyday food culture led by dumplings, noodles, and rich Jiangnan-style flavors.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "The Bund",
+          "description": "Shanghai's most famous waterfront walk is where the city's historical and futuristic identities face each other most clearly. Colonial-era financial buildings line one side, while Pudong's skyline rises across the Huangpu River, making this the fastest possible introduction to the city.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Lujiazui Skyline and Observation District",
+          "description": "The concentration of towers in Pudong, including landmark observation buildings, gives Shanghai its strongest ultra-modern image. It feels impressive by day, but the district becomes much more memorable when viewed in relation to the Bund and the river after dark.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Yuyuan Garden and the Old City Bazaar",
+          "description": "This area shows a very different Shanghai, centered on classical garden design, old-city commercial energy, traditional architectural motifs, and dense foot traffic. It can be crowded, but it is one of the best ways to balance Shanghai's glass-and-steel reputation with an older urban layer.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Nanjing Road Pedestrian Street",
+          "description": "One of China's classic shopping streets, Nanjing Road matters as much for understanding Shanghai's commercial rhythm as for buying anything specific. Department stores, lights, crowd flow, and historic retail identity all overlap here.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Shanghai Museum and People's Square",
+          "description": "People's Square is one of central Shanghai's most important cultural and transport anchors, and the Shanghai Museum adds real depth through major collections of ancient Chinese bronzes, ceramics, calligraphy, and other heritage material.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Former French Concession and Xintiandi",
+          "description": "Tree-lined streets, lane-house character, cafés, boutiques, and restored shikumen architecture make this side of Shanghai feel far more lived-in and layered than the skyline districts alone. It is the part of the city that often rewards slower time the most.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Xiaolongbao",
+          "description": "Shanghai's best-known dish depends on thin skin, hot broth, and filling staying in careful balance. Famous tourist spots exist, but part of the fun is comparing texture and soup quality across more than one shop.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Shengjianbao",
+          "description": "These pan-fried buns are crisp on the bottom, softer on top, and more everyday in feel than xiaolongbao. They are one of the clearest examples of Shanghai's practical local breakfast and snack culture.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cong You Ban Mian",
+          "description": "Scallion-oil noodles are a simple but deeply characteristic Shanghai dish. They reveal the city's everyday side better than many headline foods and are ideal when you want something local without turning the meal into a formal event.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Paigu Niangao",
+          "description": "Pork chop with rice cakes is one of those dishes that feels less tourist-facing and more genuinely urban. The sweet-savory sauce and chewy rice cakes make it a good example of how Shanghai comfort food actually eats.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Hongshao Rou",
+          "description": "Red-braised pork reflects the richer, sweeter, glossy side of Jiangnan-influenced cooking around Shanghai. It is heavier than a casual snack, so it works best as the anchor of a full meal.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Crab Roe and Seasonal Crab Dishes",
+          "description": "Autumn can change a Shanghai food trip completely thanks to crab roe and related seasonal specialties. Timing matters here, but if you visit in the right window, it becomes one of the city's strongest culinary memories.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Shanghai feels huge, but the core visitor areas are linked well enough by Metro that the city is easier to handle once you commit to rail-first planning.",
+        "Your airport strategy should depend on where you are staying. Pudong Airport access can mean the Maglev to Longyang Road, Metro Line 2, or the Airport Link Line, and the best choice changes with transfer burden and final destination.",
+        "The Bund, Yuyuan, and Nanjing Road are all much better outside their busiest middle-of-the-day and evening peaks if your goal is photos, walking, and atmosphere rather than maximum crowd energy.",
+        "Shanghai is more rewarding when divided into zones such as Bund and People's Square, Yuyuan and the old city, and the French Concession rather than forcing everything into one overpacked day.",
+        "Major observation decks, exhibitions, and some museums may work better with timed reservations, so it is worth checking high-priority sites in advance.",
+        "Mobile payment is deeply embedded in daily life, so international visitors are usually more comfortable if they prepare at least one reliable digital payment method along with a small amount of backup cash.",
+        "Summer heat and humidity can be draining quickly, so midday plans are often stronger when they include museums, malls, cafés, or other indoor resets.",
+        "Shanghai's real appeal is not only visual spectacle but also slower time in lane streets, cafés, bookshops, and riverside walks, so reducing the number of headline stops can actually improve the trip."
+      ],
+      "bestTime": "March to May and October to November are usually the easiest seasons for walking, riverfront time, museums, and café-based breaks. Summer is hot and humid but visually lively at night, while winter can feel cold and damp even though visibility is often clearer on good days.",
+      "overview": "Shanghai is a city of deliberate contrasts. The Bund's historical facades face Pudong's futuristic towers across the river, while Yuyuan's old-city texture, Nanjing Road's commercial force, and the Former French Concession's slower street life all sit within the same broader urban system. That means the key to Shanghai is not only what is most famous, but how you choose to combine its different eras and moods in a single day. The city becomes far more memorable when skyline views, gardens, museums, food, and neighborhood walking are allowed to build against each other rather than being rushed separately.",
+      "highlights": [
+        "The face-off between Bund-era architecture and Lujiazui's skyscrapers is one of the clearest urban contrasts anywhere in Asia.",
+        "Old-city commerce, giant pedestrian shopping corridors, and concession-era leafy neighborhoods all sit unusually close together.",
+        "Metro depth and strong airport access make a very large city feel much more manageable than the map first suggests."
+      ],
+      "gettingAround": [
+        "Shanghai Metro should be the default for most city sightseeing, with short taxi segments or walking filling only the final gaps.",
+        "People's Square and East Nanjing Road are the easiest anchors for first-time stays, while Jing'an and the French Concession often offer a stronger lived-in city feel.",
+        "The Maglev is the most iconic airport option, but it still requires a Longyang Road transfer, so Metro or the Airport Link Line can be more practical depending on the hotel location."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "People's Square and East Nanjing Road",
+          "description": "The most intuitive first-time base for Metro access, museum visits, Bund walking, and immediate exposure to central Shanghai."
+        },
+        {
+          "name": "Former French Concession and Jing'an",
+          "description": "Best if you care more about cafés, dining, tree-lined streets, and slower neighborhood walking than pure landmark density."
+        },
+        {
+          "name": "Lujiazui or Bund-Adjacent Stays",
+          "description": "Strongest if skyline views, business-style hotels, and maximum emphasis on Shanghai's iconic riverfront image matter most."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Classic Shanghai Contrast Day",
+          "description": "Begin at People's Square and the museum area, move through East Nanjing Road toward the Bund, and finish with riverfront or Lujiazui night views so old and new Shanghai meet in one full arc."
+        },
+        {
+          "title": "Old City and Concession Day",
+          "description": "Start with Yuyuan and the old bazaar area, build lunch around xiaolongbao or shengjianbao, then slow the afternoon inside the French Concession before ending around Xintiandi."
+        },
+        {
+          "title": "Modern Shanghai and Skyline Day",
+          "description": "Use the daytime for Pudong's towers, malls, and observation decks, then return to the river or Bund side after dark to see the skyline from the angle that makes Shanghai most iconic."
         }
       ]
     }
