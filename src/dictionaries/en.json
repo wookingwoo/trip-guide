@@ -3,10 +3,10 @@
     "title": "Discover Your Next Adventure",
     "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, and Pattaya with our premium guide.",
     "explore": "Explore Cities",
-    "sapporo": "Sapporo",
-    "shizuoka": "Shizuoka",
-    "fuji": "Fuji City",
     "tokyo": "Tokyo",
+    "fuji": "Fuji City",
+    "shizuoka": "Shizuoka",
+    "sapporo": "Sapporo",
     "rome": "Rome",
     "bangkok": "Bangkok",
     "pattaya": "Pattaya"
@@ -23,213 +23,6 @@
     "back": "Back to Home"
   },
   "cities": {
-    "sapporo": {
-      "id": "sapporo",
-      "name": "Sapporo",
-      "country": "Japan",
-      "description": "The capital of Hokkaido, famous for its beer, ramen, and annual snow festival.",
-      "image": "/images/sapporo-hero.png",
-      "attractions": [
-        {
-          "name": "Odori Park",
-          "description": "A park that spans 1.5 km and serves as the main site of the Sapporo Snow Festival.",
-          "image": "/images/odori-park.jpg"
-        },
-        {
-          "name": "Sapporo Beer Museum",
-          "description": "The only beer museum in Japan, located in a historic brick building.",
-          "image": "/images/beer-museum.jpg"
-        },
-        {
-          "name": "Susukino",
-          "description": "One of Japan's three major entertainment districts, bustling with nightlife and restaurants.",
-          "image": "/images/susukino.jpg"
-        },
-        {
-          "name": "Hokkaido Shrine",
-          "description": "A shrine dedicated to the guardian deities of Hokkaido, also famous for cherry blossoms.",
-          "image": "/images/hokkaido-shrine.jpg"
-        },
-        {
-          "name": "Shiroi Koibito Park",
-          "description": "A theme park where you can tour the factory of the famous 'Shiroi Koibito' cookie.",
-          "image": "/images/shiroi-koibito.jpg"
-        }
-      ],
-      "foods": [
-        {
-          "name": "Miso Ramen",
-          "description": "Sapporo is the birthplace of Miso Ramen.",
-          "image": "/images/miso-ramen.jpg"
-        },
-        {
-          "name": "Soup Curry",
-          "description": "A light curry flavored soup served with vegetables and meat.",
-          "image": "/images/soup-curry.jpg"
-        },
-        {
-          "name": "Genghis Khan",
-          "description": "A representative local dish of Hokkaido featuring grilled lamb and vegetables.",
-          "image": "/images/genghis-khan.jpg"
-        },
-        {
-          "name": "Kaisendon",
-          "description": "A rice bowl topped generously with fresh seafood.",
-          "image": "/images/kaisendon.jpg"
-        },
-        {
-          "name": "Soft Serve Ice Cream",
-          "description": "Rich and smooth ice cream made from fresh Hokkaido milk.",
-          "image": "/images/soft-serve.jpg"
-        }
-      ],
-      "tips": [
-        "Wear non-slip shoes in winter as it snows heavily.",
-        "Book accommodation in advance during the Snow Festival in February.",
-        "Use the well-developed underground walkways for convenient travel."
-      ],
-      "bestTime": "February for the Snow Festival, July-August for flowers and cool weather."
-    },
-    "shizuoka": {
-      "id": "shizuoka",
-      "name": "Shizuoka",
-      "country": "Japan",
-      "description": "A historic port city between Suruga Bay and the mountains, Shizuoka combines Tokugawa heritage, tea culture, outstanding Mt. Fuji viewpoints, and some of central Japan's best seafood.",
-      "image": "/images/shizuoka-hero.svg",
-      "attractions": [
-        {
-          "name": "Sunpu Castle Park",
-          "description": "The former castle grounds associated with Tokugawa Ieyasu. Today the moats, gates, gardens, and broad lawns make it one of the best places to understand old Sumpu while taking an easy walk in the city center.",
-          "image": "/images/shizuoka-hero.svg"
-        },
-        {
-          "name": "Shizuoka Sengen Shrine",
-          "description": "A richly decorated shrine complex at the foot of the mountains, known for vivid vermilion buildings and deep connections to the region's spiritual and political history.",
-          "image": "/images/shizuoka-hero.svg"
-        },
-        {
-          "name": "Kunozan Toshogu Shrine",
-          "description": "Reached via stone steps or the Nihondaira Ropeway, this ornate shrine enshrines Tokugawa Ieyasu and rewards visitors with dramatic views over the sea and the Shimizu coast.",
-          "image": "/images/shizuoka-hero.svg"
-        },
-        {
-          "name": "Nihondaira Yume Terrace",
-          "description": "A panoramic observatory famous for wide views of Mt. Fuji, Suruga Bay, tea fields, and Shimizu Port. Visit on a clear morning for the sharpest mountain views.",
-          "image": "/images/shizuoka-hero.svg"
-        },
-        {
-          "name": "Miho no Matsubara",
-          "description": "A celebrated pine grove and seashore landscape that forms part of the Mt. Fuji World Heritage setting. The combination of black pines, sea breeze, and the mountain beyond is classic Shizuoka scenery.",
-          "image": "/images/shizuoka-hero.svg"
-        }
-      ],
-      "foods": [
-        {
-          "name": "Shizuoka Oden",
-          "description": "Dark-broth oden served with fish-stock powder and green laver. It is one of the city's signature comfort foods and especially good in old-school oden alleys.",
-          "image": "/images/shizuoka-food.svg"
-        },
-        {
-          "name": "Shimizu Port Tuna",
-          "description": "Shimizu has long been known for tuna, so sushi and rice bowls here are often exceptionally fresh and reasonably priced compared with big-city tourist districts.",
-          "image": "/images/shizuoka-food.svg"
-        },
-        {
-          "name": "Sakura Shrimp",
-          "description": "These tiny pink shrimp from Suruga Bay are often eaten raw in season, as kakiage fritters, or over rice. Their sweet, briny flavor is closely tied to the Yui area.",
-          "image": "/images/shizuoka-food.svg"
-        },
-        {
-          "name": "Whitebait (Shirasu)",
-          "description": "Fresh or lightly boiled whitebait appears in donburi, set meals, and izakaya dishes around the bay. It is a staple coastal taste of the region.",
-          "image": "/images/shizuoka-food.svg"
-        },
-        {
-          "name": "Shizuoka Tea and Tea Sweets",
-          "description": "From elegant sencha to matcha desserts and tea gelato, Shizuoka's tea culture is something to drink, taste, and shop for throughout the city.",
-          "image": "/images/shizuoka-food.svg"
-        }
-      ],
-      "tips": [
-        "Central Shizuoka is easy on foot, but Miho, Nihondaira, and Kunozan are much easier with buses, taxis, or a ropeway connection.",
-        "If Mt. Fuji views matter to you, prioritize clear mornings and keep a flexible schedule because clouds can hide the mountain quickly.",
-        "Pair Nihondaira Yume Terrace with Kunozan Toshogu on the same day to minimize backtracking.",
-        "Seafood lunch spots around Shimizu Port can sell out early, especially on weekends.",
-        "Carry a light outer layer even in mild seasons because coastal areas and observation points can feel windy.",
-        "Many historic shops and tea stores close earlier than nightlife districts in Tokyo, so start food shopping before evening."
-      ],
-      "bestTime": "Late March to May is excellent for spring scenery, shrine walks, and fresh tea season, while October to early December often brings comfortable weather and clearer Mt. Fuji views."
-    },
-    "fuji": {
-      "id": "fuji",
-      "name": "Fuji City",
-      "country": "Japan",
-      "description": "At the southwestern foot of Mt. Fuji, Fuji City is a practical local city with exceptional mountain viewpoints, tea-field scenery, spring water, port landscapes, and a distinctive industrial character.",
-      "image": "/images/fuji-hero.svg",
-      "attractions": [
-        {
-          "name": "Obuchi Sasaba Tea Fields",
-          "description": "One of the best places in Shizuoka to photograph Mt. Fuji rising directly behind neat green tea rows. The view is especially striking during fresh-tea season.",
-          "image": "/images/fuji-hero.svg"
-        },
-        {
-          "name": "Fujinokuni Tagonoura Port Park",
-          "description": "An observatory park overlooking Tagonoura Port, coastal factories, and Mt. Fuji. It captures the mix of industry, sea, and mountain that makes Fuji City unique.",
-          "image": "/images/fuji-hero.svg"
-        },
-        {
-          "name": "Iwamotoyama Park",
-          "description": "A large hillside park loved for plum blossoms, cherry blossoms, seasonal flowers, and broad views toward Mt. Fuji. It works well for an easy half-day picnic stop.",
-          "image": "/images/fuji-hero.svg"
-        },
-        {
-          "name": "Mt. Fuji and Princess Kaguya Museum",
-          "description": "A local museum introducing Fuji City's history, folklore, paper industry, and daily life, set beside Hiromi Park and reconstructed heritage buildings.",
-          "image": "/images/fuji-hero.svg"
-        },
-        {
-          "name": "Factory Night View and the Gakunan Railway Area",
-          "description": "After sunset, the industrial zone glows with a surprisingly photogenic landscape of smokestacks, warehouses, and rail lines, offering a very different face of the city.",
-          "image": "/images/fuji-hero.svg"
-        }
-      ],
-      "foods": [
-        {
-          "name": "Fresh Shirasu Don",
-          "description": "The Tagonoura area is known for whitebait, and bowls topped with raw or lightly boiled shirasu are the most direct way to taste the coast.",
-          "image": "/images/fuji-food.svg"
-        },
-        {
-          "name": "Tsuke Napolitan",
-          "description": "Fuji City's best-known local B-grade gourmet dish: noodles served with a rich tomato-based dipping soup, often finished with cheese, mushrooms, or local extras.",
-          "image": "/images/fuji-food.svg"
-        },
-        {
-          "name": "Sakura Shrimp Dishes",
-          "description": "Because Suruga Bay is nearby, sakura shrimp appears in kakiage, rice bowls, and set meals. It adds a distinctly Suruga flavor to local dining.",
-          "image": "/images/fuji-food.svg"
-        },
-        {
-          "name": "Fuji Tea and Tea Desserts",
-          "description": "Tea fields are part of the city's scenery, and local cafes often turn that identity into parfaits, soft serve, and sweets flavored with green tea.",
-          "image": "/images/fuji-food.svg"
-        },
-        {
-          "name": "Mt. Fuji Spring-Water Drinks and Sake",
-          "description": "Water filtered through Mt. Fuji shapes the local food culture, from crisp sake and soft tofu to drinks and sweets made with especially clean water.",
-          "image": "/images/fuji-food.svg"
-        }
-      ],
-      "tips": [
-        "For the cleanest Mt. Fuji photos, aim for early morning or dry winter days.",
-        "Spots are spread out, so Fuji City is much easier by rental car, taxi, or careful train-plus-taxi planning from Shin-Fuji Station.",
-        "Tea-field viewpoints and port parks have limited shade, so sun protection matters from spring through early autumn.",
-        "Check blossom timing before visiting Iwamotoyama if flowers are a priority; weekends in peak season get crowded.",
-        "Bring a wide-angle lens or extra phone storage if you like photography because views change constantly with weather and light.",
-        "If you stay into the evening, combine a daytime Mt. Fuji viewpoint with the industrial night view for two very different versions of the city."
-      ],
-      "bestTime": "Late February to April is best for plum and cherry blossom scenery, May for vivid tea fields, and November to February for the clearest long-range views of Mt. Fuji."
-    },
     "tokyo": {
       "id": "tokyo",
       "name": "Tokyo",
@@ -305,6 +98,213 @@
         "Keep a small amount of cash despite Tokyo's improving card acceptance, especially for shrines, tiny eateries, and older shops."
       ],
       "bestTime": "Late March to May and October to November are the easiest seasons for long city walks, while winter offers crisp air, illuminations, and comparatively clear views from observation decks."
+    },
+    "fuji": {
+      "id": "fuji",
+      "name": "Fuji City",
+      "country": "Japan",
+      "description": "At the southwestern foot of Mt. Fuji, Fuji City is a practical local city with exceptional mountain viewpoints, tea-field scenery, spring water, port landscapes, and a distinctive industrial character.",
+      "image": "/images/fuji-hero.svg",
+      "attractions": [
+        {
+          "name": "Obuchi Sasaba Tea Fields",
+          "description": "One of the best places in Shizuoka to photograph Mt. Fuji rising directly behind neat green tea rows. The view is especially striking during fresh-tea season.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Fujinokuni Tagonoura Port Park",
+          "description": "An observatory park overlooking Tagonoura Port, coastal factories, and Mt. Fuji. It captures the mix of industry, sea, and mountain that makes Fuji City unique.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Iwamotoyama Park",
+          "description": "A large hillside park loved for plum blossoms, cherry blossoms, seasonal flowers, and broad views toward Mt. Fuji. It works well for an easy half-day picnic stop.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Mt. Fuji and Princess Kaguya Museum",
+          "description": "A local museum introducing Fuji City's history, folklore, paper industry, and daily life, set beside Hiromi Park and reconstructed heritage buildings.",
+          "image": "/images/fuji-hero.svg"
+        },
+        {
+          "name": "Factory Night View and the Gakunan Railway Area",
+          "description": "After sunset, the industrial zone glows with a surprisingly photogenic landscape of smokestacks, warehouses, and rail lines, offering a very different face of the city.",
+          "image": "/images/fuji-hero.svg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Fresh Shirasu Don",
+          "description": "The Tagonoura area is known for whitebait, and bowls topped with raw or lightly boiled shirasu are the most direct way to taste the coast.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Tsuke Napolitan",
+          "description": "Fuji City's best-known local B-grade gourmet dish: noodles served with a rich tomato-based dipping soup, often finished with cheese, mushrooms, or local extras.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Sakura Shrimp Dishes",
+          "description": "Because Suruga Bay is nearby, sakura shrimp appears in kakiage, rice bowls, and set meals. It adds a distinctly Suruga flavor to local dining.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Fuji Tea and Tea Desserts",
+          "description": "Tea fields are part of the city's scenery, and local cafes often turn that identity into parfaits, soft serve, and sweets flavored with green tea.",
+          "image": "/images/fuji-food.svg"
+        },
+        {
+          "name": "Mt. Fuji Spring-Water Drinks and Sake",
+          "description": "Water filtered through Mt. Fuji shapes the local food culture, from crisp sake and soft tofu to drinks and sweets made with especially clean water.",
+          "image": "/images/fuji-food.svg"
+        }
+      ],
+      "tips": [
+        "For the cleanest Mt. Fuji photos, aim for early morning or dry winter days.",
+        "Spots are spread out, so Fuji City is much easier by rental car, taxi, or careful train-plus-taxi planning from Shin-Fuji Station.",
+        "Tea-field viewpoints and port parks have limited shade, so sun protection matters from spring through early autumn.",
+        "Check blossom timing before visiting Iwamotoyama if flowers are a priority; weekends in peak season get crowded.",
+        "Bring a wide-angle lens or extra phone storage if you like photography because views change constantly with weather and light.",
+        "If you stay into the evening, combine a daytime Mt. Fuji viewpoint with the industrial night view for two very different versions of the city."
+      ],
+      "bestTime": "Late February to April is best for plum and cherry blossom scenery, May for vivid tea fields, and November to February for the clearest long-range views of Mt. Fuji."
+    },
+    "shizuoka": {
+      "id": "shizuoka",
+      "name": "Shizuoka",
+      "country": "Japan",
+      "description": "A historic port city between Suruga Bay and the mountains, Shizuoka combines Tokugawa heritage, tea culture, outstanding Mt. Fuji viewpoints, and some of central Japan's best seafood.",
+      "image": "/images/shizuoka-hero.svg",
+      "attractions": [
+        {
+          "name": "Sunpu Castle Park",
+          "description": "The former castle grounds associated with Tokugawa Ieyasu. Today the moats, gates, gardens, and broad lawns make it one of the best places to understand old Sumpu while taking an easy walk in the city center.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Shizuoka Sengen Shrine",
+          "description": "A richly decorated shrine complex at the foot of the mountains, known for vivid vermilion buildings and deep connections to the region's spiritual and political history.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Kunozan Toshogu Shrine",
+          "description": "Reached via stone steps or the Nihondaira Ropeway, this ornate shrine enshrines Tokugawa Ieyasu and rewards visitors with dramatic views over the sea and the Shimizu coast.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Nihondaira Yume Terrace",
+          "description": "A panoramic observatory famous for wide views of Mt. Fuji, Suruga Bay, tea fields, and Shimizu Port. Visit on a clear morning for the sharpest mountain views.",
+          "image": "/images/shizuoka-hero.svg"
+        },
+        {
+          "name": "Miho no Matsubara",
+          "description": "A celebrated pine grove and seashore landscape that forms part of the Mt. Fuji World Heritage setting. The combination of black pines, sea breeze, and the mountain beyond is classic Shizuoka scenery.",
+          "image": "/images/shizuoka-hero.svg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Shizuoka Oden",
+          "description": "Dark-broth oden served with fish-stock powder and green laver. It is one of the city's signature comfort foods and especially good in old-school oden alleys.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Shimizu Port Tuna",
+          "description": "Shimizu has long been known for tuna, so sushi and rice bowls here are often exceptionally fresh and reasonably priced compared with big-city tourist districts.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Sakura Shrimp",
+          "description": "These tiny pink shrimp from Suruga Bay are often eaten raw in season, as kakiage fritters, or over rice. Their sweet, briny flavor is closely tied to the Yui area.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Whitebait (Shirasu)",
+          "description": "Fresh or lightly boiled whitebait appears in donburi, set meals, and izakaya dishes around the bay. It is a staple coastal taste of the region.",
+          "image": "/images/shizuoka-food.svg"
+        },
+        {
+          "name": "Shizuoka Tea and Tea Sweets",
+          "description": "From elegant sencha to matcha desserts and tea gelato, Shizuoka's tea culture is something to drink, taste, and shop for throughout the city.",
+          "image": "/images/shizuoka-food.svg"
+        }
+      ],
+      "tips": [
+        "Central Shizuoka is easy on foot, but Miho, Nihondaira, and Kunozan are much easier with buses, taxis, or a ropeway connection.",
+        "If Mt. Fuji views matter to you, prioritize clear mornings and keep a flexible schedule because clouds can hide the mountain quickly.",
+        "Pair Nihondaira Yume Terrace with Kunozan Toshogu on the same day to minimize backtracking.",
+        "Seafood lunch spots around Shimizu Port can sell out early, especially on weekends.",
+        "Carry a light outer layer even in mild seasons because coastal areas and observation points can feel windy.",
+        "Many historic shops and tea stores close earlier than nightlife districts in Tokyo, so start food shopping before evening."
+      ],
+      "bestTime": "Late March to May is excellent for spring scenery, shrine walks, and fresh tea season, while October to early December often brings comfortable weather and clearer Mt. Fuji views."
+    },
+    "sapporo": {
+      "id": "sapporo",
+      "name": "Sapporo",
+      "country": "Japan",
+      "description": "The capital of Hokkaido, famous for its beer, ramen, and annual snow festival.",
+      "image": "/images/sapporo-hero.png",
+      "attractions": [
+        {
+          "name": "Odori Park",
+          "description": "A park that spans 1.5 km and serves as the main site of the Sapporo Snow Festival.",
+          "image": "/images/odori-park.jpg"
+        },
+        {
+          "name": "Sapporo Beer Museum",
+          "description": "The only beer museum in Japan, located in a historic brick building.",
+          "image": "/images/beer-museum.jpg"
+        },
+        {
+          "name": "Susukino",
+          "description": "One of Japan's three major entertainment districts, bustling with nightlife and restaurants.",
+          "image": "/images/susukino.jpg"
+        },
+        {
+          "name": "Hokkaido Shrine",
+          "description": "A shrine dedicated to the guardian deities of Hokkaido, also famous for cherry blossoms.",
+          "image": "/images/hokkaido-shrine.jpg"
+        },
+        {
+          "name": "Shiroi Koibito Park",
+          "description": "A theme park where you can tour the factory of the famous 'Shiroi Koibito' cookie.",
+          "image": "/images/shiroi-koibito.jpg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Miso Ramen",
+          "description": "Sapporo is the birthplace of Miso Ramen.",
+          "image": "/images/miso-ramen.jpg"
+        },
+        {
+          "name": "Soup Curry",
+          "description": "A light curry flavored soup served with vegetables and meat.",
+          "image": "/images/soup-curry.jpg"
+        },
+        {
+          "name": "Genghis Khan",
+          "description": "A representative local dish of Hokkaido featuring grilled lamb and vegetables.",
+          "image": "/images/genghis-khan.jpg"
+        },
+        {
+          "name": "Kaisendon",
+          "description": "A rice bowl topped generously with fresh seafood.",
+          "image": "/images/kaisendon.jpg"
+        },
+        {
+          "name": "Soft Serve Ice Cream",
+          "description": "Rich and smooth ice cream made from fresh Hokkaido milk.",
+          "image": "/images/soft-serve.jpg"
+        }
+      ],
+      "tips": [
+        "Wear non-slip shoes in winter as it snows heavily.",
+        "Book accommodation in advance during the Snow Festival in February.",
+        "Use the well-developed underground walkways for convenient travel."
+      ],
+      "bestTime": "February for the Snow Festival, July-August for flowers and cool weather."
     },
     "rome": {
       "id": "rome",
