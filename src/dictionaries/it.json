@@ -1,13 +1,16 @@
 {
   "home": {
     "title": "Scopri la tua prossima avventura",
-    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore e Shanghai con la nostra guida premium.",
+    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Vaticano, Pisa, Firenze, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore, Shanghai, Hangzhou e Suzhou con la nostra guida premium.",
     "explore": "Esplora le città",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
     "shizuoka": "Shizuoka",
     "sapporo": "Sapporo",
     "rome": "Roma",
+    "vatican": "Vaticano",
+    "pisa": "Pisa",
+    "florence": "Firenze",
     "bangkok": "Bangkok",
     "pattaya": "Pattaya",
     "cebu": "Cebu",
@@ -15,7 +18,9 @@
     "sydney": "Sydney",
     "melbourne": "Melbourne",
     "singapore": "Singapore",
-    "shanghai": "Shanghai"
+    "shanghai": "Shanghai",
+    "hangzhou": "Hangzhou",
+    "suzhou": "Suzhou"
   },
   "nav": {
     "home": "Home",
@@ -590,6 +595,368 @@
         {
           "title": "Sera a Trastevere",
           "description": "Attraversa il fiume per cena, vino e una passeggiata senza fretta: spesso lascia un ricordo più forte di un monumento in più."
+        }
+      ]
+    },
+    "vatican": {
+      "id": "vatican",
+      "name": "Vaticano",
+      "country": "Città del Vaticano",
+      "description": "La Città del Vaticano è lo stato sovrano più piccolo del mondo, ma concentra Basilica di San Pietro, Musei Vaticani e Cappella Sistina in uno dei luoghi più densi d'Europa per simboli religiosi, arte rinascimentale e ritualità viva.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Basilica di San Pietro",
+          "description": "Il cuore del cattolicesimo colpisce prima per la scala e poi per la luce, le sculture e il peso cerimoniale dello spazio interno. Vale la pena dedicarle tempo vero, non solo una foto in facciata.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Piazza San Pietro",
+          "description": "Il colonnato di Bernini mostra in modo chiarissimo come l'architettura possa organizzare uno spazio rituale. Mattina, pomeriggio e sera qui sembrano quasi tre luoghi diversi.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Musei Vaticani",
+          "description": "Più che un museo unico, sono un lungo percorso attraverso collezioni papali, gallerie, sculture, mappe e grandi sale dipinte. La quantità è tale che conta molto di più il ritmo della visita che la pretesa di vedere tutto.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cappella Sistina",
+          "description": "È il culmine della maggior parte delle visite e dal vivo appare più solenne e controllata di quanto molti immaginino. Entrarci con un minimo di contesto iconografico cambia parecchio l'esperienza.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cupola di San Pietro",
+          "description": "La salita regala una delle viste più forti di Roma, con la piazza, la città e la geometria della basilica che finalmente si ricompongono insieme. Le scale sono strette e impegnative, ma ne vale la pena.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Grotte Vaticane",
+          "description": "Sotto la basilica l'atmosfera cambia completamente e diventa molto più raccolta e devozionale. Aiutano a capire San Pietro come luogo di pellegrinaggio vivo, non solo come monumento celebre.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Pizza al taglio romana",
+          "description": "Tra Prati e Borgo Pio è una delle soluzioni più pratiche prima o dopo musei e basilica. Permette di mangiare bene senza perdere troppo tempo nel mezzo della giornata.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Suppli",
+          "description": "Il classico fritto di riso romano è perfetto tra una coda e un ingresso prenotato. Non è propriamente 'cucina vaticana', ma racconta bene il fatto che l'area vive comunque del ritmo quotidiano di Roma.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Carbonara",
+          "description": "Se vuoi un pranzo seduto e davvero romano dopo San Pietro o i musei, resta una scelta molto affidabile. In zona Prati spesso si mangia con più calma che accanto ai monumenti.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cacio e pepe",
+          "description": "Semplice, intensa e molto romana, funziona bene quando vuoi qualcosa di locale ma non eccessivamente pesante dopo ore di visita. È facile trovarla bene nei quartieri subito fuori dal confine vaticano.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Gelato",
+          "description": "Una pausa piccola ma utile tra piazza, passeggiate sul Tevere e stanchezza da museo. Nelle giornate vaticane si cammina e si aspetta più di quanto sembri.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Maritozzo ed espresso",
+          "description": "Una colazione molto adatta alle mattine con ingresso presto. Leggera ma locale, si gestisce bene nei bar di quartiere prima di entrare.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Se i Musei Vaticani e la cupola sono la priorità, conviene bloccare prima quegli orari e costruire il resto della giornata attorno a loro.",
+        "Le regole sull'abbigliamento contano ancora, quindi spalle e ginocchia coperte restano la scelta più sicura anche in estate.",
+        "Controlli di sicurezza e code possono richiedere più tempo del previsto, quindi è meglio arrivare con margine.",
+        "Musei, basilica e piazza fatti bene richiedono almeno mezza giornata, spesso quasi una giornata piena se l'arte è davvero importante.",
+        "Udienze papali, grandi celebrazioni e messe possono cambiare accessi e flussi, quindi poco prima della visita vale la pena ricontrollare le indicazioni ufficiali.",
+        "Viaggia leggero: scale strette, controlli e folla rendono i bagagli ingombranti molto più fastidiosi del solito.",
+        "Il Vaticano è simbolicamente separato, ma nella pratica il viaggio si appoggia a Prati, Borgo Pio e zona Castel Sant'Angelo per pasti e pernottamento.",
+        "Piazza e basilica danno il meglio presto o nel tardo pomeriggio, mentre i musei consumano abbastanza energia da rendere spesso saggio evitare un secondo grande museo nello stesso giorno."
+      ],
+      "bestTime": "Da marzo a maggio e da ottobre a novembre è di solito più facile combinare attese all'aperto, visite lunghe all'interno e tempo in piazza. L'estate è splendida ma calda e affollata, l'inverno più tranquillo ma più dipendente da meteo e calendario liturgico.",
+      "overview": "Il Vaticano non è soltanto una tappa famosa appoggiata a Roma, ma un minuscolo stato sovrano dove spazio cerimoniale, percorsi di pellegrinaggio e collezioni d'arte di livello mondiale si sovrappongono. In pratica però hotel, trasporti e quasi tutti i pasti restano sul lato romano, quindi conviene trattarlo come un focus autonomo dentro un soggiorno più ampio a Roma. La domanda vera non è quante icone riesci a spuntare, ma come bilanciare energie da museo, tempo in basilica e ritmo della piazza.",
+      "highlights": [
+        "Piazza, basilica e musei producono tre registri emotivi molto diversi nello spazio di un solo piccolo stato.",
+        "Arte rinascimentale, simboli papali e ritualità religiosa viva convivono qui in modo raro.",
+        "Preparazione, orari, abbigliamento e prenotazioni incidono sulla qualità del giorno più che in molte altre destinazioni."
+      ],
+      "gettingAround": [
+        "L'accesso più semplice passa di solito dalla Metro A di Roma e dagli autobus vicini, con Ottaviano e Cipro come riferimenti più pratici.",
+        "Dentro l'area vaticana contano più camminata e gestione delle code che il mezzo di trasporto in sé.",
+        "Per dormire sono molto più pratici i quartieri appena fuori confine come Prati, Borgo Pio o il lato occidentale del centro storico."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Prati",
+          "description": "La base più semplice per una prima visita al Vaticano grazie a strade ordinate, ristoranti facili e accesso pedonale comodo."
+        },
+        {
+          "name": "Borgo Pio e area Castel Sant'Angelo",
+          "description": "Ideale se vuoi collegare Vaticano e centro storico quasi sempre a piedi mantenendo sere piacevoli."
+        },
+        {
+          "name": "Lato ovest del centro storico",
+          "description": "Una soluzione equilibrata se Roma resta il viaggio principale ma il Vaticano è comunque una priorità forte."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata vaticana dedicata all'arte",
+          "description": "Inizia con l'orario più presto per Musei Vaticani e Cappella Sistina, pranza con calma a Prati e nel pomeriggio torna su basilica, piazza e cupola."
+        },
+        {
+          "title": "Giornata centrata su basilica e pellegrinaggio",
+          "description": "Se conta di più la dimensione spirituale, parti presto da piazza e basilica, includi le Grotte e lascia che il pomeriggio scivoli verso Borgo Pio e Castel Sant'Angelo."
+        },
+        {
+          "title": "Mezza giornata Vaticano più Roma",
+          "description": "Dedica una mezza giornata profonda al Vaticano e poi attraversa il Tevere per cena e passeggiata in zona Navona o nel centro storico senza riempire troppo il resto."
+        }
+      ]
+    },
+    "pisa": {
+      "id": "pisa",
+      "name": "Pisa",
+      "country": "Italia",
+      "description": "Pisa viene spesso ridotta alla Torre Pendente, ma la città funziona molto meglio se letta come un piccolo centro toscano universitario dove Piazza dei Miracoli, il lungarno e un ritmo locale più calmo convivono ancora con grande forza.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Piazza dei Miracoli",
+          "description": "Il cuore di Pisa non è la torre da sola ma l'intero insieme monumentale di Duomo, Battistero, Torre e Camposanto. Anche con poco tempo conviene girarla con calma e guardarla come un'unica composizione.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Torre Pendente di Pisa",
+          "description": "È talmente famosa da sembrare quasi scontata, ma dal vivo inclinazione e dettaglio marmoreo hanno un impatto molto più forte del previsto. L'ingresso a orario la rende una visita da pianificare, non da improvvisare.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Duomo e Battistero",
+          "description": "Raccontano la forza di Pisa in epoca di repubblica marinara molto meglio di quanto faccia la torre da sola. Proporzioni, luce e materia li rendono fondamentali, non semplici aggiunte.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Camposanto Monumentale",
+          "description": "Il lungo chiostro funerario cambia il tono della visita e porta dentro una dimensione più raccolta e storica. È uno dei luoghi migliori per sentire il peso del tempo, non solo per fare una foto.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Piazza dei Cavalieri",
+          "description": "Rivela che Pisa non è soltanto un'immagine da cartolina. Qui emergono il lato civile, universitario e istituzionale della città, molto utile per darle profondità.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Lungarni e Tuttomondo",
+          "description": "La passeggiata sull'Arno e il murale di Keith Haring aggiungono un livello moderno e quotidiano che molti visitatori frettolosi saltano del tutto. È qui che Pisa torna a sembrare una città vera.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Cecina",
+          "description": "La sottile torta di ceci è uno dei modi più semplici per assaggiare la costa toscana in forma veloce e concreta. Si adatta benissimo a itinerari brevi.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Bordatino alla pisana",
+          "description": "Una zuppa rustica a base di farina di mais, fagioli e verdure che ha più senso in trattorie locali che nei ristoranti attaccati ai monumenti.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Stoccafisso alla pisana",
+          "description": "Piatto tradizionale che riflette bene il legame storico di Pisa con il mare e i commerci. È locale senza risultare eccessivamente pesante.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Salumi toscani e pecorino",
+          "description": "A Pisa spesso funzionano meglio soluzioni semplici e molto territoriali rispetto a una ristorazione troppo costruita. Con un calice di vino rallentano bene la giornata.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pappardelle al cinghiale",
+          "description": "Non sono esclusive di Pisa ma restano uno dei pasti più soddisfacenti dell'area toscana. Conviene mangiarle un po' lontano dagli indirizzi più turistici.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Torta co' bischeri",
+          "description": "Dolce tradizionale con cacao, frutta secca e spezie che dà a Pisa una chiusura più specifica della semplice pausa gelato. Funziona molto bene nel pomeriggio con il caffè.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Se vuoi salire sulla torre, il biglietto a orario va preso prima perché cambia la struttura dell'intera giornata.",
+        "La visita alla torre comporta scale e si gestisce meglio con poco bagaglio. Per un'escursione in giornata conviene prima sistemare le valigie vicino alla stazione.",
+        "Pisa viene venduta spesso come città da mezza giornata, ma il viaggio acquista molto più senso quando includi anche centro storico e lungarno.",
+        "Andarsene subito dopo la foto classica della torre lascia un'impressione troppo sottile. Piazza dei Cavalieri, caffè e Arno sono ciò che le restituisce spessore.",
+        "Nelle ore centrali estive il prato monumentale è caldo e molto esposto, quindi le parti più importanti all'aperto funzionano meglio presto o tardi.",
+        "Dalla stazione al centro si cammina bene e la passeggiata aiuta a leggere la città; autobus solo se il tempo è davvero stretto.",
+        "I ristoranti più vicini ai grandi simboli pagano molto la posizione, quindi spesso i pasti migliorano spostandosi un po' verso il centro o il fiume."
+      ],
+      "bestTime": "Da aprile a giugno e da settembre a ottobre c'è di solito il miglior equilibrio per passeggiare, stare sul lungarno e mangiare all'aperto. L'estate è più fotogenica ma anche più calda e affollata, l'inverno più quieto e adatto a vedere Pisa come città normale.",
+      "overview": "Il simbolo di Pisa è così dominante da farla trattare spesso come un checkpoint e non come una vera destinazione. In realtà la grandezza di Piazza dei Miracoli, la calma da città universitaria e il ritmo morbido dell'Arno costruiscono qualcosa di molto più pieno. Non conta solo quanto ti fermi, ma se continui a camminare dopo la torre. È lì che Pisa si apre oltre la sua immagine più celebre.",
+      "highlights": [
+        "La vera forza di Pisa sta nell'intero complesso monumentale di marmo, non soltanto nella torre.",
+        "Strade universitarie, caffè e lungarno danno alla città una consistenza vissuta che molte visite rapide non colgono.",
+        "Si collega facilmente al resto della Toscana, ma spesso rende meglio con quasi una giornata piena che con una sosta troppo compressa."
+      ],
+      "gettingAround": [
+        "La maggior parte di ciò che interessa è raggiungibile a piedi, e la camminata stessa fa parte della comprensione della città.",
+        "Per una gita in treno conviene allineare l'orario della torre con gli orari ferroviari per mantenere il percorso molto semplice.",
+        "Bus e taxi restano solo strumenti di supporto: Pisa è soprattutto una questione di ritmo, non di complessità nei trasporti."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Santa Maria e Borgo Stretto",
+          "description": "La zona più equilibrata se vuoi tenere vicini Piazza dei Miracoli, centro storico, caffè e ristorazione pratica."
+        },
+        {
+          "name": "Lungarni",
+          "description": "Scelta più adatta per serate lente, passeggiate sul fiume e una Pisa più locale."
+        },
+        {
+          "name": "Vicino a Pisa Centrale",
+          "description": "Molto pratico per arrivi tardi, partenze presto o logistica rapida, anche se l'atmosfera migliore è più dentro il centro."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Mezza giornata classica a Pisa",
+          "description": "Inizia da Piazza dei Miracoli con torre, Duomo e Battistero, poi dopo pranzo spostati verso Piazza dei Cavalieri e il centro storico."
+        },
+        {
+          "title": "Una giornata con ritmo pisano",
+          "description": "Dedica il giusto tempo al complesso monumentale, poi passa il pomeriggio tra Borgo Stretto e zona universitaria e chiudi con lungarno e cena lunga."
+        },
+        {
+          "title": "Versione gita in giornata dalla Toscana",
+          "description": "Se arrivi da Firenze o Lucca, costruisci la mattina attorno all'orario della torre e lascia il resto del tempo al centro e all'Arno invece di rientrare di corsa."
+        }
+      ]
+    },
+    "florence": {
+      "id": "florence",
+      "name": "Firenze",
+      "country": "Italia",
+      "description": "Firenze è una delle grandi città europee da vivere a piedi, dove arte e architettura rinascimentale, il profilo dominante del Duomo, l'Arno e l'Oltrarno, e una cucina toscana molto densa convivono in un centro storico sorprendentemente compatto.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Piazza del Duomo e Santa Maria del Fiore",
+          "description": "Per molti visitatori Firenze comincia qui: cattedrale, battistero e campanile di Giotto concentrati in uno spazio che resta solenne anche quando è pieno. Conviene guardarlo da più angoli nelle vie intorno, non solo frontalmente.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Galleria degli Uffizi",
+          "description": "Uno dei luoghi centrali per capire davvero la pittura rinascimentale. Più del numero di opere conta il ritmo con cui riesci a vederle e l'energia che riesci a conservare.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Ponte Vecchio",
+          "description": "Non è solo un ponte fotografico ma anche il passaggio simbolico tra la Firenze più cerimoniale e quella più vissuta sull'altra riva. Rende meglio dentro una passeggiata più ampia che come tappa isolata.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Oltrarno e Santo Spirito",
+          "description": "Qui laboratori, wine bar, piazze di quartiere e un tono più umano bilanciano l'immagine di Firenze come città-museo. Basta una sera in questa zona per cambiare la percezione del viaggio.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Piazza della Signoria e Palazzo Vecchio",
+          "description": "Uno spazio in cui storia civica e scultura all'aperto si sovrappongono naturalmente. Si collega molto bene con Uffizi e area Duomo e funziona tanto di giorno quanto dopo il tramonto.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Piazzale Michelangelo",
+          "description": "Il punto panoramico classico per leggere insieme tutto lo skyline fiorentino. Il tramonto è celebre, ma arrivare un po' prima spesso regala un equilibrio migliore di luce e spazio.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Bistecca alla fiorentina",
+          "description": "È il pasto simbolo di Firenze ma va pensato come una cena importante, non come una portata qualsiasi. Di solito ha molto più senso condividerla.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Ribollita",
+          "description": "Mostra il lato toscano più profondo e domestico della città molto meglio di tanti piatti turistici. Con il fresco rende ancora di più.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pappa al pomodoro",
+          "description": "Morbida, confortante e poco pesante, è un'ottima soluzione a pranzo tra una chiesa e un museo. Ha quella semplicità toscana che a Firenze funziona molto bene.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Lampredotto",
+          "description": "Il panino di strada più identitario di Firenze, capace di raccontare la quotidianità cittadina meglio di una cena formale. Anche chi parte diffidente spesso se lo ricorda a lungo.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Schiacciata ripiena",
+          "description": "Pane toscano saporito con salumi, formaggi o verdure, perfetto per le giornate molto pedonali. È facile trovarla, ma la qualità cambia parecchio da un posto all'altro.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cantucci con vin santo o gelato",
+          "description": "Sono due chiusure molto diverse ma entrambe molto fiorentine: una più tradizionale dopo cena, l'altra più leggera durante una passeggiata serale.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Se Uffizi, Accademia o salita al Duomo sono prioritari, l'ordine delle prenotazioni influenza davvero l'intero viaggio.",
+        "Firenze è camminabile, ma sanpietrini, file e lunghe soste in piedi rendono le scarpe molto più importanti di quanto sembri.",
+        "Il centro sembra piccolo, però la densità di persone cresce molto nelle ore centrali, quindi conviene tenere la mattina per l'esterno e il pomeriggio per gli interni.",
+        "La qualità dei pasti varia parecchio in base a dove e quando mangi, quindi prenotare uno o due pranzi o cene importanti è spesso una buona idea.",
+        "Se non attraversi mai davvero l'Oltrarno, Firenze rischia di restare troppo 'museale' e poco vissuta.",
+        "La zona di Santa Maria Novella è pratica, ma gli alloggi più dentro il centro storico possono complicare un po' gli spostamenti con i bagagli.",
+        "Nei giorni pieni di musei, fare meno istituzioni ma con pause migliori spesso lascia un ricordo più forte.",
+        "L'estate è calda e affollata ma molto viva la sera, mentre l'inverno è più calmo e spesso più adatto a un itinerario guidato dall'arte."
+      ],
+      "bestTime": "Da aprile a giugno e da fine settembre ai primi di novembre è di solito più facile bilanciare camminate, gallerie, panorami e pasti. L'estate è più calda e affollata ma vivace la sera, l'inverno più tranquillo e spesso migliore per giornate lente dedicate all'arte.",
+      "overview": "Firenze può sembrare la città perfetta del Rinascimento da spuntare in elenco, ma funziona molto meglio quando musei, ponti, quartieri artigiani e pasti lunghi ricevono tutti spazio reale. La scala è compatta, però quasi ogni isolato ha una densità artistica sufficiente a stancare se la giornata è troppo piena. Duomo e Uffizi sono potentissimi, ma Firenze spesso resta davvero impressa nei vicoli dell'Oltrarno, sui ponti al tramonto e nei pranzi che si allungano più del previsto.",
+      "highlights": [
+        "Duomo, Uffizi e Ponte Vecchio stanno tutti dentro un centro pedonale insolitamente compatto.",
+        "La separazione tra centro storico monumentale e cultura di quartiere dell'Oltrarno dà a Firenze due identità molto diverse ma complementari.",
+        "Arte, architettura, cibo e panorami sono tutti abbastanza forti da sostenere anche un itinerario molto tematico."
+      ],
+      "gettingAround": [
+        "Il centro di Firenze è fondamentalmente una città da vivere a piedi, quindi il punto dell'hotel conta più della complessità dei trasporti.",
+        "Santa Maria Novella è il punto d'ingresso più pratico, ma l'atmosfera aumenta man mano che ci si spinge più dentro il centro storico.",
+        "Per Piazzale Michelangelo o altri punti in salita, usare bus o taxi per una tratta è perfettamente sensato, ma la discesa a piedi spesso resta la parte migliore."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Duomo e Santa Maria Novella",
+          "description": "La base più intuitiva per una prima visita, comoda per i treni e per raggiungere a piedi i grandi simboli della città."
+        },
+        {
+          "name": "San Lorenzo e San Marco",
+          "description": "Buona per mercati, musei, pasti pratici e una pressione turistica leggermente meno intensa del cuore più stretto del centro."
+        },
+        {
+          "name": "Oltrarno e Santo Spirito",
+          "description": "La scelta migliore per botteghe, wine bar, serate lente e una Firenze più vissuta."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata classica a piedi",
+          "description": "Comincia dal Duomo, passa per Piazza della Signoria e zona Uffizi, poi attraversa Ponte Vecchio per finire la sera in Oltrarno con cena."
+        },
+        {
+          "title": "Giornata guidata dall'arte",
+          "description": "Metti al centro un grande museo come Uffizi o Accademia e lascia il resto più leggero, con monumenti visti dall'esterno e una breve passeggiata sull'Arno."
+        },
+        {
+          "title": "Giornata tra panorami e cibo",
+          "description": "Inizia con vie più calme e caffè, mangia leggero nelle ore centrali e tieni il tardo pomeriggio per Piazzale Michelangelo e una cena in Oltrarno."
         }
       ]
     },
@@ -1473,6 +1840,248 @@
         {
           "title": "Shanghai moderna e skyline",
           "description": "Dedica il giorno a Pudong tra torri, osservatori e shopping, poi torna verso il fiume o il Bund dopo il tramonto per vedere il profilo della città dall'angolazione più iconica."
+        }
+      ]
+    },
+    "hangzhou": {
+      "id": "hangzhou",
+      "name": "Hangzhou",
+      "country": "Cina",
+      "description": "Hangzhou è una delle città più eleganti da visitare in Cina, con il paesaggio del Lago dell'Ovest, il patrimonio buddhista di Lingyin, la cultura del tè Longjing, le zone umide e un ritmo urbano molto più morbido di quanto ci si aspetti da una grande area metropolitana.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Lago dell'Ovest",
+          "description": "Non è solo l'attrazione principale ma l'identità visiva stessa di Hangzhou. Argini, padiglioni, salici, barche e colline sullo sfondo funzionano meglio quando li rivedi in più momenti della giornata.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tempio Lingyin e Feilai Peak",
+          "description": "È il contrappeso spirituale e storico più forte alla dolcezza del lago. Sale templari, sentieri tra gli alberi e sculture rupestri danno a Hangzhou una profondità molto più antica e severa.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Villaggio del tè Longjing",
+          "description": "Le colline terrazzate e i sentieri tra i campi mostrano perché il tè qui non è un dettaglio ma un'esperienza centrale del viaggio. In primavera il luogo acquista ancora più senso.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Parco nazionale delle zone umide di Xixi",
+          "description": "Ricorda che Hangzhou non è solo il lago. Canali, vegetazione e percorsi lenti offrono un respiro diverso e sono perfetti per una mezza giornata meno concentrata sui monumenti.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Hefang Street e Southern Song Imperial Street",
+          "description": "La città vecchia qui mescola negozi tradizionali, snack e atmosfera serale. Funziona meglio come passeggiata di quartiere vissuta con calma che come semplice corridoio di souvenir.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pagoda di Leifeng",
+          "description": "Uno dei punti di vista più forti sul Lago dell'Ovest, soprattutto nel tardo pomeriggio e verso il tramonto. Riassume molto bene il rapporto tra lago, margine urbano e immaginario classico della città.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Dongpo rou",
+          "description": "Il piatto simbolo di Hangzhou è lucido, ricco e stufato a lungo, quindi conviene pensarlo come centro del pasto più che come aggiunta veloce. Meglio condividerlo insieme a piatti più leggeri.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Gamberi al Longjing",
+          "description": "Un piatto raffinato che unisce il profumo del tè alla delicatezza dei gamberi. Riassume molto bene il lato elegante della cucina di Hangzhou.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Beggar's Chicken",
+          "description": "Cotto lentamente e con una forte identità narrativa, è uno di quei piatti tradizionali che lasciano davvero memoria del viaggio. Ha teatralità ma anche sostanza.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pian'erchuan",
+          "description": "Zuppa di noodle molto quotidiana e utile quando vuoi qualcosa di locale ma non troppo formale. Aiuta a leggere il ritmo reale con cui mangia la città.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pesce all'aceto del Lago dell'Ovest",
+          "description": "Piatto simbolico legato direttamente all'identità del lago. Può dividere nei gusti, ma resta una delle espressioni più riconoscibili della cucina locale.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Dolci al tè e pause in casa da tè",
+          "description": "Ad Hangzhou la cultura del tè conta quasi quanto i singoli piatti. Una sosta tranquilla con Longjing e piccoli dolci spesso diventa uno dei momenti più tipici del viaggio.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Il Lago dell'Ovest si affolla molto nei weekend e nelle festività cinesi, quindi i panorami più importanti funzionano meglio al mattino presto o la sera quando possibile.",
+        "Non cercare di fare il giro completo del lago tutto in una volta. È meglio scegliere alcune sezioni e rivederle in orari diversi.",
+        "Lingyin e Longjing non sono lontanissimi dal centro, ma collegarli solo a piedi è scomodo: la combinazione più pratica è metro più tratti brevi in taxi.",
+        "La stagione primaverile del tè è splendida e molto significativa, ma anche molto affollata, quindi partire presto conta ancora di più del normale.",
+        "Caldo e umidità estivi possono rendere sorprendentemente stancanti le passeggiate sul lago, perciò barche, caffè, musei e case da tè non sono piani B ma strumenti di ritmo.",
+        "Le strade della città vecchia come Hefang rendono di più se concedi loro tempo vero, con camminata e piccoli assaggi, invece di trattarle come una sosta shopping rapida.",
+        "Hangzhou premia il ritmo più della densità da checklist. Se pianificata come Shanghai, rischia di diventare stancante invece che rilassante.",
+        "Aeroporto e ferrovia sono comodi, ma la posizione dell'hotel cambia molto l'esperienza. Per una prima volta convengono spesso la parte est del lago o l'area di Wulin."
+      ],
+      "bestTime": "Da marzo a maggio e da fine settembre a novembre è di solito più facile combinare passeggiate sul lago, templi, paesaggi del tè e pasti all'aperto. L'estate è molto verde ma più calda e umida, mentre l'inverno può essere quieto e suggestivo con foschia sull'acqua.",
+      "overview": "Hangzhou si ricorda meno per la forza verticale dello skyline e molto di più per acqua, nebbia, tè e lentezza. Il Lago dell'Ovest basta già da solo a giustificare il viaggio, ma la città cresce davvero quando aggiungi Lingyin, Longjing, le zone umide e le vie storiche. La chiave non è aumentare il numero di tappe, bensì lasciare che lago, tè, templi e passeggiate entrino nel giorno con velocità diverse.",
+      "highlights": [
+        "Lago, templi, colline del tè e zone umide convivono dentro un unico viaggio urbano dal ritmo insolitamente morbido.",
+        "A differenza di Shanghai, Hangzhou si definisce meno per i grattacieli e più per acqua, padiglioni, verde e profumo di tè.",
+        "È particolarmente adatta a chi preferisce atmosfera, paesaggio e camminate a una raccolta rapida di landmark."
+      ],
+      "gettingAround": [
+        "La metro è affidabile per gli spostamenti lunghi, ma le ultime tratte tra lago, campi di tè e aree templari funzionano meglio con taxi brevi.",
+        "Attorno al lago conviene combinare camminata, barca e spostamenti selettivi invece di pensare tutto come un unico anello lineare.",
+        "Per una prima permanenza le zone sul lato est del lago o intorno a Wulin rendono il viaggio molto più semplice."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Hubin e lato est del Lago dell'Ovest",
+          "description": "La base più intuitiva per una prima visita, ottima per accesso al lago, passeggiate serali, ristorazione e orientamento semplice."
+        },
+        {
+          "name": "Piazza Wulin e area del canale",
+          "description": "Scelta migliore se contano di più comodità moderne, shopping e collegamenti forti che la vista immediata sul lago."
+        },
+        {
+          "name": "Sponda sud del lago e lato Longjing",
+          "description": "Più indicata per soggiorni tranquilli e paesaggistici, anche se richiede un po' più di attenzione nella logistica quotidiana."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata tra lago e città vecchia",
+          "description": "Passa la mattina sul lato est del Lago dell'Ovest e intorno a Broken Bridge, poi spostati verso Hefang Street e le vie Song per snack e atmosfera serale."
+        },
+        {
+          "title": "Giornata tra tempio e tè",
+          "description": "Dedica la mattina a Lingyin e Feilai Peak, poi rallenta nel pomeriggio tra villaggio Longjing, tè e passeggiate più leggere."
+        },
+        {
+          "title": "Piano equilibrato per estate o weekend",
+          "description": "Usa le ore centrali per zone umide, musei o pause al chiuso e torna verso il lago o la pagoda di Leifeng vicino al tramonto per avere il ritmo migliore."
+        }
+      ]
+    },
+    "suzhou": {
+      "id": "suzhou",
+      "name": "Suzhou",
+      "country": "Cina",
+      "description": "Suzhou è una delle forme più chiare della bellezza urbana del Jiangnan: giardini classici, canali, muri bianchi e tetti scuri, cultura lenta del tè e cucina raffinata si intrecciano in una città che sembra composta con grande precisione più che semplicemente scenografica.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Giardino dell'Amministratore Umile",
+          "description": "Il giardino classico più famoso di Suzhou non parla solo di piante e stagni, ma soprattutto di linee di vista, riflessi, padiglioni e movimento lento. Va attraversato con pause e attenzione, non consumato come tappa fotografica rapida.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Museo di Suzhou",
+          "description": "L'incontro tra architettura contemporanea e collezioni regionali funziona molto bene e aiuta a capire Suzhou come qualcosa di più di una semplice città d'acqua. Si abbina naturalmente al vicino distretto dei giardini storici.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pingjiang Road",
+          "description": "Una delle passeggiate più eleganti e vissute della città, tra canale, ponti, case da tè e vicoli stretti. Dà il meglio dal tardo pomeriggio alla sera, quando Suzhou rallenta davvero.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Shantang Street",
+          "description": "Più animata e più turistica di Pingjiang, ma anche molto forte sul piano della vita serale e delle luci sull'acqua. È la scelta giusta se vuoi una passeggiata notturna più movimentata.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tiger Hill",
+          "description": "Uno dei luoghi simbolici di Suzhou, con pagoda inclinata, visuali più aperte e un forte strato leggendario. Introduce verticalità e respiro in un itinerario altrimenti molto raccolto tra giardini e canali.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Giardino Liuyuan (Lingering Garden)",
+          "description": "Altro grande capolavoro dei giardini classici, spesso più compresso e teatrale dell'Amministratore Umile. È particolarmente adatto a chi vuole leggere il giardino come vera arte spaziale.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Zuppa di noodle stile Suzhou",
+          "description": "Brodo leggermente dolce-sapido e noodle sottili definiscono uno dei pasti quotidiani più rappresentativi della città. Aiuta a capire il ritmo locale meglio di un banchetto formale.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pesce mandarino a forma di scoiattolo",
+          "description": "Tagliato e fritto in modo scenografico, poi servito con salsa brillante, è uno dei piatti più noti dell'area del Jiangnan e lascia un ricordo visivo fortissimo del pasto.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Maiale brasato stile Suzhou",
+          "description": "Qui la tipica dolcezza del Jiangnan appare lucida ma più delicata di quanto molti si aspettino. È un buon piatto da condividere dentro un pasto più ampio.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Granchio del lago Yangcheng e piatti al roe",
+          "description": "Nel giusto periodo autunnale il granchio diventa una delle ragioni principali per fermarsi a Suzhou. La stagionalità conta molto, ma può cambiare del tutto il ricordo gastronomico del viaggio.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mooncake di Suzhou e pasticceria tradizionale",
+          "description": "Dolci e sfoglie che spesso sorprendono per complessità e per la componente anche salata o aromatica. Funzionano molto bene come pausa lenta con il tè.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tè Biluochun e piccoli dolci da tè",
+          "description": "A Suzhou la cultura del tè è centrale quasi quanto i piatti principali. Una sosta in una casa da tè vicino ai canali o ai giardini diventa spesso uno dei momenti più silenziosi e memorabili della giornata.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Luoghi chiave come il Giardino dell'Amministratore Umile e il Museo di Suzhou funzionano meglio al mattino, prima che arrivino folla e stanchezza.",
+        "I giardini classici richiedono sguardo lento. Se li corri, rischiano di assomigliarsi; se rallenti, diventano veri spazi coreografati.",
+        "Pingjiang Road e Shantang Street sono entrambe ottime di sera, ma Pingjiang tende a essere più calma mentre Shantang è più apertamente turistica e vivace.",
+        "Suzhou è facilissima da raggiungere da Shanghai, ma comprimere giardini, canali, cibo e atmosfera notturna in una sola giornata può lasciare la visita troppo sottile.",
+        "I giardini più famosi si affollano molto nei weekend e nei giorni festivi, quindi l'apertura o una fascia più tarda aiutano parecchio.",
+        "La città vecchia rende meglio per blocchi omogenei, separando la zona giardini-museo da quella dei canali serali invece di saltare continuamente da un lato all'altro.",
+        "La cucina di Suzhou ha spesso una dolcezza marcata in stile Jiangnan, quindi all'inizio è più facile entrare con noodle, piatti di pesce e snack da tè.",
+        "La pioggia qui può migliorare l'atmosfera. Più che cancellare la giornata, conviene accentuare giardini, sale da tè e passeggiate lente sui canali."
+      ],
+      "bestTime": "Da marzo a maggio e da settembre a novembre è di solito più facile godersi giardini, canali serali e pause legate al tè. L'inizio estate è molto verde ma più umido, l'inverno più quieto, freddo e spesso sorprendentemente suggestivo.",
+      "overview": "Suzhou in fotografia sembra una città semplicemente bella, ma dal vivo è soprattutto una questione di ritmo e composizione. Giardini, canali, tè, cucina dolce-sapida e continuità visiva di muri bianchi e tetti scuri si sostengono a vicenda. È vicina a Shanghai, ma emotivamente molto diversa: più lenta, più precisa e molto più adatta a chi è disposto a fermarsi invece di inseguire solo grandi immagini.",
+      "highlights": [
+        "Giardini classici, canali e architettura del Jiangnan creano una delle esperienze urbane più coerenti dal punto di vista visivo della Cina orientale.",
+        "I grandi giardini non sembrano semplici parchi, ma vere costruzioni spaziali pensate per lo sguardo.",
+        "L'accesso da Shanghai è semplice, ma il tono di Suzhou è nettamente più lento e delicato."
+      ],
+      "gettingAround": [
+        "La metro è utile per gli spostamenti lunghi, ma nella città vecchia si finisce comunque per camminare molto, con taxi brevi solo a colmare i vuoti.",
+        "Le giornate scorrono meglio se separate tra zona giardini-museo e zona canali-passeggiata serale.",
+        "Arrivando da Shanghai in treno veloce, spesso è più comodo fissare prima una base e poi entrare nel nucleo storico con calma."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Pingjiang Road e Northeast Street",
+          "description": "La zona migliore se vuoi tenere vicini Giardino dell'Amministratore Umile, museo e una delle passeggiate storiche più atmosferiche della città."
+        },
+        {
+          "name": "Guanqian Street e centro storico",
+          "description": "Una base pratica per ristorazione, shopping, Metro e logistica generale più semplice."
+        },
+        {
+          "name": "Shilu e area di Shantang",
+          "description": "Buona se vuoi serate sul canale e un'atmosfera notturna un po' più vivace."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Mattina tra giardino e museo",
+          "description": "Inizia con il Giardino dell'Amministratore Umile e il Museo di Suzhou, poi rallenta il pomeriggio con Pingjiang Road e una sosta in casa da tè."
+        },
+        {
+          "title": "Giornata tra canali e luci serali",
+          "description": "Usa il giorno per Tiger Hill o Liuyuan e tieni la sera per Shantang o Pingjiang, quando l'atmosfera sull'acqua diventa più forte."
+        },
+        {
+          "title": "Estensione da Shanghai con una notte",
+          "description": "Dedica il primo giorno al nucleo giardino-museo-Pingjiang e usa la seconda mattina per un altro giardino o Tiger Hill, con un ritmo molto più adatto di una semplice gita lampo."
         }
       ]
     }

@@ -1,13 +1,16 @@
 {
   "home": {
     "title": "Discover Your Next Adventure",
-    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore, and Shanghai with our premium guide.",
+    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Vatican, Pisa, Florence, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore, Shanghai, Hangzhou, and Suzhou with our premium guide.",
     "explore": "Explore Cities",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
     "shizuoka": "Shizuoka",
     "sapporo": "Sapporo",
     "rome": "Rome",
+    "vatican": "Vatican",
+    "pisa": "Pisa",
+    "florence": "Florence",
     "bangkok": "Bangkok",
     "pattaya": "Pattaya",
     "cebu": "Cebu",
@@ -15,7 +18,9 @@
     "sydney": "Sydney",
     "melbourne": "Melbourne",
     "singapore": "Singapore",
-    "shanghai": "Shanghai"
+    "shanghai": "Shanghai",
+    "hangzhou": "Hangzhou",
+    "suzhou": "Suzhou"
   },
   "nav": {
     "home": "Home",
@@ -590,6 +595,368 @@
         {
           "title": "Evening in Trastevere",
           "description": "Cross the river for dinner, wine, and a looser night walk where the atmosphere is often more memorable than ticking off another monument."
+        }
+      ]
+    },
+    "vatican": {
+      "id": "vatican",
+      "name": "Vatican",
+      "country": "Vatican City",
+      "description": "Vatican City is the world's smallest sovereign state, yet it holds St Peter's Basilica, the Vatican Museums, and the Sistine Chapel, making it one of Europe's densest concentrations of religious symbolism and Renaissance art.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "St Peter's Basilica",
+          "description": "The central church of the Catholic world overwhelms first with scale, then with sculpture, light, and ceremonial weight inside. It rewards real time in the interior rather than a quick exterior stop.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "St Peter's Square",
+          "description": "Bernini's colonnades turn the square into one of the clearest examples of architecture shaping ritual space. Morning calm, afternoon crowd movement, and evening light all feel different here.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Vatican Museums",
+          "description": "This is less a single museum than a long progression through papal collections, sculpture, maps, galleries, and major painting rooms. The scale is large enough that pacing matters more than trying to see everything.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Sistine Chapel",
+          "description": "The climax of most museum visits, the chapel feels more controlled and solemn in person than many visitors expect. Knowing the iconography before entering makes the short viewing window much more meaningful.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "St Peter's Dome",
+          "description": "The climb delivers one of the strongest views in Rome, with the square, the city, and the basilica's geometry finally locking together. The stairs are narrow and real work, but the perspective is worth it.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Vatican Grottoes",
+          "description": "Below the basilica, the mood turns quieter and more devotional. It helps visitors understand St Peter's as a living pilgrimage site rather than only a famous monument.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Roman Pizza al Taglio",
+          "description": "Around Prati and Borgo Pio, pizza by the slice is one of the most practical meals before or after long museum and basilica visits. It works especially well when you need something quick without losing time.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Suppli",
+          "description": "These Roman fried rice croquettes are ideal between tickets, queues, and long walks. They are less a Vatican specialty than a reminder that the area still runs on everyday Rome.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Carbonara",
+          "description": "For one proper Roman lunch after St Peter's or the museums, carbonara remains a reliable choice. Prati often feels calmer for this than dining directly beside the monument zone.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cacio e Pepe",
+          "description": "Simple, peppery, and deeply Roman, this works well when you want something local but not overly heavy after a long viewing day. It is common in the neighborhoods just outside Vatican walls.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Gelato",
+          "description": "A small but useful reset between the square, river walks, and museum fatigue. Vatican days often involve more standing and heat than visitors expect, so brief breaks matter.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Maritozzo and Espresso",
+          "description": "This Roman breakfast combination fits early-entry Vatican mornings especially well. It is light enough for a start, but still feels distinctly local when taken at a nearby neighborhood bar.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "If the museums and the dome matter most, secure those timed entries first and build the rest of the day around them.",
+        "Dress rules still matter here, so covered shoulders and knees are the safest default even in summer.",
+        "Security and line management can take longer than expected, so arriving with buffer time is usually worth it.",
+        "Seeing the museums, basilica, and square properly takes at least half a day, and often almost a full day if art is a real priority.",
+        "Papal audiences, major liturgies, and special church events can change access patterns significantly, so official notices are worth checking close to the visit date.",
+        "Travel light. Narrow stairs, security checks, and dense crowds make large bags far more annoying here than in an ordinary museum day.",
+        "Vatican City feels separate symbolically, but the practical trip is tightly linked to Prati, Borgo Pio, and the Castel Sant'Angelo side of Rome for meals and lodging.",
+        "The square and basilica are usually most pleasant early or late, while the museums can drain enough energy that adding another major museum the same day is often a mistake."
+      ],
+      "bestTime": "March to May and October to November are usually the easiest seasons for outdoor queuing, long interior visits, and time in the square. Summer is beautiful but hot and extremely crowded, while winter is calmer but more dependent on the religious calendar and weather.",
+      "overview": "Vatican City is not just a famous stop attached to Rome, but a tiny sovereign state where ceremonial space, pilgrimage routes, and world-class art collections overlap. In practice, almost every meal, hotel, and transport decision still happens on the Roman side, so it works best when treated as an independent focus within a larger Rome stay. The real question is not how many headline sites you can tick off, but how you balance museum stamina, basilica time, and the rhythm of the square itself.",
+      "highlights": [
+        "The square, basilica, and museums each create a completely different emotional register inside one tiny destination.",
+        "Renaissance art, papal symbolism, and living religious ritual overlap here in a way few other places can match.",
+        "Preparation matters unusually much, so reservations, dress, and timing all have a clear effect on the quality of the day."
+      ],
+      "gettingAround": [
+        "Access is usually easiest from Rome's Metro Line A and nearby bus routes, with Ottaviano and Cipro as the most practical rail anchors.",
+        "Inside the Vatican zone, walking and queue management matter more than transport itself.",
+        "For lodging, areas just outside the boundary such as Prati, Borgo Pio, and the western side of the historic center are much more practical than treating Vatican City as a stand-alone overnight base."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Prati",
+          "description": "The easiest overall base for first-time Vatican visitors thanks to walkability, calmer streets, and plenty of straightforward dining."
+        },
+        {
+          "name": "Borgo Pio and Castel Sant'Angelo Area",
+          "description": "Best if you want to move between Vatican City and Rome's historic core mostly on foot while keeping evenings atmospheric."
+        },
+        {
+          "name": "West Side of the Historic Center",
+          "description": "A strong compromise if Rome is still the larger trip but the Vatican is a major priority. Crossing the river becomes part of the experience rather than a chore."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Art-Focused Vatican Day",
+          "description": "Start with the earliest museum slot and the Sistine Chapel, slow lunch down in Prati, then return for St Peter's Basilica, the square, and the dome in the later afternoon."
+        },
+        {
+          "title": "Basilica and Pilgrimage-Focused Day",
+          "description": "If the spiritual side matters most, begin with the square and basilica early, include the grottoes, and let the afternoon soften into Borgo Pio and Castel Sant'Angelo-side walking."
+        },
+        {
+          "title": "Rome-Linked Vatican Half-and-Half",
+          "description": "Use a deep half day inside the Vatican, then cross the Tiber for dinner and a slow evening in Navona or the historic center instead of overfilling the afternoon."
+        }
+      ]
+    },
+    "pisa": {
+      "id": "pisa",
+      "name": "Pisa",
+      "country": "Italy",
+      "description": "Pisa is easy to reduce to the Leaning Tower, but the city is stronger when seen as a compact Tuscan university town where the monumentality of Piazza dei Miracoli, the Arno riverfront, and a slower local rhythm still coexist.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Piazza dei Miracoli",
+          "description": "The heart of Pisa is not the tower alone but the entire cathedral field, where the Duomo, Baptistery, tower, and Camposanto work together as one monumental composition. Even on a short visit, it deserves a slow full circuit.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Leaning Tower of Pisa",
+          "description": "The tower is so famous that it can seem almost overfamiliar, but the actual visual instability and marble detail are much stronger in person. Timed entry means it rewards planning rather than improvisation.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Duomo and Baptistery",
+          "description": "Together they show Pisa's power in its maritime republic era far better than the tower can alone. The proportions, stonework, and interior light make them essential rather than optional extras.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Camposanto Monumentale",
+          "description": "This long cloistered cemetery shifts the mood from bright spectacle to something more reflective. It is one of the best places in Pisa for feeling historical depth rather than just photographing an icon.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Piazza dei Cavalieri",
+          "description": "Once a political and institutional heart of the city, this square reveals that Pisa is more than a single tourist image. It connects naturally to the university atmosphere and gives the center a more lived-in identity.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Lungarni and Tuttomondo",
+          "description": "Walking the Arno and stopping at Keith Haring's mural adds a modern and everyday layer that many rushed visitors miss completely. This is where Pisa begins to feel like a city again rather than a postcard set.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Cecina",
+          "description": "This thin chickpea flatbread is one of the easiest ways to taste the Tuscan coast in a quick, unfussy form. It fits short itineraries especially well.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Bordatino alla Pisana",
+          "description": "A rustic local soup built around cornmeal, beans, and vegetables, it makes the most sense in smaller local trattorias rather than monument-side restaurants.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Stoccafisso alla Pisana",
+          "description": "A traditional stockfish dish that reflects Pisa's long maritime connections. It feels local without being overly heavy and ties the city back to its older trade identity.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tuscan Salumi and Pecorino",
+          "description": "Simple boards of cured meats and cheese often suit Pisa better than formal destination dining. They are especially good when you want to slow the day down with wine and conversation.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pappardelle al Cinghiale",
+          "description": "This rich wild boar pasta is Tuscan rather than uniquely Pisan, but it remains one of the region's most satisfying sit-down meals. It works best once you move away from the busiest monument addresses.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Torta co' Bischeri",
+          "description": "A traditional local dessert with cocoa, nuts, and spice notes, it gives Pisa a more specific sweet finish than generic gelato alone. It pairs especially well with coffee in the slower part of the afternoon.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "If climbing the tower matters, book the timed ticket in advance because that changes how the whole day should be structured.",
+        "The tower visit involves stairs and works better with light baggage. Day-trippers often benefit from sorting luggage near the station first.",
+        "Pisa is marketed as a half-day stop, but the city becomes much more convincing once you include the riverfront and old center beyond Piazza dei Miracoli.",
+        "Leaving immediately after the classic tower photo makes the trip feel thinner than it needs to be. Piazza dei Cavalieri, local cafés, and the Arno are what restore depth.",
+        "Summer afternoons on the cathedral field can feel hot and exposed, so key outdoor time usually works better early or late.",
+        "Walking from the station through the center is often more rewarding than defaulting to buses unless time is very tight.",
+        "Restaurants closest to the headline sights tend to trade heavily on location, so meals often improve once you move deeper into the old city or toward the river."
+      ],
+      "bestTime": "April to June and September to October usually offer the best mix of walkability, riverfront time, and open-air meals. Summer is photogenic but hotter and more crowded, while winter can be quieter and better for seeing Pisa as an ordinary city.",
+      "overview": "Pisa's symbol is so dominant that the city is often treated as a quick checkpoint rather than a real destination. In practice, though, the grandeur of Piazza dei Miracoli, the student-town calm of the center, and the loose rhythm of the Arno riverfront create something much fuller. The question is not only how long you stay, but whether you keep walking after the tower. If you do, Pisa opens up far beyond its most famous angle.",
+      "highlights": [
+        "The real power of Pisa lies in the whole marble monument complex, not only the Leaning Tower.",
+        "University streets, cafés, and river walks give the city a lived-in texture that many rushed visits miss.",
+        "It connects easily with wider Tuscany, but often works better with close to a full day than with a very compressed stop."
+      ],
+      "gettingAround": [
+        "Most visitor priorities are walkable, and the walk itself is part of understanding the city.",
+        "For day trips by rail, align your tower slot with your train timing to keep the day simple.",
+        "Buses and taxis are only occasional support tools here. Pisa is much more about pace than transport complexity."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Santa Maria and Borgo Stretto Area",
+          "description": "Best overall balance if you want easy access to Piazza dei Miracoli, the old center, cafés, and practical dining."
+        },
+        {
+          "name": "Lungarni",
+          "description": "A stronger choice for slower evenings, river walks, and a more local-feeling version of Pisa."
+        },
+        {
+          "name": "Near Pisa Centrale",
+          "description": "Most practical for late arrivals, early departures, or short day-trip logistics, though the city atmosphere is stronger deeper in the center."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Classic Pisa Half Day",
+          "description": "Start with Piazza dei Miracoli, the tower, cathedral, and baptistery, then move toward Piazza dei Cavalieri and the old center after lunch."
+        },
+        {
+          "title": "Full-Day Pisa Rhythm",
+          "description": "Give the monument zone proper time, then spend the afternoon in Borgo Stretto and the university streets before ending with a river walk and long dinner."
+        },
+        {
+          "title": "Tuscany Day-Trip Version",
+          "description": "If arriving from Florence or Lucca, build the morning around the timed tower entry and leave the later hours for the old center and Arno rather than rushing straight back."
+        }
+      ]
+    },
+    "florence": {
+      "id": "florence",
+      "name": "Florence",
+      "country": "Italy",
+      "description": "Florence is one of Europe's great walking cities, where Renaissance art and architecture, the dominating silhouette of the Duomo, the Arno and Oltrarno, and dense Tuscan food culture all sit within a remarkably compact historic core.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Piazza del Duomo and Santa Maria del Fiore",
+          "description": "For many visitors this defines Florence immediately: the cathedral, baptistery, and Giotto's bell tower packed into a space that still feels ceremonially grand. It rewards repeated angles from surrounding lanes, not only one quick front-facing view.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Uffizi Gallery",
+          "description": "One of the central places to understand Renaissance painting in depth. The collection is important enough that pacing and attention matter more than trying to race from room to room.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Ponte Vecchio",
+          "description": "More than a photogenic bridge, it acts as one of the key transitions between Florence's ceremonial center and the more lived-in south side of the river. It is busiest in the middle of the day and much better when folded into a broader walk.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Oltrarno and Santo Spirito",
+          "description": "This is where workshops, bars, neighborhood squares, and a more human scale begin to balance the museum-heavy image of Florence. Even one evening here can change the whole feel of the city.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Piazza della Signoria and Palazzo Vecchio",
+          "description": "A place where civic history and outdoor sculpture overlap naturally. It connects very easily with the Uffizi and the Duomo area, and it works well both in the bright day and after dark.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Piazzale Michelangelo",
+          "description": "The classic panoramic overlook for reading the whole Florentine skyline at once. Sunset is famous, but going a little earlier often gives a better balance of space and light.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Bistecca alla Fiorentina",
+          "description": "The signature Florentine steak is not a casual meal but a major commitment within the trip. It works best when shared and treated as the centerpiece of one proper dinner.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Ribollita",
+          "description": "This vegetable and bread soup shows the deeply Tuscan side of Florence far better than glamorous restaurant dishes do. It is especially satisfying in cooler weather.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pappa al Pomodoro",
+          "description": "Soft, tomato-rich, and comforting, this is a very good lunch option when you want something local but not too heavy between churches and museums.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Lampredotto",
+          "description": "Florence's classic street sandwich gives the city an everyday culinary identity beyond formal Tuscan dinners. Even hesitant first-timers often remember it more vividly than expected.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Schiacciata Sandwiches",
+          "description": "Salty Tuscan bread filled with cured meats, cheese, or vegetables makes one of the most practical meals for long walking days. It is easy to find, but worth choosing carefully.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Cantucci with Vin Santo or Gelato",
+          "description": "These make a strong Tuscan finish to the day, whether you want a traditional sweet pairing after dinner or something lighter during an evening walk.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "If the Uffizi, Accademia, or Duomo climb matter most, reservation order will shape the entire trip, so set priorities early.",
+        "Florence is walkable, but stone streets, queues, and long standing sessions make shoes much more important than the map suggests.",
+        "The center looks small, yet crowd density rises sharply in the middle of the day, so splitting mornings for outdoor landmarks and afternoons for interiors usually works well.",
+        "Meal quality varies a lot depending on where and when you eat, so booking one or two important lunches or dinners is often worth it.",
+        "If you never cross into Oltrarno except briefly, Florence can feel too much like an open-air museum and not enough like a living city.",
+        "The area near Santa Maria Novella station is practical, but deeper historic-center hotels can be less convenient with luggage even when they feel more atmospheric.",
+        "On museum-heavy days, fewer institutions with better breaks usually create a stronger memory than trying to maximize the count.",
+        "Summer is hot and crowded but great for late light and riverside evenings, while winter is quieter and often better for art-led itineraries."
+      ],
+      "bestTime": "April to June and late September to early November are usually the best windows for walking, gallery visits, viewpoints, and meals. Summer is hotter and more crowded but lively at night, while winter is calmer and often better for slower art-focused days.",
+      "overview": "Florence can look like a perfect Renaissance checklist city, but the trip is much stronger when museums, bridges, craft neighborhoods, and long meals all get real space. The scale is compact, yet almost every block carries enough art and architectural density to become exhausting if overpacked. The Duomo and Uffizi are undeniably powerful, but Florence often becomes most memorable in Oltrarno streets, on bridges at dusk, or at a lunch that lasts longer than planned.",
+      "highlights": [
+        "World-famous sights such as the Duomo, Uffizi, and Ponte Vecchio all sit within an unusually compact walkable core.",
+        "The split between the ceremonial center and Oltrarno's craft-and-neighborhood culture gives Florence two very different but complementary identities.",
+        "Art, architecture, food, and viewpoints are all strong enough here that even a narrowly themed itinerary still feels rich."
+      ],
+      "gettingAround": [
+        "Central Florence is fundamentally a walking city, so hotel location matters more than transport complexity.",
+        "Santa Maria Novella station is the practical entry point, but atmosphere generally increases as you move deeper into the historic center.",
+        "For Piazzale Michelangelo or similar uphill viewpoints, using a bus or taxi for one leg is fine, though walking down often gives the better experience."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Duomo and Santa Maria Novella",
+          "description": "The most intuitive first-time base for rail access and short walks to the city's major landmarks."
+        },
+        {
+          "name": "San Lorenzo and San Marco",
+          "description": "Good if you want markets, museums, practical meals, and somewhat less intense crowding than the tightest tourist core."
+        },
+        {
+          "name": "Oltrarno and Santo Spirito",
+          "description": "Best for workshop streets, wine bars, slower evenings, and a more lived-in version of Florence."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Classic Florence Walking Day",
+          "description": "Begin around the Duomo, move through Piazza della Signoria and the Uffizi area, then cross Ponte Vecchio for an Oltrarno evening and dinner."
+        },
+        {
+          "title": "Art-Led Florence Day",
+          "description": "Center the day on one major museum such as the Uffizi or Accademia, then keep the rest lighter with external monument viewing and a short riverside walk."
+        },
+        {
+          "title": "Viewpoints and Food Day",
+          "description": "Start with calmer streets and coffee, eat lightly during the day, and save late afternoon for Piazzale Michelangelo followed by an Oltrarno dinner."
         }
       ]
     },
@@ -1473,6 +1840,248 @@
         {
           "title": "Modern Shanghai and Skyline Day",
           "description": "Use the daytime for Pudong's towers, malls, and observation decks, then return to the river or Bund side after dark to see the skyline from the angle that makes Shanghai most iconic."
+        }
+      ]
+    },
+    "hangzhou": {
+      "id": "hangzhou",
+      "name": "Hangzhou",
+      "country": "China",
+      "description": "Hangzhou is one of China's most graceful city trips, combining West Lake scenery, Buddhist heritage at Lingyin, Longjing tea culture, wetlands, and a far softer urban rhythm than most first-time visitors expect from a major metropolitan area.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "West Lake",
+          "description": "West Lake is not only Hangzhou's main attraction but the city's visual identity. Causeways, pavilions, willow-lined shores, boats, and layered hills work best when seen slowly and more than once in different light.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Lingyin Temple and Feilai Peak",
+          "description": "This is Hangzhou's strongest spiritual and historical counterweight to the gentleness of the lake. Temple halls, wooded paths, and stone carvings create a much heavier, older atmosphere than the postcard scenery suggests.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Longjing Tea Village",
+          "description": "The tea terraces and village paths reveal why tea is not a side note in Hangzhou but one of its core travel experiences. It is especially meaningful in spring, when the landscape and the tea season both come alive.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Xixi National Wetland Park",
+          "description": "A reminder that Hangzhou is more than just West Lake, Xixi gives the city a broader ecological and water-town dimension. It suits slower half days when you want breathing room rather than another concentrated monument zone.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Hefang Street and Southern Song Imperial Street",
+          "description": "This old-town area brings together traditional storefronts, snacks, and evening walking energy. It works best when approached as a textured neighborhood stroll rather than only a souvenir corridor.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Leifeng Pagoda",
+          "description": "One of the strongest viewing points over West Lake, especially toward late afternoon and sunset. It compresses Hangzhou's lake, city edge, and classical imagery into one broad panorama.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Dongpo Pork",
+          "description": "Hangzhou's most famous dish is glossy, rich, and deeply braised, making it a meal anchor rather than a casual add-on. It is best shared with lighter dishes.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Longjing Shrimp",
+          "description": "A refined local dish combining tea fragrance and delicate shrimp. It is one of the clearest examples of Hangzhou's elegant culinary style.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Beggar's Chicken",
+          "description": "Wrapped and slowly cooked, this classic dish carries both theatrical identity and genuinely deep flavor. It is one of the traditional meals that leaves a strong memory of Hangzhou.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pian'erchuan",
+          "description": "This noodle soup is one of the city's most everyday and useful meals, especially when you want something local but not overly formal. It helps reveal Hangzhou's ordinary food rhythm.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "West Lake Vinegar Fish",
+          "description": "A signature traditional dish tied directly to the city's lake identity. It can divide opinion, but it remains one of the clearest symbolic foods of Hangzhou cuisine.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tea Sweets and Teahouse Stops",
+          "description": "In Hangzhou, tea culture matters almost as much as any individual plate. A quiet teahouse break with Longjing tea and light sweets often becomes one of the most city-defining experiences.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "West Lake becomes far more crowded on weekends and Chinese public holidays, so the most important lake views are best done on weekday mornings or early evenings when possible.",
+        "Do not try to circle the entire lake in one push. Choose a few sections and see them at different times of day instead.",
+        "Lingyin and Longjing are not extremely far from the center, but they are awkward to combine entirely on foot, so mixing Metro with short taxi segments usually works better.",
+        "Spring tea season is beautiful and meaningful, but also one of the busiest times, so early starts matter much more than usual.",
+        "Summer heat and humidity can make lake walking surprisingly tiring. Boats, cafés, museums, and teahouses are useful pacing tools rather than backup plans.",
+        "Old-town streets such as Hefang are strongest when you give them real walking time and snack stops instead of treating them as a quick shopping zone.",
+        "Hangzhou rewards rhythm more than checklist density. If planned like Shanghai, it can feel oddly tiring instead of calming.",
+        "Airport and rail access are strong, but your hotel location changes the trip a lot. First-time visitors usually do best with a clear base near the lake's east side or around Wulin."
+      ],
+      "bestTime": "March to May and late September to November are usually the best seasons for lakeside walking, temple visits, tea landscapes, and outdoor meals. Summer is lush but hot and humid, while winter can be quiet and atmospheric with mist over the water.",
+      "overview": "Hangzhou is remembered less for vertical skyline force than for water, haze, tea, and slower motion. West Lake alone is enough to justify the trip, but the city becomes much richer once Lingyin, Longjing, wetlands, and the old streets are added to the picture. The key is not to maximize the count of stops, but to let lake views, tea culture, temple time, and slow walking happen at different speeds throughout the day.",
+      "highlights": [
+        "West Lake, temples, tea hills, and wetlands all fit into one city trip with an unusually soft and elegant rhythm.",
+        "Unlike Shanghai, Hangzhou is defined less by skyline drama than by water, pavilions, greenery, and tea fragrance.",
+        "It is especially rewarding for travelers who prefer atmosphere, walking, and landscape over rapid landmark collecting."
+      ],
+      "gettingAround": [
+        "Metro is reliable for longer moves, but the last sections around the lake, tea fields, and temple areas are often easier with short taxi or ride-hail jumps.",
+        "Around West Lake, success comes from mixing walking, boats, and selective vehicle use rather than trying to do everything in one linear loop.",
+        "For first stays, areas near the east lakefront or Wulin usually make the whole trip much easier."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Hubin and the East Side of West Lake",
+          "description": "The strongest first-time base for lake access, evening walking, food options, and simple navigation."
+        },
+        {
+          "name": "Wulin Square and Canal Side",
+          "description": "A good choice if modern convenience, shopping, and strong transport links matter more than immediate lake views."
+        },
+        {
+          "name": "South Lakefront and Longjing Side",
+          "description": "Better for quieter stays and stronger landscape character, though daily transport planning matters more."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Lake and Old Town Day",
+          "description": "Spend the morning on the east side of West Lake and around Broken Bridge, then move toward Hefang Street and Southern Song lanes for snacks and evening atmosphere."
+        },
+        {
+          "title": "Temple and Tea Day",
+          "description": "Use the morning for Lingyin and Feilai Peak, then slow the afternoon in Longjing village with tea, walking, and a lighter pace."
+        },
+        {
+          "title": "Balanced Summer or Weekend Plan",
+          "description": "Place wetlands, museums, or indoor breaks in the hotter middle hours, then return to the lake or Leifeng Pagoda near sunset for the strongest overall rhythm."
+        }
+      ]
+    },
+    "suzhou": {
+      "id": "suzhou",
+      "name": "Suzhou",
+      "country": "China",
+      "description": "Suzhou is one of the clearest expressions of Jiangnan urban beauty, where classical gardens, canals, white walls and dark rooflines, slow tea culture, and refined local food come together in a city that feels deliberately composed rather than merely scenic.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Humble Administrator's Garden",
+          "description": "Suzhou's best-known classical garden is not really about plants alone, but about designed sightlines, water reflections, framed windows, and slow movement. It should be experienced with pauses, not rushed as a quick photo stop.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Suzhou Museum",
+          "description": "A strong combination of modern architecture and regional cultural collections, the museum helps explain Suzhou as more than a pretty canal city. It pairs naturally with the nearby garden zone.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pingjiang Road",
+          "description": "This canal-side old street gives Suzhou one of its most graceful lived-in walking experiences. Tea houses, bridges, water, and narrow lanes feel especially strong from late afternoon into evening.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Shantang Street",
+          "description": "A more animated canal district with stronger evening energy and more overt sightseeing flow. It can feel more performative than Pingjiang, but the waterside lighting and movement are memorable.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tiger Hill",
+          "description": "One of Suzhou's symbolic historic sites, combining a leaning pagoda, elevated views, and deep local legend. It adds openness and vertical contrast to a trip otherwise focused on enclosed gardens.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Lingering Garden",
+          "description": "One of Suzhou's other master gardens, often feeling more compressed and theatrical than the Humble Administrator's Garden. It is especially rewarding for travelers who want to understand garden design as an art form.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Suzhou-Style Noodle Soup",
+          "description": "A sweet-savory broth and fine noodles make this one of the most accessible and city-defining everyday meals. It reveals Suzhou's rhythm better than a formal banquet does.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Squirrel-Shaped Mandarin Fish",
+          "description": "Cut and fried to a dramatic shape, then finished with a bright sauce, this is one of the best-known Jiangnan dishes and a strong visual memory of a meal in Suzhou.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Suzhou-Style Braised Pork",
+          "description": "The Jiangnan sweetness and glossy finish come through clearly here, often in a softer and more delicate way than visitors expect from similar eastern Chinese braises.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Yangcheng Lake Crab and Crab Roe Dishes",
+          "description": "In the right autumn season, crab becomes one of the biggest reasons to linger in Suzhou. Timing matters, but it can completely reshape the food memory of the trip.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Suzhou Mooncakes and Traditional Pastries",
+          "description": "These local sweets often have a savory or layered richness that surprises visitors expecting only sugar. They work well as slower tea-time snacks.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Biluochun Tea and Tea Snacks",
+          "description": "Tea culture is central to Suzhou's travel identity. A break with Biluochun and simple sweets in a canal-side or garden-adjacent teahouse often becomes one of the day's quiet highlights.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Core sights such as the Humble Administrator's Garden and Suzhou Museum usually work best early in the day before crowds and fatigue build.",
+        "Classical gardens reward slow looking. If rushed, they can blur together, but with time they begin to feel like choreographed space rather than just landscaped grounds.",
+        "Pingjiang Road and Shantang Street are both strong in the evening, but Pingjiang is usually the calmer canal mood while Shantang carries more obvious tourist energy.",
+        "Suzhou is easy to reach from Shanghai, but fitting gardens, canals, food, and night atmosphere into a single rushed day can feel thin.",
+        "Popular gardens become very crowded on weekends and holidays, so opening time or a later tempo shift is usually worth planning for.",
+        "The old city works best in clusters rather than by constant cross-town jumping, so group the museum-garden zone separately from canal-night areas.",
+        "Suzhou food often carries a sweeter Jiangnan profile, so first meals are often easiest through noodle soups, fish dishes, and tea snacks.",
+        "Rain can actually improve the mood here. Instead of cancelling, lean harder into gardens, teahouses, and slower canal walks."
+      ],
+      "bestTime": "March to May and September to November are usually the best seasons for garden walking, canal evenings, and tea-driven breaks. Early summer is lush but more humid, while winter is quieter, colder, and often more atmospheric than many first-time visitors expect.",
+      "overview": "Suzhou looks beautiful in photographs, but in person the city is much more about tempo and composition than about isolated landmarks. Gardens, canals, tea, refined sweet-savory food, and the visual consistency of white walls and dark rooflines all support each other. It is close to Shanghai, yet emotionally very different: slower, more precise, and better suited to travelers willing to stay still for a while rather than chase constant spectacle.",
+      "highlights": [
+        "Classical gardens, canals, and Jiangnan architecture create one of the most visually coherent city experiences in eastern China.",
+        "The great gardens feel less like parks than like carefully staged spatial art.",
+        "Shanghai access is easy, but Suzhou's mood is markedly slower and more delicate."
+      ],
+      "gettingAround": [
+        "Metro is useful for long moves, but the old city eventually becomes a walking environment with short taxi segments filling gaps.",
+        "Days feel much smoother when split into the garden-and-museum zone versus the canal-and-night-walk zone.",
+        "If arriving by high-speed rail from Shanghai, it is often easier to anchor yourself first before diving into the historic core."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Pingjiang Road and Northeast Street Area",
+          "description": "Best if you want the Humble Administrator's Garden, the museum, and one of Suzhou's most atmospheric old walking zones close together."
+        },
+        {
+          "name": "Guanqian Street and Central Old City",
+          "description": "A practical base for food, shopping, Metro use, and easier city logistics."
+        },
+        {
+          "name": "Shilu and Shantang Area",
+          "description": "Good for canal-side evenings and a livelier night atmosphere."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Garden and Museum Morning",
+          "description": "Start with the Humble Administrator's Garden and Suzhou Museum, then slow the afternoon with Pingjiang Road walking and a teahouse stop."
+        },
+        {
+          "title": "Canal and Night-View Day",
+          "description": "Use the daytime for Tiger Hill or the Lingering Garden, then keep the evening for Shantang or Pingjiang when Suzhou's waterside mood becomes strongest."
+        },
+        {
+          "title": "One-Night Shanghai Extension",
+          "description": "Spend the first day on the core garden-museum-Pingjiang cluster, then use the second morning for another garden or Tiger Hill before leaving at a much slower pace than a day trip allows."
         }
       ]
     }
