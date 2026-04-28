@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Kyoto hero illustration</title>
+  <desc id="desc">Kyoto temples, torii gates, river, hills, and bamboo representing the old capital.</desc>
+  <defs>
+    <linearGradient id="kyotoSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6f8fb5" />
+      <stop offset="50%" stop-color="#f2c78a" />
+      <stop offset="100%" stop-color="#f7efe1" />
+    </linearGradient>
+    <linearGradient id="kyotoHill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#47765c" />
+      <stop offset="100%" stop-color="#244735" />
+    </linearGradient>
+    <linearGradient id="kyotoWater" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8dc3c9" />
+      <stop offset="100%" stop-color="#3d7a8d" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="680" fill="url(#kyotoSky)" />
+  <circle cx="930" cy="116" r="46" fill="#ffe2a1" opacity="0.92" />
+  <path d="M 0 312 C 140 244 260 258 388 312 C 536 374 650 330 782 270 C 924 206 1058 224 1200 292 V 680 H 0 Z" fill="url(#kyotoHill)" />
+  <path d="M 0 442 C 144 402 300 430 458 478 C 640 536 808 540 1200 448 V 680 H 0 Z" fill="url(#kyotoWater)" />
+  <path d="M 0 512 C 170 490 312 522 472 572 C 650 628 838 636 1200 560 V 680 H 0 Z" fill="#f4dfbf" />
+  <g transform="translate(126 232)">
+    <path d="M 214 0 L 306 92 L 122 92 Z" fill="#3d3028" />
+    <path d="M 188 72 L 334 72 L 300 112 L 152 112 Z" fill="#a83d31" />
+    <rect x="184" y="112" width="104" height="78" fill="#e7c58d" />
+    <path d="M 154 190 L 318 190 L 342 240 L 130 240 Z" fill="#593d2d" />
+    <rect x="166" y="240" width="140" height="176" fill="#d8ab68" />
+    <path d="M 140 264 L 332 264 L 306 302 L 166 302 Z" fill="#8d342c" />
+    <rect x="194" y="316" width="82" height="100" fill="#5d3d2c" />
+    <g fill="#f1debc">
+      <rect x="188" y="130" width="22" height="34" />
+      <rect x="226" y="130" width="22" height="34" />
+      <rect x="264" y="130" width="22" height="34" />
+      <rect x="188" y="328" width="22" height="46" />
+      <rect x="266" y="328" width="22" height="46" />
+    </g>
+  </g>
+  <g transform="translate(770 344)">
+    <rect x="-14" y="44" width="28" height="176" fill="#7d3a28" />
+    <rect x="126" y="44" width="28" height="176" fill="#7d3a28" />
+    <rect x="-42" y="14" width="224" height="34" fill="#d54832" />
+    <rect x="-22" y="48" width="184" height="24" fill="#b8312b" />
+    <path d="M -54 0 Q 70 -34 194 0" fill="none" stroke="#d54832" stroke-width="14" stroke-linecap="round" />
+    <rect x="220" y="72" width="22" height="148" fill="#7d3a28" />
+    <rect x="326" y="72" width="22" height="148" fill="#7d3a28" />
+    <rect x="198" y="46" width="172" height="28" fill="#d54832" />
+  </g>
+  <g transform="translate(992 226)" stroke="#23462f" stroke-width="10" stroke-linecap="round">
+    <path d="M 0 300 C 16 210 16 116 4 0" />
+    <path d="M 44 312 C 58 220 54 112 42 8" />
+    <path d="M 88 306 C 100 210 96 120 86 18" />
+    <path d="M 132 320 C 142 220 140 124 128 26" />
+  </g>
+  <g fill="#b1453a" opacity="0.88">
+    <path d="M 74 484 C 112 438 152 438 190 484 C 152 466 112 466 74 484 Z" />
+    <path d="M 1020 492 C 1060 444 1104 444 1144 492 C 1104 474 1060 474 1020 492 Z" />
+  </g>
+</svg>

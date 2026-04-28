@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Scopri la tua prossima avventura",
-    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Vaticano, Pisa, Firenze, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore, Taipei, Shanghai, Hangzhou e Suzhou con la nostra guida premium.",
+    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Vaticano, Pisa, Firenze, Bangkok, Pattaya, Cebu, Kyoto, Osaka, Sydney, Melbourne, Singapore, Taipei, Shanghai, Hangzhou e Suzhou con la nostra guida premium.",
     "explore": "Esplora le città",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -14,6 +14,7 @@
     "bangkok": "Bangkok",
     "pattaya": "Pattaya",
     "cebu": "Cebu",
+    "kyoto": "Kyoto",
     "osaka": "Osaka",
     "sydney": "Sydney",
     "melbourne": "Melbourne",
@@ -1234,6 +1235,132 @@
         {
           "title": "Mactan e mare",
           "description": "Parti presto per snorkeling o island hopping da Mactan, rallenta nel pomeriggio in resort o sul lungomare e chiudi con una cena di pesce per sentire bene il contrasto con la parte più urbana di Cebu."
+        }
+      ]
+    },
+    "kyoto": {
+      "id": "kyoto",
+      "name": "Kyoto",
+      "country": "Giappone",
+      "description": "Kyoto è l'antica capitale imperiale e una delle città culturali più profonde del Giappone, dove templi e santuari Patrimonio dell'Umanità, vicoli storici, giardini stagionali, cultura del tè, artigianato e cucina raffinata formano un itinerario del Kansai ricchissimo ma da pianificare con cura.",
+      "image": "/images/kyoto-hero.svg",
+      "attractions": [
+        {
+          "name": "Kiyomizu-dera, Sannenzaka e Ninenzaka",
+          "description": "Questo classico percorso di Higashiyama unisce la grande terrazza lignea del tempio, le viste sulla città, la cascata Otowa e le strade lastricate piene di botteghe. Partire presto rende l'esperienza molto più calma e permette di proseguire naturalmente verso la pagoda di Yasaka e le vecchie case machiya.",
+          "image": "/images/kyoto-hero.svg"
+        },
+        {
+          "name": "Fushimi Inari Taisha",
+          "description": "Migliaia di torii vermigli salgono nel bosco del monte Inari, creando una delle immagini più forti di Kyoto. La parte bassa si visita facilmente, ma salendo un po' di più la folla diminuisce e il santuario diventa molto più atmosferico.",
+          "image": "/images/kyoto-hero.svg"
+        },
+        {
+          "name": "Arashiyama, foresta di bambù e ponte Togetsukyo",
+          "description": "Arashiyama merita più di una foto veloce: foresta di bambù, ponte Togetsukyo, fiume Oi, giardino di Tenryu-ji e sentieri di Sagano stanno tutti nella stessa zona. Nei periodi di ciliegi e foliage è molto affollata, quindi mattina presto e passaggio da Kameyama Park aiutano molto.",
+          "image": "/images/kyoto-hero.svg"
+        },
+        {
+          "name": "Kinkaku-ji",
+          "description": "Ufficialmente Rokuon-ji, il Padiglione d'Oro è uno dei simboli del nord di Kyoto, con la sala reliquiario dorata riflessa nello stagno del giardino. La visita è compatta, ma gli autobus possono essere affollati: spesso conviene combinare metropolitana e bus invece di dipendere da una sola linea diretta.",
+          "image": "/images/kyoto-hero.svg"
+        },
+        {
+          "name": "Gion, Hanamikoji e Yasaka Shrine",
+          "description": "Vie di case da tè, facciate in legno, Yasaka Shrine e passeggiate lungo Shirakawa rendono questa una delle migliori zone serali di Kyoto. È anche un quartiere di lavoro per geiko e maiko, quindi è importante non inseguirle, non fotografarle senza permesso e rispettare le strade private.",
+          "image": "/images/kyoto-hero.svg"
+        },
+        {
+          "name": "Nishiki Market, Teramachi e Shinkyogoku",
+          "description": "Conosciuto come la cucina di Kyoto, Nishiki Market fa capire in poco spazio ingredienti locali come hamo, kombu, sottaceti, omelette arrotolata, namafu e dolci al matcha. Mangiare camminando è sconsigliato: è meglio usare lo spazio davanti al negozio o l'area interna dove si è comprato il cibo.",
+          "image": "/images/kyoto-food.svg"
+        },
+        {
+          "name": "Nijo Castle",
+          "description": "Questo castello Patrimonio dell'Umanità aggiunge uno strato politico a un viaggio spesso dominato dai templi. Il palazzo Ninomaru, gli interni dipinti, i giardini, i portali, i fossati e la storia Tokugawa mostrano un'altra forma di potere a Kyoto.",
+          "image": "/images/kyoto-hero.svg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Kyo-kaiseki",
+          "description": "La cucina cerimoniale di Kyoto costruisce un percorso in cui stagionalità, stoviglie, colori, temperatura e ritmo del servizio lavorano insieme. È costosa, ma resta uno dei modi più chiari per capire l'estetica e l'ospitalità della città.",
+          "image": "/images/kyoto-food.svg"
+        },
+        {
+          "name": "Obanzai",
+          "description": "Cucina domestica in stile Kyoto basata su verdure stagionali, tofu, pesce, piccoli piatti cotti o marinati. È molto più accessibile del kaiseki e mostra meglio come funziona la cultura alimentare locale nella vita quotidiana.",
+          "image": "/images/kyoto-food.svg"
+        },
+        {
+          "name": "Yudofu e shojin ryori",
+          "description": "Tofu caldo e cucina vegetariana buddhista sono particolarmente adatti alle zone di Nanzen-ji e Arashiyama. Il fascino è silenzioso: qualità dell'acqua, brodo di kombu, consistenza del tofu e vista sul giardino contano quanto il condimento.",
+          "image": "/images/kyoto-food.svg"
+        },
+        {
+          "name": "Nishin soba e ramen di Kyoto",
+          "description": "La nishin soba, con aringa cotta dolcemente, racconta una Kyoto più antica, mentre il ramen di Ichijoji e dell'area di Kyoto Station mostra il lato più quotidiano e intenso della città. Conviene lasciare spazio a entrambe le anime.",
+          "image": "/images/kyoto-food.svg"
+        },
+        {
+          "name": "Matcha di Uji e wagashi",
+          "description": "Kyoto e la vicina Uji sono centrali nella cultura del tè giapponese, tra parfait al matcha, cerimonie del tè, dolci stagionali e dessert all'hojicha. Una pausa in una sala da tè dopo i templi può cambiare il ritmo dell'intera giornata.",
+          "image": "/images/kyoto-food.svg"
+        },
+        {
+          "name": "Tsukemono, namafu e yatsuhashi",
+          "description": "Sottaceti di Kyoto, namafu dalla consistenza elastica e yatsuhashi profumato alla cannella sono facili da assaggiare o comprare come souvenir. Nishiki Market e i depachika dei grandi magazzini sono perfetti per confrontarli.",
+          "image": "/images/kyoto-food.svg"
+        }
+      ],
+      "tips": [
+        "Le attrazioni di Kyoto sono distribuite in quartieri distinti, quindi conviene pianificare per zona invece di attraversare la città più volte. Higashiyama, Arashiyama, Fushimi e l'area dei templi del nord meritano blocchi separati.",
+        "Kiyomizu-dera, Fushimi Inari e la foresta di bambù di Arashiyama rendono molto meglio al mattino presto. Ciliegie in fiore, foliage autunnale e Gion Festival possono cambiare completamente il livello di affollamento.",
+        "Gli autobus verso i luoghi famosi si riempiono e subiscono il traffico, quindi è meglio combinare metropolitana, JR, Hankyu, Keihan e Randen con i bus invece di affidarsi a una sola linea.",
+        "A Nishiki Market evita di mangiare camminando. Consuma davanti al negozio o nello spazio indicato e butta i rifiuti presso il punto in cui hai acquistato il cibo.",
+        "A Gion e Hanamikoji non seguire e non fotografare geiko o maiko senza permesso, e nei templi controlla sempre le indicazioni su foto vietate e flash vietato.",
+        "Le grandi valigie sono scomode sui bus cittadini: usa armadietti, deposito bagagli, consegna bagagli o deposito in hotel quando visiti Kyoto prima del check-in o dopo il check-out.",
+        "Kaiseki popolari, cerimonie del tè, aperture serali stagionali e templi su prenotazione possono richiedere organizzazione anticipata appena le date sono definite.",
+        "Nei templi si tolgono spesso le scarpe e si cammina molto, quindi scarpe facili da sfilare e calze comode aiutano. Gli interni in legno possono essere freddi in inverno e a inizio primavera."
+      ],
+      "bestTime": "Da fine marzo a maggio Kyoto è molto amata per ciliegi e verde fresco, mentre da fine ottobre a novembre domina il foliage autunnale. Sono anche i periodi più costosi e affollati, quindi le partenze di prima mattina sono fondamentali. La stagione delle piogge e l'estate sono umide ma portano un verde intenso nei templi, mentre l'inverno è più tranquillo e funziona bene per giardini, sale da tè, musei e passeggiate lente.",
+      "overview": "Kyoto è meno efficace come lista di luoghi da spuntare e molto più interessante quando lasci che un quartiere si sviluppi con calma. Le strade in pietra e i templi di Higashiyama, le vie serali di Gion, il fiume e il bosco di Arashiyama, i sentieri di Fushimi Inari, gli ingredienti di Nishiki Market e i giardini dei templi del nord hanno ritmi diversi. Se insegui solo siti UNESCO e foto celebri, Kyoto può sembrare rigida e affollata. Se dividi la giornata tra mattine presto, pomeriggi più lenti e passeggiate serali, usando bene treni e bus, la densità culturale dell'antica capitale diventa molto più leggibile.",
+      "highlights": [
+        "Siti Patrimonio dell'Umanità come Kiyomizu-dera, Kinkaku-ji, Nijo Castle e Tenryu-ji si collegano naturalmente a vicoli, mercati, passeggiate sul fiume e piccoli distretti artigianali.",
+        "La stagionalità cambia tutta la città: ciliegi, aceri autunnali, muschi nella stagione delle piogge, giardini invernali e sere estive lungo il Kamo River creano viaggi molto diversi.",
+        "Il cibo è parte dell'esperienza culturale, non solo una pausa: kaiseki, obanzai, tofu, matcha e wagashi collegano estetica, templi e tradizioni del tè."
+      ],
+      "gettingAround": [
+        "Usa Kyoto Station come hub, ma non provare a risolvere tutta la città in autobus. La metropolitana aiuta sull'asse nord-sud, Keihan serve bene il lato est e JR, Hankyu o Randen rendono più semplice Arashiyama.",
+        "Higashiyama e Gion comportano lunghe camminate, salite e folla, quindi pianifica in base alle condizioni reali delle strade più che alla fermata più vicina sulla mappa.",
+        "I collegamenti con Osaka sono semplici con JR, Hankyu e Keihan, ma la linea migliore dipende da dove dormi a Osaka e da quale parte di Kyoto vuoi raggiungere per prima."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Kyoto Station e Shichijo",
+          "description": "La base più pratica per soggiorni brevi, viaggi con molti bagagli, Shinkansen, collegamenti con Kansai Airport, trasferimenti da Osaka e rete bus o metro."
+        },
+        {
+          "name": "Shijo-Kawaramachi, Gion e Higashiyama",
+          "description": "La scelta migliore se contano passeggiate serali, ristoranti, shopping, Kiyomizu-dera, Yasaka Shrine e la sensazione più immediata della Kyoto storica."
+        },
+        {
+          "name": "Arashiyama, Sagano o Kyoto nord",
+          "description": "Adatta se vuoi un ritmo più lento tra foreste di bambù, fiume, giardini e templi più tranquilli invece di restare sempre nel centro commerciale."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Higashiyama e Gion classici",
+          "description": "Inizia presto da Kiyomizu-dera, scendi attraverso Sannenzaka, Ninenzaka e l'area di Kodai-ji, poi usa il pomeriggio per Yasaka Shrine e Maruyama Park prima di chiudere con una passeggiata serale a Gion e Shirakawa."
+        },
+        {
+          "title": "Fushimi Inari e Nishiki Market",
+          "description": "Cammina tra i torii di Fushimi Inari al mattino, spostati verso Nishiki Market e Teramachi intorno a pranzo, poi chiudi con obanzai, un corso leggero o una cena a Pontocho vicino a Kawaramachi."
+        },
+        {
+          "title": "Arashiyama e templi del nord",
+          "description": "Dedica la mattina alla foresta di bambù, a Tenryu-ji e al ponte Togetsukyo, poi scegli solo uno o due templi del nord come Kinkaku-ji o Ryoan-ji per un pomeriggio lento centrato sui giardini."
         }
       ]
     },
