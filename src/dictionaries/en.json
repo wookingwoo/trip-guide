@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Discover Your Next Adventure",
-    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Vatican, Pisa, Florence, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore, Shanghai, Hangzhou, and Suzhou with our premium guide.",
+    "subtitle": "Explore Sapporo, Shizuoka, Fuji City, Tokyo, Rome, Vatican, Pisa, Florence, Bangkok, Pattaya, Cebu, Osaka, Sydney, Melbourne, Singapore, Taipei, Shanghai, Hangzhou, and Suzhou with our premium guide.",
     "explore": "Explore Cities",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -18,6 +18,7 @@
     "sydney": "Sydney",
     "melbourne": "Melbourne",
     "singapore": "Singapore",
+    "taipei": "Taipei",
     "shanghai": "Shanghai",
     "hangzhou": "Hangzhou",
     "suzhou": "Suzhou"
@@ -1719,6 +1720,131 @@
         {
           "title": "City and Greenery Balance",
           "description": "Use the morning for the Botanic Gardens or another lower-heat green space, retreat indoors during the hottest hours, then return to the city core after dark for skyline views."
+        }
+      ]
+    },
+    "taipei": {
+      "id": "taipei",
+      "name": "Taipei",
+      "country": "Taiwan",
+      "description": "Taipei blends night-market eating, temple courtyards, one of the world's great Chinese art collections, quick MRT movement, hot springs, and mountain-framed skyline views into a compact capital that is easy to start exploring but worth slowing down for.",
+      "image": "/images/taipei-hero.svg",
+      "attractions": [
+        {
+          "name": "Taipei 101 and the Xinyi Skyline",
+          "description": "Taipei 101 is still the city's clearest modern landmark. Pair the observatory or lower-level mall with nearby Xinyi shopping streets, Sun Yat-sen Memorial Hall, and evening skyline views for a strong first impression of contemporary Taipei.",
+          "image": "/images/taipei-hero.svg"
+        },
+        {
+          "name": "National Palace Museum",
+          "description": "A major museum for Chinese art and imperial collections, the National Palace Museum deserves unhurried time rather than a quick check-in. It works especially well on hot or rainy days, and its Shilin location can be paired with Beitou or a night-market dinner.",
+          "image": "/images/taipei-hero.svg"
+        },
+        {
+          "name": "Longshan Temple and Old Wanhua",
+          "description": "Longshan Temple is one of Taipei's most important folk-religion sites, with carved details, incense, prayer rituals, and neighborhood history concentrated in a busy working temple. Nearby Bopiliao and Huaxi Street add old-city texture.",
+          "image": "/images/taipei-hero.svg"
+        },
+        {
+          "name": "Ximending and Ximen Red House",
+          "description": "Ximending is Taipei's youth-culture and pop-retail district, strongest from afternoon into late evening. The Red House adds a heritage and creative-market anchor, while the surrounding streets are good for snacks, shopping, and people-watching.",
+          "image": "/images/taipei-hero.svg"
+        },
+        {
+          "name": "Dadaocheng and Dihua Street",
+          "description": "Dadaocheng gives Taipei a slower heritage rhythm through restored shophouses, tea merchants, fabric stores, temples, riverfront walks, cafés, and creative shops. It is one of the best areas for seeing how old trade streets have been reused without losing their local feel.",
+          "image": "/images/taipei-hero.svg"
+        },
+        {
+          "name": "Beitou Hot Springs and Yangmingshan Foothills",
+          "description": "Beitou is the easiest hot-spring escape from central Taipei, with museums, public baths, private bathhouses, and steam rising from the geothermal valley. Add Yangmingshan when you want more flowers, volcanic scenery, or cooler air above the basin.",
+          "image": "/images/taipei-hero.svg"
+        },
+        {
+          "name": "Elephant Mountain and Maokong",
+          "description": "For skyline and mountain contrast, climb Xiangshan for the classic Taipei 101 view or take the Maokong Gondola toward tea houses and green hills. Both show how quickly Taipei shifts from dense streets to nature.",
+          "image": "/images/taipei-hero.svg"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Beef Noodle Soup",
+          "description": "Taipei has hundreds of beef noodle shops, from quick local counters to famous names. Look for deep braised broth, tender beef, chewy noodles, pickled greens, and the balance between richness and clarity.",
+          "image": "/images/taipei-food.svg"
+        },
+        {
+          "name": "Xiaolongbao",
+          "description": "Soup dumplings have Jiangnan roots but have become one of Taipei's most recognizable visitor meals. The best versions are delicate rather than heavy, with thin skins, hot broth, and a clean ginger-vinegar finish.",
+          "image": "/images/taipei-food.svg"
+        },
+        {
+          "name": "Lu Rou Fan",
+          "description": "Braised pork rice is humble, fast, and deeply local: minced or chopped pork slowly cooked in soy-based sauce over rice, often eaten with tofu, egg, greens, or soup on the side.",
+          "image": "/images/taipei-food.svg"
+        },
+        {
+          "name": "Gua Bao and Scallion Pancake",
+          "description": "Gua bao brings braised pork, pickled greens, peanut powder, and coriander into a soft steamed bun, while flaky scallion pancakes are ideal for casual snacking between neighborhoods.",
+          "image": "/images/taipei-food.svg"
+        },
+        {
+          "name": "Night-Market Classics",
+          "description": "Oyster omelets, pepper buns, luwei, stinky tofu, fried chicken, taro balls, and grilled skewers make Taipei's night markets more than a single-dish destination. Go hungry, share orders, and let the market decide the meal.",
+          "image": "/images/taipei-food.svg"
+        },
+        {
+          "name": "Bubble Tea, Shaved Ice, and Pineapple Cake",
+          "description": "Taipei's sweet side is just as important as its savory one: adjustable bubble tea shops are everywhere, mango or taro shaved ice is ideal in warm weather, and pineapple cake remains the classic edible souvenir.",
+          "image": "/images/taipei-food.svg"
+        }
+      ],
+      "tips": [
+        "Use an EasyCard as your default: it works across Taipei Metro, many buses, YouBike, Maokong Gondola, and convenience-store purchases, which keeps short movements simple.",
+        "Build days by MRT line or neighborhood cluster. Longshan Temple, Ximending, Dadaocheng, Xinyi, Beitou, and Shilin are all manageable, but crossing the city too many times drains the day.",
+        "Keep small cash for night markets, older eateries, temple donations, lockers, and occasional minimum-spend shops even though card and mobile payment coverage continues to improve.",
+        "Night markets are best approached as shared grazing. Order small portions first, avoid only chasing the longest line, and leave room for something unexpected.",
+        "Summer can be hot, humid, and stormy, with typhoon disruptions possible, so keep indoor museum, mall, tea house, or hot-spring backup plans.",
+        "At temples, stay quiet around worshippers, avoid blocking prayer paths or incense areas, and check whether photography is appropriate before pointing a camera inside.",
+        "For Beitou public baths or hot-spring hotels, check gender rules, swim-cap or towel requirements, reservation policy, and cleaning breaks before going."
+      ],
+      "bestTime": "October to November and March to April are the easiest months for walking, night markets, hikes, and day trips. Winter can be damp but works well for hot springs, while June to September needs more heat, rain, and typhoon flexibility.",
+      "overview": "Taipei is at its best when you treat it as a layered city rather than a simple capital checklist. The MRT lets you move quickly between temple districts, creative streets, food neighborhoods, museums, hot springs, and skyline viewpoints, but the real reward comes from slowing down inside each pocket. A strong day might begin with soy milk or beef noodles, move through a museum or old market street, climb toward a viewpoint near sunset, and end with a night-market meal that feels completely different from lunch.",
+      "highlights": [
+        "Few Asian capitals make it this easy to combine a major museum, active temples, skyline viewpoints, hot springs, and night-market eating without long transfers.",
+        "Taipei's food culture is unusually accessible: iconic dishes, breakfast shops, tea drinks, and late-night stalls are woven into everyday neighborhoods rather than isolated tourist zones.",
+        "The city constantly shifts scale, moving from dense shopping streets to riverside heritage lanes, volcanic foothills, and tea-house hills in a short ride."
+      ],
+      "gettingAround": [
+        "Taipei Metro should be the default for first-time visitors because it is legible, clean, and connects most core districts; buses fill in routes to hills, museums, and hot-spring areas.",
+        "Taoyuan Airport MRT connects the airport with Taipei Main Station, while taxis are most useful in heavy rain, late at night, or for short hops from stations to hillier destinations.",
+        "YouBike works well for riverside paths and flatter neighborhoods, but central traffic and summer heat make it better as a selective tool than an all-day plan."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Xinyi, Da'an, and Yongkang",
+          "description": "Best for a polished first stay with Taipei 101 access, shopping, cafés, restaurants, Elephant Mountain, and easy MRT movement."
+        },
+        {
+          "name": "Zhongzheng, Wanhua, and Ximending",
+          "description": "A practical base for Taipei Main Station, Longshan Temple, Ximending, Chiang Kai-shek Memorial Hall, older streets, and late-night snacks."
+        },
+        {
+          "name": "Datong, Dadaocheng, Zhongshan, and Beitou",
+          "description": "Good if you want heritage streets, tea shops, calmer cafés, river walks, museum access, and an easy hot-spring day without leaving the metro system."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Old Taipei and Night-Market Day",
+          "description": "Begin around Longshan Temple and Bopiliao, move toward Ximending or Dadaocheng in the afternoon, then finish with Ningxia, Raohe, or another night market for a food-focused evening."
+        },
+        {
+          "title": "Museum, Skyline, and Mountain View",
+          "description": "Spend the morning or early afternoon at the National Palace Museum, return toward Xinyi for Taipei 101 and city shopping, then climb Elephant Mountain near sunset if the weather is clear."
+        },
+        {
+          "title": "Hot Springs and Tea Hills",
+          "description": "Use the cooler part of the day for Beitou hot springs or Yangmingshan scenery, then choose Maokong tea houses or a relaxed dinner back in the city depending on energy and weather."
         }
       ]
     },

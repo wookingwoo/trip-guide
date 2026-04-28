@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Taipei food illustration</title>
+  <desc id="desc">Beef noodle soup, xiaolongbao, bubble tea, shaved ice, and pineapple cake representing Taipei food.</desc>
+  <rect width="1200" height="680" fill="#f6efe5" />
+  <rect x="64" y="64" width="1072" height="552" rx="34" fill="#fffaf2" stroke="#dfd0c0" stroke-width="10" />
+  <g transform="translate(126 168)">
+    <ellipse cx="220" cy="278" rx="218" ry="118" fill="#34577a" />
+    <ellipse cx="220" cy="252" rx="188" ry="86" fill="#ba5c35" />
+    <ellipse cx="220" cy="236" rx="156" ry="60" fill="#7d3b28" opacity="0.72" />
+    <g fill="none" stroke="#f3c88f" stroke-width="14" stroke-linecap="round">
+      <path d="M 92 234 C 130 198 176 210 214 230 C 256 252 302 246 344 210" />
+      <path d="M 100 266 C 148 228 196 236 236 258 C 276 280 310 276 346 248" />
+    </g>
+    <g fill="#b55336">
+      <rect x="116" y="178" width="82" height="46" rx="18" transform="rotate(-12 157 201)" />
+      <rect x="238" y="174" width="92" height="48" rx="18" transform="rotate(10 284 198)" />
+    </g>
+    <circle cx="170" cy="284" r="14" fill="#4f8d59" />
+    <circle cx="256" cy="284" r="14" fill="#4f8d59" />
+  </g>
+  <g transform="translate(534 130)">
+    <ellipse cx="178" cy="302" rx="198" ry="96" fill="#b97c48" />
+    <ellipse cx="178" cy="282" rx="170" ry="72" fill="#e1b06f" />
+    <g fill="#fff6e8" stroke="#d6b894" stroke-width="6">
+      <path d="M 68 270 C 70 232 106 208 138 230 C 166 210 204 210 232 230 C 270 210 304 234 306 270 C 300 314 250 336 186 328 C 122 336 72 314 68 270 Z" />
+      <path d="M 112 232 C 122 252 128 276 120 304" />
+      <path d="M 178 222 C 168 250 168 284 184 316" />
+      <path d="M 244 232 C 236 254 232 280 242 304" />
+    </g>
+    <circle cx="86" cy="240" r="15" fill="#fff6e8" stroke="#d6b894" stroke-width="6" />
+    <circle cx="280" cy="246" r="15" fill="#fff6e8" stroke="#d6b894" stroke-width="6" />
+  </g>
+  <g transform="translate(920 112)">
+    <rect x="22" y="42" width="136" height="310" rx="28" fill="#e8c7aa" stroke="#76523b" stroke-width="10" />
+    <rect x="38" y="68" width="104" height="92" rx="18" fill="#f3e8ce" opacity="0.82" />
+    <path d="M 38 210 C 74 188 108 234 142 204 V 324 H 38 Z" fill="#8a573b" />
+    <g fill="#1f1d22">
+      <circle cx="62" cy="272" r="13" />
+      <circle cx="92" cy="300" r="13" />
+      <circle cx="122" cy="268" r="13" />
+    </g>
+    <rect x="76" y="-8" width="20" height="64" rx="10" fill="#5d483b" />
+  </g>
+  <g transform="translate(828 430)">
+    <ellipse cx="96" cy="144" rx="110" ry="40" fill="#7f4f35" />
+    <path d="M 24 136 C 34 82 68 56 96 34 C 124 58 160 82 168 136 Z" fill="#f7d26f" />
+    <path d="M 52 106 C 78 90 112 90 140 106" fill="none" stroke="#dd9c50" stroke-width="12" stroke-linecap="round" />
+    <rect x="62" y="132" width="68" height="62" rx="10" fill="#c9944a" />
+  </g>
+  <g transform="translate(642 442)">
+    <path d="M 20 142 C 58 86 90 58 124 28 C 154 58 192 92 222 142 Z" fill="#fff7f0" stroke="#b9d7ef" stroke-width="8" />
+    <path d="M 56 128 C 90 102 132 102 190 128" fill="none" stroke="#f0a2ac" stroke-width="14" stroke-linecap="round" />
+    <circle cx="100" cy="86" r="14" fill="#f2c35d" />
+    <circle cx="146" cy="100" r="16" fill="#f27c68" />
+    <ellipse cx="122" cy="164" rx="116" ry="34" fill="#7d8eb5" />
+  </g>
+</svg>
