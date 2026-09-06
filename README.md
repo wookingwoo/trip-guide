@@ -25,5 +25,5 @@ A premium travel guide covering real, visited destinations across Japan, Italy, 
 
 -   **Multi-language Support**: Korean, English, Japanese, Italian.
 -   **Premium Design**: Custom Chakra UI theme with dark mode support.
--   **City Guides**: Detailed, first-hand guides for every destination, including attractions, food, getting around, recommended areas, sample itineraries, and voltage/plug info.
+-   **City Guides**: Detailed, first-hand guides for every destination, including attractions, food, getting around, recommended areas, sample itineraries, voltage/plug info, and practical currency/payment guidance.
 -   **SEO**: per-page metadata, hreflang alternates across all four locales, and an auto-generated sitemap/robots.txt.

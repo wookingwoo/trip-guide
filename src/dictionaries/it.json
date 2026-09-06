@@ -39,7 +39,8 @@
     "gettingAround": "Come muoversi",
     "recommendedAreas": "Zone consigliate",
     "sampleItinerary": "Itinerario consigliato",
-    "electricity": "Voltaggio e Presa"
+    "electricity": "Voltaggio e Presa",
+    "currency": "Valuta e pagamenti"
   },
   "cities": {
     "kotakinabalu": {
@@ -162,7 +163,8 @@
           "description": "Scegli in base alle energie: un tour di mezza giornata al Mari Mari Cultural Village per vedere case tradizionali ed esibizioni di cinque gruppi etnici del Borneo, oppure un'intera giornata al Kinabalu Park per i suoi sentieri botanici e i paesaggi d'altura."
         }
       ],
-      "electricity": "La Malesia funziona a 240V e 50Hz con prese Tipo G rettangolari a tre piedini, di stile britannico. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile."
+      "electricity": "La Malesia funziona a 240V e 50Hz con prese Tipo G rettangolari a tre piedini, di stile britannico. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile.",
+      "currency": "La valuta è il ringgit malese (MYR, RM). Carte e pagamenti mobili sono comuni in hotel, centri commerciali e ristoranti medio-grandi, mentre il contante è utile nei mercati, alle bancarelle e per piccole spese durante le escursioni. Usa ATM bancari e scegli l’addebito in ringgit."
     },
     "bandarseribegawan": {
       "id": "bandarseribegawan",
@@ -284,7 +286,8 @@
           "description": "Dedica un'intera giornata al viaggio verso il distretto di Temburong, risali il fiume su una longboat e affronta il camminamento sospeso a 50 metri e un tratto di foresta primaria, per poi tornare a Bandar Seri Begawan in serata. Poiché l'accesso al parco è controllato, è consigliabile prenotare tramite un operatore locale autorizzato."
         }
       ],
-      "electricity": "Il Brunei funziona a 240V e 50Hz con le stesse prese Tipo G rettangolari di stile britannico usate nella vicina Malesia. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile."
+      "electricity": "Il Brunei funziona a 240V e 50Hz con le stesse prese Tipo G rettangolari di stile britannico usate nella vicina Malesia. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile.",
+      "currency": "La valuta è il dollaro del Brunei (BND, B$); anche il dollaro di Singapore è normalmente accettato alla pari. Le carte funzionano in hotel e negozi grandi, ma il contante serve per mercati, piccoli ristoranti e trasporti. Usa banche o cambiavalute autorizzati."
     },
     "tokyo": {
       "id": "tokyo",
@@ -410,7 +413,8 @@
           "description": "Abbina i musei di Ueno a una passeggiata in un quartiere più tranquillo o a un santuario per alleggerire la densità urbana."
         }
       ],
-      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e Tokyo e Sapporo si trovano nella rete orientale a 50Hz. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e Tokyo e Sapporo si trovano nella rete orientale a 50Hz. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli.",
+      "currency": "La valuta è lo yen giapponese (JPY, ¥). Carte e IC card dei trasporti sono diffuse nelle città, ma ristoranti indipendenti, mercati, templi e alcuni mezzi regionali possono richiedere contanti. Gli ATM di convenience store e poste sono pratici; scegli sempre l’addebito in yen."
     },
     "fuji": {
       "id": "fuji",
@@ -520,7 +524,8 @@
           "description": "Concludi a Tagonoura o nell'area industriale di Gakunan per vedere il contrasto tra il paesaggio del giorno e quello notturno."
         }
       ],
-      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, ma questo è uno dei rari punti del paese dove il fiume Fuji divide letteralmente una stessa città tra la rete orientale a 50Hz e quella occidentale a 60Hz. Nella pratica la differenza di frequenza conta poco, ma la forma piatta dei piedini richiede comunque un adattatore per chi è abituato a spine tonde a due poli."
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, ma questo è uno dei rari punti del paese dove il fiume Fuji divide letteralmente una stessa città tra la rete orientale a 50Hz e quella occidentale a 60Hz. Nella pratica la differenza di frequenza conta poco, ma la forma piatta dei piedini richiede comunque un adattatore per chi è abituato a spine tonde a due poli.",
+      "currency": "La valuta è lo yen giapponese (JPY, ¥). Carte e IC card dei trasporti sono diffuse nelle città, ma ristoranti indipendenti, mercati, templi e alcuni mezzi regionali possono richiedere contanti. Gli ATM di convenience store e poste sono pratici; scegli sempre l’addebito in yen."
     },
     "shizuoka": {
       "id": "shizuoka",
@@ -630,7 +635,8 @@
           "description": "Se gli orari aiutano, chiudi a Shimizu con tonno o shirasu; in alternativa rientra in centro e termina con un giro lento e un buon oden."
         }
       ],
-      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli.",
+      "currency": "La valuta è lo yen giapponese (JPY, ¥). Carte e IC card dei trasporti sono diffuse nelle città, ma ristoranti indipendenti, mercati, templi e alcuni mezzi regionali possono richiedere contanti. Gli ATM di convenience store e poste sono pratici; scegli sempre l’addebito in yen."
     },
     "sapporo": {
       "id": "sapporo",
@@ -739,7 +745,8 @@
           "description": "Sfrutta la rete sotterranea e gli spazi interni durante il giorno, poi rientra all'aperto al calare della luce per neve e illuminazioni."
         }
       ],
-      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e Tokyo e Sapporo si trovano nella rete orientale a 50Hz. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e Tokyo e Sapporo si trovano nella rete orientale a 50Hz. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli.",
+      "currency": "La valuta è lo yen giapponese (JPY, ¥). Carte e IC card dei trasporti sono diffuse nelle città, ma ristoranti indipendenti, mercati, templi e alcuni mezzi regionali possono richiedere contanti. Gli ATM di convenience store e poste sono pratici; scegli sempre l’addebito in yen."
     },
     "rome": {
       "id": "rome",
@@ -848,7 +855,8 @@
           "description": "Attraversa il fiume per cena, vino e una passeggiata senza fretta: spesso lascia un ricordo più forte di un monumento in più."
         }
       ],
-      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza.",
+      "currency": "La valuta è l’euro (EUR, €). Le carte sono comuni in hotel, ristoranti e attrazioni principali, ma il contante resta utile in piccoli bar, mercati, bagni pubblici e per acquisti minori. Preferisci ATM bancari, evita i cambi automatici costosi e rifiuta la conversione in valuta domestica."
     },
     "vatican": {
       "id": "vatican",
@@ -970,7 +978,8 @@
           "description": "Dedica una mezza giornata profonda al Vaticano e poi attraversa il Tevere per cena e passeggiata in zona Navona o nel centro storico senza riempire troppo il resto."
         }
       ],
-      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza.",
+      "currency": "La valuta è l’euro (EUR, €). Le carte sono comuni in hotel, ristoranti e attrazioni principali, ma il contante resta utile in piccoli bar, mercati, bagni pubblici e per acquisti minori. Preferisci ATM bancari, evita i cambi automatici costosi e rifiuta la conversione in valuta domestica."
     },
     "pisa": {
       "id": "pisa",
@@ -1091,7 +1100,8 @@
           "description": "Se arrivi da Firenze o Lucca, costruisci la mattina attorno all'orario della torre e lascia il resto del tempo al centro e all'Arno invece di rientrare di corsa."
         }
       ],
-      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza.",
+      "currency": "La valuta è l’euro (EUR, €). Le carte sono comuni in hotel, ristoranti e attrazioni principali, ma il contante resta utile in piccoli bar, mercati, bagni pubblici e per acquisti minori. Preferisci ATM bancari, evita i cambi automatici costosi e rifiuta la conversione in valuta domestica."
     },
     "florence": {
       "id": "florence",
@@ -1213,7 +1223,8 @@
           "description": "Inizia con vie più calme e caffè, mangia leggero nelle ore centrali e tieni il tardo pomeriggio per Piazzale Michelangelo e una cena in Oltrarno."
         }
       ],
-      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza.",
+      "currency": "La valuta è l’euro (EUR, €). Le carte sono comuni in hotel, ristoranti e attrazioni principali, ma il contante resta utile in piccoli bar, mercati, bagni pubblici e per acquisti minori. Preferisci ATM bancari, evita i cambi automatici costosi e rifiuta la conversione in valuta domestica."
     },
     "bangkok": {
       "id": "bangkok",
@@ -1292,7 +1303,8 @@
           "description": "Chiudi con una serata centrata sul cibo, scegliendo tra la varietà rilassata di un mercato o il panorama più lento di un rooftop bar."
         }
       ],
-      "electricity": "La Thailandia funziona a 230V e 50Hz con un mix di prese Tipo C e O a piedini tondi insieme a Tipo A e B a piedini piatti. La maggior parte delle prese, soprattutto negli hotel, sono ibride e accettano più tipi di spina insieme, quindi un adattatore di solito non è indispensabile, anche se può servire negli edifici più vecchi."
+      "electricity": "La Thailandia funziona a 230V e 50Hz con un mix di prese Tipo C e O a piedini tondi insieme a Tipo A e B a piedini piatti. La maggior parte delle prese, soprattutto negli hotel, sono ibride e accettano più tipi di spina insieme, quindi un adattatore di solito non è indispensabile, anche se può servire negli edifici più vecchi.",
+      "currency": "La valuta è il baht thailandese (THB, ฿). Le carte sono comode in hotel e centri commerciali, mentre street food, mercati, centri massaggi e trasporti locali usano spesso contanti. Gli ATM applicano spesso una commissione: riduci i prelievi e scegli l’addebito in baht."
     },
     "pattaya": {
       "id": "pattaya",
@@ -1371,7 +1383,8 @@
           "description": "Concludi con una cena di pesce e una passeggiata sul mare, oppure passa a una serata più vivace in base alla zona in cui alloggi."
         }
       ],
-      "electricity": "La Thailandia funziona a 230V e 50Hz con un mix di prese Tipo C e O a piedini tondi insieme a Tipo A e B a piedini piatti. La maggior parte delle prese, soprattutto negli hotel, sono ibride e accettano più tipi di spina insieme, quindi un adattatore di solito non è indispensabile, anche se può servire negli edifici più vecchi."
+      "electricity": "La Thailandia funziona a 230V e 50Hz con un mix di prese Tipo C e O a piedini tondi insieme a Tipo A e B a piedini piatti. La maggior parte delle prese, soprattutto negli hotel, sono ibride e accettano più tipi di spina insieme, quindi un adattatore di solito non è indispensabile, anche se può servire negli edifici più vecchi.",
+      "currency": "La valuta è il baht thailandese (THB, ฿). Le carte sono comode in hotel e centri commerciali, mentre street food, mercati, centri massaggi e trasporti locali usano spesso contanti. Gli ATM applicano spesso una commissione: riduci i prelievi e scegli l’addebito in baht."
     },
     "cebu": {
       "id": "cebu",
@@ -1492,7 +1505,8 @@
           "description": "Parti presto per snorkeling o island hopping da Mactan, rallenta nel pomeriggio in resort o sul lungomare e chiudi con una cena di pesce per sentire bene il contrasto con la parte più urbana di Cebu."
         }
       ],
-      "electricity": "Le Filippine funzionano a 220V e 60Hz con prese Tipo A a piedini piatti e Tipo B con messa a terra. La forma piatta dei piedini richiede un adattatore per le spine tonde, anche se il voltaggio è compatibile con la maggior parte dei dispositivi elettronici."
+      "electricity": "Le Filippine funzionano a 220V e 60Hz con prese Tipo A a piedini piatti e Tipo B con messa a terra. La forma piatta dei piedini richiede un adattatore per le spine tonde, anche se il voltaggio è compatibile con la maggior parte dei dispositivi elettronici.",
+      "currency": "La valuta è il peso filippino (PHP, ₱). Le carte sono accettate nei resort e nei grandi centri commerciali, ma il contante è quasi indispensabile in trattorie locali, mercati, tricicli e isole. Porta banconote di piccolo taglio e usa ATM in banche o centri commerciali sorvegliati."
     },
     "kyoto": {
       "id": "kyoto",
@@ -1619,7 +1633,8 @@
           "description": "Dedica la mattina alla foresta di bambù, a Tenryu-ji e al ponte Togetsukyo, poi scegli solo uno o due templi del nord come Kinkaku-ji o Ryoan-ji per un pomeriggio lento centrato sui giardini."
         }
       ],
-      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli.",
+      "currency": "La valuta è lo yen giapponese (JPY, ¥). Carte e IC card dei trasporti sono diffuse nelle città, ma ristoranti indipendenti, mercati, templi e alcuni mezzi regionali possono richiedere contanti. Gli ATM di convenience store e poste sono pratici; scegli sempre l’addebito in yen."
     },
     "osaka": {
       "id": "osaka",
@@ -1746,7 +1761,8 @@
           "description": "Usa Tennoji o Abeno per una prima metà giornata più ordinata, poi entra più tardi in Shinsekai, Tsutenkaku e Janjan Yokocho per kushikatsu, insegne d'altri tempi e un'atmosfera serale più ruvida."
         }
       ],
-      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli.",
+      "currency": "La valuta è lo yen giapponese (JPY, ¥). Carte e IC card dei trasporti sono diffuse nelle città, ma ristoranti indipendenti, mercati, templi e alcuni mezzi regionali possono richiedere contanti. Gli ATM di convenience store e poste sono pratici; scegli sempre l’addebito in yen."
     },
     "sydney": {
       "id": "sydney",
@@ -1867,7 +1883,8 @@
           "description": "Comincia con un vero brunch, poi costruisci la giornata tra CBD, Barangaroo o Darling Harbour e chiudi con una cena sull'acqua per sentire il lato più quotidiano della città."
         }
       ],
-      "electricity": "L'Australia funziona a 230V e 50Hz con le caratteristiche prese Tipo I, riconoscibili per i due piedini inclinati più uno di terra. La forma non corrisponde a nessun'altra presa nel mondo, quindi un adattatore Tipo I è indispensabile."
+      "electricity": "L'Australia funziona a 230V e 50Hz con le caratteristiche prese Tipo I, riconoscibili per i due piedini inclinati più uno di terra. La forma non corrisponde a nessun'altra presa nel mondo, quindi un adattatore Tipo I è indispensabile.",
+      "currency": "La valuta è il dollaro australiano (AUD, A$). Carte e pagamenti contactless sono la norma anche per piccole somme, sebbene alcuni esercizi aggiungano una commissione. In genere serve poco contante: controlla eventuali supplementi e scegli l’addebito in dollari australiani."
     },
     "melbourne": {
       "id": "melbourne",
@@ -1988,7 +2005,8 @@
           "description": "Usa il mattino per il centro e il caffè, poi porta il ritmo verso St Kilda nella seconda parte del giorno per mare, passeggiata e luce serale."
         }
       ],
-      "electricity": "L'Australia funziona a 230V e 50Hz con le caratteristiche prese Tipo I, riconoscibili per i due piedini inclinati più uno di terra. La forma non corrisponde a nessun'altra presa nel mondo, quindi un adattatore Tipo I è indispensabile."
+      "electricity": "L'Australia funziona a 230V e 50Hz con le caratteristiche prese Tipo I, riconoscibili per i due piedini inclinati più uno di terra. La forma non corrisponde a nessun'altra presa nel mondo, quindi un adattatore Tipo I è indispensabile.",
+      "currency": "La valuta è il dollaro australiano (AUD, A$). Carte e pagamenti contactless sono la norma anche per piccole somme, sebbene alcuni esercizi aggiungano una commissione. In genere serve poco contante: controlla eventuali supplementi e scegli l’addebito in dollari australiani."
     },
     "singapore": {
       "id": "singapore",
@@ -2109,7 +2127,8 @@
           "description": "Usa la mattina per i Botanic Gardens o un'altra tappa verde, passa le ore più calde in spazi interni e torna verso il centro dopo il tramonto per skyline e luci."
         }
       ],
-      "electricity": "Singapore funziona a 230V e 50Hz con prese Tipo G rettangolari a tre piedini, di stile britannico. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile."
+      "electricity": "Singapore funziona a 230V e 50Hz con prese Tipo G rettangolari a tre piedini, di stile britannico. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile.",
+      "currency": "La valuta è il dollaro di Singapore (SGD, S$). Carte e pagamenti contactless sono molto diffusi, ma alcuni chioschi hawker e piccoli negozi accettano solo contanti o QR locali. Porta una modesta somma in contanti, usa ATM bancari e scegli l’addebito in dollari di Singapore."
     },
     "taipei": {
       "id": "taipei",
@@ -2235,7 +2254,8 @@
           "description": "Usa le ore più fresche per le terme di Beitou o per Yangmingshan, poi scegli tra le case da tè di Maokong o una cena tranquilla in città in base a energia e meteo."
         }
       ],
-      "electricity": "Taiwan funziona a 110V e 60Hz con prese Tipo A a piedini piatti (o Tipo B con terra), la stessa forma usata in Giappone e negli Stati Uniti. Il voltaggio più basso raramente crea problemi ai caricabatterie di telefoni e computer, ma chi è abituato a spine tonde a due poli avrà comunque bisogno di un adattatore."
+      "electricity": "Taiwan funziona a 110V e 60Hz con prese Tipo A a piedini piatti (o Tipo B con terra), la stessa forma usata in Giappone e negli Stati Uniti. Il voltaggio più basso raramente crea problemi ai caricabatterie di telefoni e computer, ma chi è abituato a spine tonde a due poli avrà comunque bisogno di un adattatore.",
+      "currency": "La valuta è il nuovo dollaro taiwanese (TWD, NT$). Le carte sono comode in hotel, grandi magazzini e convenience store, mentre mercati notturni, mercati tradizionali e piccoli ristoranti preferiscono contanti. Usa ATM di banche o convenience store e porta banconote piccole e monete."
     },
     "shanghai": {
       "id": "shanghai",
@@ -2357,7 +2377,8 @@
           "description": "Dedica il giorno a Pudong tra torri, osservatori e shopping, poi torna verso il fiume o il Bund dopo il tramonto per vedere il profilo della città dall'angolazione più iconica."
         }
       ],
-      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza."
+      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza.",
+      "currency": "La valuta è lo yuan cinese (CNY, ¥). I pagamenti mobili con Alipay e WeChat Pay dominano, quindi verifica prima della partenza il collegamento della carta internazionale. Tieni del contante come riserva se carta o QR non funzionano e usa ATM bancari o sportelli di cambio ufficiali."
     },
     "hangzhou": {
       "id": "hangzhou",
@@ -2479,7 +2500,8 @@
           "description": "Usa le ore centrali per zone umide, musei o pause al chiuso e torna verso il lago o la pagoda di Leifeng vicino al tramonto per avere il ritmo migliore."
         }
       ],
-      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza."
+      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza.",
+      "currency": "La valuta è lo yuan cinese (CNY, ¥). I pagamenti mobili con Alipay e WeChat Pay dominano, quindi verifica prima della partenza il collegamento della carta internazionale. Tieni del contante come riserva se carta o QR non funzionano e usa ATM bancari o sportelli di cambio ufficiali."
     },
     "suzhou": {
       "id": "suzhou",
@@ -2601,7 +2623,8 @@
           "description": "Dedica il primo giorno al nucleo giardino-museo-Pingjiang e usa la seconda mattina per un altro giardino o Tiger Hill, con un ritmo molto più adatto di una semplice gita lampo."
         }
       ],
-      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza."
+      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza.",
+      "currency": "La valuta è lo yuan cinese (CNY, ¥). I pagamenti mobili con Alipay e WeChat Pay dominano, quindi verifica prima della partenza il collegamento della carta internazionale. Tieni del contante come riserva se carta o QR non funzionano e usa ATM bancari o sportelli di cambio ufficiali."
     }
   }
 }

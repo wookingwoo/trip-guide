@@ -30,4 +30,5 @@ export interface City {
   tips: string[];
   bestTime: string;
   electricity: string;
+  currency: string;
 }

@@ -39,7 +39,8 @@
     "gettingAround": "Getting Around",
     "recommendedAreas": "Recommended Areas",
     "sampleItinerary": "Sample Itinerary",
-    "electricity": "Voltage & Plug"
+    "electricity": "Voltage & Plug",
+    "currency": "Currency & payments"
   },
   "cities": {
     "kotakinabalu": {
@@ -162,7 +163,8 @@
           "description": "Choose based on your energy: a half-day tour of Mari Mari Cultural Village to see traditional houses and performances from five Bornean ethnic groups, or a full day at Kinabalu Park for its botanical trails and highland scenery."
         }
       ],
-      "electricity": "Malaysia runs on 240V at 50Hz with UK-style rectangular three-pin Type G outlets. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential."
+      "electricity": "Malaysia runs on 240V at 50Hz with UK-style rectangular three-pin Type G outlets. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential.",
+      "currency": "The currency is the Malaysian ringgit (MYR, RM). Cards and mobile payments are common at hotels, malls, and larger restaurants, while cash is useful at markets, food stalls, and for small island-tour expenses. Use bank ATMs and choose to be charged in ringgit rather than your home currency."
     },
     "bandarseribegawan": {
       "id": "bandarseribegawan",
@@ -284,7 +286,8 @@
           "description": "Set aside a full day to travel to the Temburong district, ride a longboat upriver, and take on the 50-meter canopy walk and a stretch of primary rainforest before returning to Bandar Seri Begawan by evening. Since park access is controlled, booking through a licensed local operator is recommended."
         }
       ],
-      "electricity": "Brunei runs on 240V at 50Hz with the same UK-style rectangular three-pin Type G outlets used in neighboring Malaysia. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential."
+      "electricity": "Brunei runs on 240V at 50Hz with the same UK-style rectangular three-pin Type G outlets used in neighboring Malaysia. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential.",
+      "currency": "The currency is the Brunei dollar (BND, B$); Singapore dollars are also commonly accepted at par. Cards work at hotels and larger shops, but cash is useful for markets, small restaurants, and transport. Use banks or licensed money changers and check where any leftover notes can be spent."
     },
     "tokyo": {
       "id": "tokyo",
@@ -410,7 +413,8 @@
           "description": "Pair Ueno's museums with a quieter neighborhood walk or a shrine visit to balance Tokyo's density with time outdoors."
         }
       ],
-      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 50Hz eastern grid that also covers Tokyo and Sapporo. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 50Hz eastern grid that also covers Tokyo and Sapporo. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter.",
+      "currency": "The currency is the Japanese yen (JPY, ¥). Cards and transit IC cards are widely accepted in cities, but independent restaurants, markets, temples, and some regional transport may still require cash. Convenience-store and post-office ATMs are useful; always choose to pay in yen."
     },
     "fuji": {
       "id": "fuji",
@@ -520,7 +524,8 @@
           "description": "End at Tagonoura or the Gakunan industrial area to contrast the daytime mountain scenery with the city's atmospheric evening lights."
         }
       ],
-      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, but this is one of the rare places in the country where the Fuji River itself splits a single city between the 50Hz eastern grid and the 60Hz western grid. The frequency split rarely matters in practice, but the flat pins still mean travelers used to round two-pin plugs will need an adapter."
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, but this is one of the rare places in the country where the Fuji River itself splits a single city between the 50Hz eastern grid and the 60Hz western grid. The frequency split rarely matters in practice, but the flat pins still mean travelers used to round two-pin plugs will need an adapter.",
+      "currency": "The currency is the Japanese yen (JPY, ¥). Cards and transit IC cards are widely accepted in cities, but independent restaurants, markets, temples, and some regional transport may still require cash. Convenience-store and post-office ATMs are useful; always choose to pay in yen."
     },
     "shizuoka": {
       "id": "shizuoka",
@@ -630,7 +635,8 @@
           "description": "Finish in the Shimizu side with tuna or shirasu if timing works, or return to central Shizuoka for oden and a slower night walk."
         }
       ],
-      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter.",
+      "currency": "The currency is the Japanese yen (JPY, ¥). Cards and transit IC cards are widely accepted in cities, but independent restaurants, markets, temples, and some regional transport may still require cash. Convenience-store and post-office ATMs are useful; always choose to pay in yen."
     },
     "sapporo": {
       "id": "sapporo",
@@ -739,7 +745,8 @@
           "description": "Use the underground network during the day, visit the Beer Museum or indoor sights, and return outdoors after dark for festival lights or snow scenery."
         }
       ],
-      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 50Hz eastern grid that also covers Tokyo and Sapporo. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 50Hz eastern grid that also covers Tokyo and Sapporo. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter.",
+      "currency": "The currency is the Japanese yen (JPY, ¥). Cards and transit IC cards are widely accepted in cities, but independent restaurants, markets, temples, and some regional transport may still require cash. Convenience-store and post-office ATMs are useful; always choose to pay in yen."
     },
     "rome": {
       "id": "rome",
@@ -848,7 +855,8 @@
           "description": "Cross the river for dinner, wine, and a looser night walk where the atmosphere is often more memorable than ticking off another monument."
         }
       ],
-      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case.",
+      "currency": "The currency is the euro (EUR, €). Cards are standard at hotels, restaurants, and major attractions, while cash remains handy for small cafés, markets, public toilets, and minor purchases. Prefer bank ATMs, avoid high-fee exchange machines, and decline conversion to your home currency."
     },
     "vatican": {
       "id": "vatican",
@@ -970,7 +978,8 @@
           "description": "Use a deep half day inside the Vatican, then cross the Tiber for dinner and a slow evening in Navona or the historic center instead of overfilling the afternoon."
         }
       ],
-      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case.",
+      "currency": "The currency is the euro (EUR, €). Cards are standard at hotels, restaurants, and major attractions, while cash remains handy for small cafés, markets, public toilets, and minor purchases. Prefer bank ATMs, avoid high-fee exchange machines, and decline conversion to your home currency."
     },
     "pisa": {
       "id": "pisa",
@@ -1091,7 +1100,8 @@
           "description": "If arriving from Florence or Lucca, build the morning around the timed tower entry and leave the later hours for the old center and Arno rather than rushing straight back."
         }
       ],
-      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case.",
+      "currency": "The currency is the euro (EUR, €). Cards are standard at hotels, restaurants, and major attractions, while cash remains handy for small cafés, markets, public toilets, and minor purchases. Prefer bank ATMs, avoid high-fee exchange machines, and decline conversion to your home currency."
     },
     "florence": {
       "id": "florence",
@@ -1213,7 +1223,8 @@
           "description": "Start with calmer streets and coffee, eat lightly during the day, and save late afternoon for Piazzale Michelangelo followed by an Oltrarno dinner."
         }
       ],
-      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case.",
+      "currency": "The currency is the euro (EUR, €). Cards are standard at hotels, restaurants, and major attractions, while cash remains handy for small cafés, markets, public toilets, and minor purchases. Prefer bank ATMs, avoid high-fee exchange machines, and decline conversion to your home currency."
     },
     "bangkok": {
       "id": "bangkok",
@@ -1292,7 +1303,8 @@
           "description": "End with a food-focused evening, either at a market for casual variety or at a rooftop bar if you want skyline views and a slower pace."
         }
       ],
-      "electricity": "Thailand runs on 230V at 50Hz with a mix of round two-pin Type C and O outlets alongside flat two- and three-pin Type A and B. Most sockets, especially in hotels, are hybrid designs that accept several plug types at once, so an adapter usually isn't essential, though older buildings may need one."
+      "electricity": "Thailand runs on 230V at 50Hz with a mix of round two-pin Type C and O outlets alongside flat two- and three-pin Type A and B. Most sockets, especially in hotels, are hybrid designs that accept several plug types at once, so an adapter usually isn't essential, though older buildings may need one.",
+      "currency": "The currency is the Thai baht (THB, ฿). Cards work well at hotels and malls, but street food, markets, massage shops, and local transport often rely on cash. ATM withdrawals commonly carry a fee, so fewer larger withdrawals can be practical; choose to be charged in baht."
     },
     "pattaya": {
       "id": "pattaya",
@@ -1371,7 +1383,8 @@
           "description": "Finish with a seafood dinner and either a relaxed seafront walk or a more energetic nightlife route depending on your base area."
         }
       ],
-      "electricity": "Thailand runs on 230V at 50Hz with a mix of round two-pin Type C and O outlets alongside flat two- and three-pin Type A and B. Most sockets, especially in hotels, are hybrid designs that accept several plug types at once, so an adapter usually isn't essential, though older buildings may need one."
+      "electricity": "Thailand runs on 230V at 50Hz with a mix of round two-pin Type C and O outlets alongside flat two- and three-pin Type A and B. Most sockets, especially in hotels, are hybrid designs that accept several plug types at once, so an adapter usually isn't essential, though older buildings may need one.",
+      "currency": "The currency is the Thai baht (THB, ฿). Cards work well at hotels and malls, but street food, markets, massage shops, and local transport often rely on cash. ATM withdrawals commonly carry a fee, so fewer larger withdrawals can be practical; choose to be charged in baht."
     },
     "cebu": {
       "id": "cebu",
@@ -1492,7 +1505,8 @@
           "description": "Leave early for snorkeling or island-hopping from Mactan, slow down later at a resort or beachside venue, and end with seafood near the water for the clearest contrast to the inland city experience."
         }
       ],
-      "electricity": "The Philippines runs on 220V at 60Hz with flat two-pin Type A and grounded Type B outlets. The flat pins mean round two-pin plugs won't fit without an adapter, though the voltage itself is compatible with most electronics."
+      "electricity": "The Philippines runs on 220V at 60Hz with flat two-pin Type A and grounded Type B outlets. The flat pins mean round two-pin plugs won't fit without an adapter, though the voltage itself is compatible with most electronics.",
+      "currency": "The currency is the Philippine peso (PHP, ₱). Cards are accepted at resorts and major malls, but cash is close to essential at local eateries, markets, on tricycles, and around the islands. Carry small notes and use ATMs inside banks or well-secured shopping centres when possible."
     },
     "kyoto": {
       "id": "kyoto",
@@ -1619,7 +1633,8 @@
           "description": "Use the morning for the bamboo grove, Tenryu-ji, and Togetsukyo Bridge, then choose only one or two northern temples such as Kinkaku-ji or Ryoan-ji for a slower garden-focused afternoon."
         }
       ],
-      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter.",
+      "currency": "The currency is the Japanese yen (JPY, ¥). Cards and transit IC cards are widely accepted in cities, but independent restaurants, markets, temples, and some regional transport may still require cash. Convenience-store and post-office ATMs are useful; always choose to pay in yen."
     },
     "osaka": {
       "id": "osaka",
@@ -1746,7 +1761,8 @@
           "description": "Use Tennoji or Abeno to keep the first half of the day manageable, then move into Shinsekai, Tsutenkaku, and Janjan Yokocho later on for kushikatsu, older street texture, and a more rugged night atmosphere."
         }
       ],
-      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter.",
+      "currency": "The currency is the Japanese yen (JPY, ¥). Cards and transit IC cards are widely accepted in cities, but independent restaurants, markets, temples, and some regional transport may still require cash. Convenience-store and post-office ATMs are useful; always choose to pay in yen."
     },
     "sydney": {
       "id": "sydney",
@@ -1867,7 +1883,8 @@
           "description": "Build the day around a serious brunch, central walking, Barangaroo or Darling Harbour, and a waterside dinner so the city feels lived-in rather than purely monumental."
         }
       ],
-      "electricity": "Australia runs on 230V at 50Hz with distinctive Type I outlets, recognizable by their angled two pins plus a grounding pin. The shape doesn't match any other region's plugs, so a Type I adapter is essential."
+      "electricity": "Australia runs on 230V at 50Hz with distinctive Type I outlets, recognizable by their angled two pins plus a grounding pin. The shape doesn't match any other region's plugs, so a Type I adapter is essential.",
+      "currency": "The currency is the Australian dollar (AUD, A$). Card and contactless payments are the norm, even for small purchases, although some businesses add a card surcharge. You will need little cash in most situations; check any surcharge before paying and choose Australian dollars at the terminal."
     },
     "melbourne": {
       "id": "melbourne",
@@ -1988,7 +2005,8 @@
           "description": "Use the morning for central Melbourne coffee and short walks, then take the day toward St Kilda later on for sea air, slower pacing, and sunset at the water."
         }
       ],
-      "electricity": "Australia runs on 230V at 50Hz with distinctive Type I outlets, recognizable by their angled two pins plus a grounding pin. The shape doesn't match any other region's plugs, so a Type I adapter is essential."
+      "electricity": "Australia runs on 230V at 50Hz with distinctive Type I outlets, recognizable by their angled two pins plus a grounding pin. The shape doesn't match any other region's plugs, so a Type I adapter is essential.",
+      "currency": "The currency is the Australian dollar (AUD, A$). Card and contactless payments are the norm, even for small purchases, although some businesses add a card surcharge. You will need little cash in most situations; check any surcharge before paying and choose Australian dollars at the terminal."
     },
     "singapore": {
       "id": "singapore",
@@ -2109,7 +2127,8 @@
           "description": "Use the morning for the Botanic Gardens or another lower-heat green space, retreat indoors during the hottest hours, then return to the city core after dark for skyline views."
         }
       ],
-      "electricity": "Singapore runs on 230V at 50Hz with UK-style rectangular three-pin Type G outlets. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential."
+      "electricity": "Singapore runs on 230V at 50Hz with UK-style rectangular three-pin Type G outlets. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential.",
+      "currency": "The currency is the Singapore dollar (SGD, S$). Cards and contactless payments are widely accepted, but some hawker stalls and small shops take only cash or local QR payments. Carry a modest amount of cash, use bank ATMs, and choose Singapore dollars instead of home-currency conversion."
     },
     "taipei": {
       "id": "taipei",
@@ -2235,7 +2254,8 @@
           "description": "Use the cooler part of the day for Beitou hot springs or Yangmingshan scenery, then choose Maokong tea houses or a relaxed dinner back in the city depending on energy and weather."
         }
       ],
-      "electricity": "Taiwan runs on 110V at 60Hz with flat two-pin Type A (or grounded Type B) outlets, the same shape used in Japan and the US. The lower voltage rarely bothers phone and laptop chargers, but travelers used to round two-pin plugs will still need an adapter."
+      "electricity": "Taiwan runs on 110V at 60Hz with flat two-pin Type A (or grounded Type B) outlets, the same shape used in Japan and the US. The lower voltage rarely bothers phone and laptop chargers, but travelers used to round two-pin plugs will still need an adapter.",
+      "currency": "The currency is the New Taiwan dollar (TWD, NT$). Cards are convenient at hotels, department stores, and convenience stores, while night markets, traditional markets, and small restaurants remain cash-oriented. Withdraw from bank or convenience-store ATMs and carry small notes and coins."
     },
     "shanghai": {
       "id": "shanghai",
@@ -2357,7 +2377,8 @@
           "description": "Use the daytime for Pudong's towers, malls, and observation decks, then return to the river or Bund side after dark to see the skyline from the angle that makes Shanghai most iconic."
         }
       ],
-      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe."
+      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe.",
+      "currency": "The currency is the Chinese yuan (CNY, ¥). Mobile payment through Alipay and WeChat Pay dominates, so confirm that your international card is linked before departure. Keep some cash as a backup if cards or QR payments fail, and use bank ATMs or official exchange counters."
     },
     "hangzhou": {
       "id": "hangzhou",
@@ -2479,7 +2500,8 @@
           "description": "Place wetlands, museums, or indoor breaks in the hotter middle hours, then return to the lake or Leifeng Pagoda near sunset for the strongest overall rhythm."
         }
       ],
-      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe."
+      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe.",
+      "currency": "The currency is the Chinese yuan (CNY, ¥). Mobile payment through Alipay and WeChat Pay dominates, so confirm that your international card is linked before departure. Keep some cash as a backup if cards or QR payments fail, and use bank ATMs or official exchange counters."
     },
     "suzhou": {
       "id": "suzhou",
@@ -2601,7 +2623,8 @@
           "description": "Spend the first day on the core garden-museum-Pingjiang cluster, then use the second morning for another garden or Tiger Hill before leaving at a much slower pace than a day trip allows."
         }
       ],
-      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe."
+      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe.",
+      "currency": "The currency is the Chinese yuan (CNY, ¥). Mobile payment through Alipay and WeChat Pay dominates, so confirm that your international card is linked before departure. Keep some cash as a backup if cards or QR payments fail, and use bank ATMs or official exchange counters."
     }
   }
 }

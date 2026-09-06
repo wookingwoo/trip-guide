@@ -76,9 +76,9 @@ export default function CityDetailContent({
           </Button>
         </Link>
 
-        <SimpleGrid columns={{ base: 1, lg: 4 }} spacing={8} mb={16}>
+        <SimpleGrid columns={{ base: 1, lg: 3 }} spacing={8} mb={16}>
           <Box
-            gridColumn={{ base: 'span 1', lg: 'span 2' }}
+            gridColumn={{ base: 'span 1', lg: 'span 3' }}
             bg={surfaceBg}
             p={8}
             borderRadius="2xl"
@@ -123,6 +123,22 @@ export default function CityDetailContent({
             </Heading>
             <Text lineHeight="tall" color={mutedText}>
               {city.electricity}
+            </Text>
+          </Box>
+
+          <Box
+            bg={surfaceBg}
+            p={8}
+            borderRadius="2xl"
+            boxShadow="xl"
+            border="1px solid"
+            borderColor={borderColor}
+          >
+            <Heading size="xl" mb={4}>
+              {dict.city.currency}
+            </Heading>
+            <Text lineHeight="tall" color={mutedText}>
+              {city.currency}
             </Text>
           </Box>
         </SimpleGrid>
