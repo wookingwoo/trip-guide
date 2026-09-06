@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Scopri la tua prossima avventura",
-    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Vaticano, Pisa, Firenze, Bangkok, Pattaya, Cebu, Kyoto, Osaka, Sydney, Melbourne, Singapore, Taipei, Shanghai, Hangzhou e Suzhou con la nostra guida premium.",
+    "subtitle": "Esplora Sapporo, Shizuoka, Fuji City, Tokyo, Roma, Vaticano, Pisa, Firenze, Bangkok, Pattaya, Cebu, Kyoto, Osaka, Sydney, Melbourne, Singapore, Taipei, Shanghai, Hangzhou, Suzhou, Kota Kinabalu e Bandar Seri Begawan con la nostra guida premium.",
     "explore": "Esplora le città",
     "tokyo": "Tokyo",
     "fuji": "Fuji City",
@@ -2335,6 +2335,248 @@
         {
           "title": "Estensione da Shanghai con una notte",
           "description": "Dedica il primo giorno al nucleo giardino-museo-Pingjiang e usa la seconda mattina per un altro giardino o Tiger Hill, con un ritmo molto più adatto di una semplice gita lampo."
+        }
+      ]
+    },
+    "kotakinabalu": {
+      "id": "kotakinabalu",
+      "name": "Kota Kinabalu",
+      "country": "Malesia",
+      "description": "Kota Kinabalu è la capitale dello stato di Sabah, nel Borneo malese, una destinazione all'insegna della natura dove una spiaggia al tramonto tra le più famose al mondo, isole per lo snorkeling e la vetta più alta del Sud-est asiatico sono tutte raggiungibili in giornata.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Spiaggia di Tanjung Aru",
+          "description": "Spesso considerata tra i migliori punti del mondo per ammirare il tramonto, questa spiaggia bordata di palme è una delle immagini simbolo di Kota Kinabalu. Le bancarelle di cibo lì vicino rendono facile trasformare il tramonto in un'intera serata.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Tunku Abdul Rahman Marine Park",
+          "description": "Una riserva marina di cinque isole raggiungibile con 20 minuti di motoscafo da Jesselton Point. Manukan, Sapi e Gaya offrono ciascuna un mix leggermente diverso di corallo e sabbia, facili da combinare per una giornata di snorkeling o immersioni.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mercato domenicale di Gaya Street",
+          "description": "Un mercato con oltre un secolo di storia che riempie Jalan Gaya solo la domenica mattina. Frutta tropicale, snack locali, artigianato e oggetti d'antiquariato restituiscono un quadro compatto della vita quotidiana in città.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kota Kinabalu City Mosque",
+          "description": "Spesso chiamata la 'moschea galleggiante' per come sembra poggiare su una laguna artificiale, è più piccola della Sabah State Mosque in centro ma più popolare come punto fotografico, specialmente quando si illumina al crepuscolo e si riflette nell'acqua.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Signal Hill Observatory Platform",
+          "description": "Un punto panoramico gratuito su una collina non lontana dal centro, con una vista ampia sulla città, il porto e, più lontano, il Mar Cinese Meridionale. È un'alternativa più tranquilla e facile da raggiungere rispetto a Tanjung Aru per il tramonto.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mari Mari Cultural Village",
+          "description": "Immerso nella giungla a circa 25 minuti dal centro, questo villaggio ricrea le case tradizionali di cinque gruppi etnici del Borneo: Dusun, Rungus, Lundayeh, Bajau e Murut. Di solito si visita con un tour di mezza giornata che include giochi tradizionali, dimostrazioni di accensione del fuoco ed esibizioni.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kinabalu Park (Monte Kinabalu)",
+          "description": "Un sito Patrimonio dell'Umanità UNESCO costruito attorno al Monte Kinabalu, la vetta più alta tra l'Himalaya e la Nuova Guinea. Per la salita servono un permesso e una guida prenotati con largo anticipo, ma i sentieri botanici del parco e i paesaggi d'altura si possono visitare in giornata anche senza scalare.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Tuaran Mee",
+          "description": "Un piatto di noodle all'uovo saltati, originario della vicina cittadina di Tuaran, cotti a fuoco vivo con maiale, frutti di mare e verdure fino a risultare elastici e leggermente abbrustoliti. È considerato il piatto di noodle simbolo di Sabah.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Hinava",
+          "description": "Una specialità Kadazan-Dusun spesso descritta come la risposta di Sabah al ceviche: pesce crudo fresco condito con succo di lime, scalogno, peperoncino e semi di bambangan. Il sapore deciso e acidulo si sposa bene con il caldo.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Sinalau Bakas",
+          "description": "Cinghiale selvatico affumicato servito con verdure, un piatto Kadazan-Dusun costruito sul contrasto tra la profondità affumicata della carne e un sambal pungente servito a fianco.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Gamberi al burro e granchio all'uovo salato",
+          "description": "I ristoranti di pesce di Kota Kinabalu sono noti per i gamberi saltati in una ricca salsa al burro e per il granchio ricoperto da una salsa sapida a base di uovo salato, entrambi capisaldi della scena gastronomica del Waterfront.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Latok (uva di mare)",
+          "description": "Un'alga dalla consistenza che scoppietta in bocca come caviale, tradizionalmente preparata dalle comunità Bajau e servita semplicemente con sambal e lime per un boccone fresco e sapido di mare.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Grab è più sicuro per evitare discussioni sul prezzo rispetto a un taxi di strada senza tassametro, perché la tariffa è visibile in app prima di salire.",
+        "Il mercato domenicale di Gaya Street è aperto davvero solo la domenica, dalle 6 a mezzogiorno: organizza il programma attorno a quel giorno se vuoi visitarlo.",
+        "Copri spalle e ginocchia quando visiti la City Mosque o la Sabah State Mosque; di solito all'ingresso si possono prendere in prestito delle vesti se ci si presenta vestiti in modo inadeguato.",
+        "Se hai in programma di salire in vetta al Monte Kinabalu, prenota il permesso di scalata e la guida con mesi di anticipo, perché il numero di scalatori giornalieri è limitato e la salita si fa normalmente in due giorni con pernottamento.",
+        "La Malesia è a maggioranza musulmana ma, a differenza del vicino Brunei, qui si vende alcol. Durante il Ramadan resta comunque un gesto di rispetto evitare di mangiare o bere in pubblico nelle ore di digiuno.",
+        "Anche in stagione secca capitano acquazzoni improvvisi nel pomeriggio, quindi una giacca antipioggia leggera è più utile di un ombrello per le gite alle isole e altri programmi all'aperto.",
+        "Sulle isole l'ombra scarseggia e il sole di mezzogiorno è molto forte, quindi vale la pena portare una crema solare reef-safe e una maglia rash guard per una giornata tra le isole.",
+        "Nei mercati e nei piccoli locali il contante è più affidabile delle carte, quindi tienine un po' con te anche se nei centri commerciali e negli hotel usi soprattutto la carta."
+      ],
+      "bestTime": "La stagione secca da marzo a ottobre è generalmente il momento migliore per visitare la città, e da marzo a maggio è il periodo più asciutto, ideale per cieli tersi e per la scalata al Monte Kinabalu. Da dicembre ad aprile è alta stagione, con alloggi e tour che si riempiono in fretta, mentre novembre e dicembre portano le piogge più intense e il rischio maggiore che i programmi all'aperto saltino.",
+      "overview": "Kota Kinabalu funziona meno come una singola città e più come un campo base dove spiaggia, isole, giungla e montagna si sovrappongono in un raggio ristretto. In centro, Jalan Gaya e il Waterfront si raggiungono comodamente a piedi, un motoscafo di 20 minuti da Jesselton Point porta alle isole del Tunku Abdul Rahman Marine Park, e due ore d'auto in più conducono alla foresta pluviale e ai paesaggi d'altura del Kinabalu Park. Le culture indigene del Borneo, come i Kadazan-Dusun e i Bajau, emergono naturalmente nei mercati, nel cibo locale e al Mari Mari Cultural Village, dando alla città una profondità che va oltre la classica vacanza al mare. Dividere il tempo tra una giornata in città al tramonto, una giornata tra le isole e una tra giungla o montagna è il modo più chiaro per cogliere ciò che rende Kota Kinabalu unica.",
+      "highlights": [
+        "Il tramonto di Tanjung Aru, le isole del Tunku Abdul Rahman Marine Park e la foresta pluviale del Monte Kinabalu sono tutti raggiungibili da un'unica città base.",
+        "Le culture indigene del Borneo, tra cui Kadazan-Dusun, Bajau e Murut, emergono in modo naturale al Mari Mari Cultural Village, nei mercati locali e nel cibo quotidiano, dando al viaggio un carattere diverso rispetto alla Malesia peninsulare.",
+        "Il centro è compatto e facile da girare a piedi, così giornate cittadine rilassate si alternano senza sforzo a giornate più impegnative tra isole o montagna."
+      ],
+      "gettingAround": [
+        "Grab è il mezzo di riferimento per muoversi in città, verso l'aeroporto e nei dintorni: la tariffa è mostrata in app in anticipo, evitando le discussioni sul prezzo tipiche dei taxi di strada senza tassametro.",
+        "Anche il City Bus e il nuovo servizio BAS.MY coprono il centro a poco prezzo, anche se il tratto tra Jalan Gaya e il Waterfront si percorre comodamente a piedi.",
+        "Tutte le barche per le isole partono da Jesselton Point, dove si acquistano separatamente il diritto di molo e il biglietto della barca: conviene arrivare presto al mattino e lasciarsi un margine di tempo."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "City Centre / Jalan Gaya",
+          "description": "La via turistica principale, a portata di mano sia dal mercato della domenica sia dal Waterfront. La più ampia scelta di hotel economici e di fascia media la rende la base più pratica per un soggiorno breve."
+        },
+        {
+          "name": "Waterfront",
+          "description": "Qui si concentrano centri commerciali, ristoranti e bar, con il percorso più breve verso il molo di Jesselton Point: ideale se l'obiettivo principale è girare tra le isole."
+        },
+        {
+          "name": "Tanjung Aru",
+          "description": "Un gruppo più tranquillo di resort sulla spiaggia vicino all'aeroporto, adatto a chi vuole mettere il tramonto e l'atmosfera balneare al centro del soggiorno."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata in città e al tramonto",
+          "description": "Passa la mattina tra Jalan Gaya e la City Mosque (o dà priorità al mercato domenicale di Gaya Street se capiti di domenica), rilassati al Waterfront nel pomeriggio, poi spostati a Tanjung Aru in serata per il tramonto e una cena a base di pesce."
+        },
+        {
+          "title": "Giornata tra le isole",
+          "description": "Prendi una barca presto al mattino da Jesselton Point verso due isole del Tunku Abdul Rahman Marine Park, come Manukan e Sapi, per fare snorkeling, poi torna in città nel tardo pomeriggio e riposati per la sera."
+        },
+        {
+          "title": "Giornata tra cultura e natura",
+          "description": "Scegli in base alle energie: un tour di mezza giornata al Mari Mari Cultural Village per vedere case tradizionali ed esibizioni di cinque gruppi etnici del Borneo, oppure un'intera giornata al Kinabalu Park per i suoi sentieri botanici e i paesaggi d'altura."
+        }
+      ]
+    },
+    "bandarseribegawan": {
+      "id": "bandarseribegawan",
+      "name": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "description": "Bandar Seri Begawan, la capitale del Brunei, racchiude moschee dalle cupole d'oro, il più grande insediamento su palafitte al mondo e una foresta pluviale incontaminata in una città piccola e tranquilla, tra le capitali meno visitate del Sud-est asiatico.",
+      "image": "/images/empty.png",
+      "attractions": [
+        {
+          "name": "Sultan Omar Ali Saifuddien Mosque",
+          "description": "La moschea più iconica del Brunei, con una cupola d'oro puro, che sorge sul Waterfront accanto a un'imbarcazione reale ormeggiata in una laguna artificiale. È particolarmente suggestiva quando si illumina dopo il tramonto e si riflette nell'acqua.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Kampong Ayer",
+          "description": "Il più grande insediamento su palafitte al mondo, dove vivono circa 13.000 persone distribuite in oltre 40 villaggi collegati da 38 chilometri di passerelle in legno. Un taxi d'acqua dal Waterfront ci arriva in pochi minuti, per lo sguardo più ravvicinato possibile sulla vita sull'acqua.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Jame'Asr Hassanil Bolkiah Mosque",
+          "description": "Completata nel 1994 per celebrare il 25° anno di regno del sultano, questa moschea porta 29 cupole dorate a simboleggiare il 29° sultano. È tra i più grandi edifici islamici del Sud-est asiatico.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Royal Regalia Museum",
+          "description": "Un museo gratuito che espone oggetti reali, il carro dell'incoronazione e doni inviati al sultano da capi di stato di tutto il mondo: uno sguardo sia sulla monarchia sia sulla ricchezza petrolifera del paese.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Taman Mahkota Jubli Emas Park",
+          "description": "Un parco fluviale lungo il Waterfront, il punto migliore per vedere Kampong Ayer e la Sultan Omar Ali Saifuddien Mosque riflessi nell'acqua al tramonto. La sera si riempie di residenti che passeggiano e fanno jogging.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Mercato di Tamu Kianggeh",
+          "description": "Un mercato rionale sul fiume proprio ai margini del centro, animato fin dal primo mattino da pesce fresco, frutta tropicale, snack e artigianato lungo vicoli stretti: uno degli scorci più autentici sulla vita quotidiana in città.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Ulu Temburong National Park",
+          "description": "Una riserva di foresta pluviale incontaminata raggiungibile solo spostandosi nel distretto separato di Temburong, costruita attorno a un camminamento sospeso a 50 metri d'altezza e a percorsi in longboat controcorrente tra le rapide. Mostra un lato del Brunei che il centro città non può offrire.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "foods": [
+        {
+          "name": "Ambuyat",
+          "description": "Il piatto nazionale del Brunei, una pasta collosa ricavata dall'amido di palma da sago che si avvolge su una forchetta di bambù chiamata candas e si intinge in salse come la pungente cacah binjai o il sambal belacan. La pasta in sé ha un sapore neutro, ma le salse e il rituale con cui si mangia raccontano bene la cultura gastronomica del Brunei.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Nasi Katok",
+          "description": "Riso con pollo fritto e sambal avvolti nella carta, il piatto economico più diffuso del Brunei. Il nome deriva dall'abitudine di bussare, katok, alla finestra del venditore per ordinare di notte.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Ayam Penyet",
+          "description": "Pollo fritto schiacciato e servito con sambal, cetriolo e riso, un piatto popolare che riflette l'influenza culinaria malese e indonesiana.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Pesce e piatti fusion multiculturali",
+          "description": "Le influenze malese, cinese e indiana del Brunei si ritrovano insieme in piatti come il satay e la curry laksa, accanto a pesce fresco di fiume e di mare.",
+          "image": "/images/empty.png"
+        },
+        {
+          "name": "Teh tarik e colazione da kopitiam",
+          "description": "Il tè al latte tirato (teh tarik) e il pane roti sono alla base della rilassata cultura della colazione nei kopitiam del Brunei, da godersi prima che arrivi il caldo di mezzogiorno.",
+          "image": "/images/empty.png"
+        }
+      ],
+      "tips": [
+        "Grab non funziona in Brunei, quindi installa l'app locale Dart prima di arrivare.",
+        "L'alcol non può essere acquistato legalmente da nessuna parte nel paese. Gli adulti non musulmani possono portare con sé una piccola quantità per uso personale, 2 litri di superalcolici o vino oppure 12 lattine di birra, da dichiarare in dogana; l'ubriachezza in pubblico può avere conseguenze legali.",
+        "Vestiti in modo modesto, con spalle e ginocchia coperte, in tutta la città e non solo nelle moschee, anche se all'ingresso delle moschee di solito si possono prendere in prestito delle vesti per chi si presenta vestito in modo inadeguato.",
+        "Evita effusioni in pubblico, incluso tenersi per mano: va oltre la semplice disapprovazione sociale e può avere conseguenze legali.",
+        "Il weekend in Brunei è insolito: venerdì e domenica sono giorni di riposo mentre il sabato è lavorativo, e il mezzogiorno del venerdì, all'incirca dalle 12 alle 14, è riservato alla preghiera, quando molti negozi e luoghi d'interesse chiudono; pianifica tenendone conto.",
+        "I titolari di passaporto sudcoreano possono entrare senza visto fino a 30 giorni, ma assicurati che il passaporto abbia almeno sei mesi di validità residua e tieni pronta la prova di un volo di proseguimento.",
+        "Il dollaro del Brunei e il dollaro di Singapore si usano in modo interscambiabile alla pari 1:1, quindi non serve cambiare denaro se si arriva con dollari di Singapore, anche se alcuni piccoli venditori preferiscono i dollari del Brunei.",
+        "L'accesso all'Ulu Temburong National Park è controllato, quindi prenotare tramite un operatore turistico locale registrato è più sicuro e affidabile che organizzarsi in modo indipendente."
+      ],
+      "bestTime": "La stagione secca da gennaio a maggio è il periodo migliore per visitare il paese, con febbraio e marzo i mesi più asciutti. Da giugno ad agosto fa caldo ed è alta stagione turistica, mentre da settembre a dicembre è stagione delle piogge, con acquazzoni intensi che possono compromettere programmi all'aperto come la gita a Ulu Temburong.",
+      "overview": "Bandar Seri Begawan resta impressa nella memoria non per uno skyline, ma per le moschee dorate, un villaggio sull'acqua legato al fiume e le strade insolitamente ordinate di una piccola capitale finanziata dal petrolio. Camminando lungo il Waterfront si vedono contemporaneamente la Sultan Omar Ali Saifuddien Mosque e Kampong Ayer, e pochi minuti di taxi d'acqua bastano per entrare in un insediamento su palafitte dove vivono ancora circa 13.000 persone. La città è piccola e poco visitata, quindi manca dell'affollamento tipico delle capitali più grandi del Sud-est asiatico, e con un giorno in più si può raggiungere la foresta pluviale incontaminata e il camminamento sospeso dell'Ulu Temburong National Park. Le norme islamiche conservatrici modellano la vita quotidiana, tra cui l'assenza di vendita di alcolici e il mezzogiorno del venerdì riservato alla preghiera, ma è proprio questo carattere a rendere il viaggio così diverso da qualunque altra destinazione della regione.",
+      "highlights": [
+        "La Sultan Omar Ali Saifuddien Mosque dalla cupola d'oro, la ancora più grande Jame'Asr Hassanil Bolkiah Mosque e Kampong Ayer, un villaggio su palafitte di circa 13.000 abitanti, si trovano tutte a pochi passi o a pochi minuti di barca l'una dall'altra.",
+        "La ricchezza petrolifera è visibile ovunque, dal Royal Regalia Museum alle strade curate alla perfezione, eppure la città riceve pochi turisti, così i suoi luoghi d'interesse restano insolitamente poco affollati per una capitale del Sud-est asiatico.",
+        "Un giorno in più apre le porte alla foresta pluviale incontaminata e al camminamento sospeso a 50 metri dell'Ulu Temburong National Park, un contrasto netto con l'architettura religiosa e reale della città."
+      ],
+      "gettingAround": [
+        "Grab non opera in Brunei: l'app locale Dart è di fatto l'unica opzione per il trasporto su richiesta, ed è meglio installarla prima di arrivare visto che i taxi di strada sono rari.",
+        "Gli autobus pubblici circolano all'incirca dalle 6 alle 20 a 1 BND a corsa, ma con intervalli ampi tra una corsa e l'altra, quindi abbinarli a Dart è più realistico se il programma è fitto.",
+        "Kampong Ayer dista pochi minuti di taxi d'acqua dalle scalinate lungo il Waterfront, con tariffe di solito negoziate tra 2 e 5 BND: è il modo più diretto per sentire da vicino il villaggio sull'acqua."
+      ],
+      "recommendedAreas": [
+        {
+          "name": "Centro / Waterfront",
+          "description": "Mette a portata di mano la Sultan Omar Ali Saifuddien Mosque, il Royal Regalia Museum, il mercato di Tamu Kianggeh e le scalinate dei taxi d'acqua per Kampong Ayer: la base più pratica per un soggiorno breve."
+        },
+        {
+          "name": "Homestay a Kampong Ayer",
+          "description": "Un numero crescente di homestay permette di passare davvero una notte dentro il villaggio sull'acqua, una scelta molto più particolare del centro città per chi vuole vivere alba e tramonto sull'acqua."
+        },
+        {
+          "name": "Kiulap / Gadong",
+          "description": "Un quartiere commerciale moderno a breve distanza in Dart dal centro, con centri commerciali e il noto mercato notturno di Gadong, comodo per unire cena e shopping in un'unica tappa."
+        }
+      ],
+      "sampleItinerary": [
+        {
+          "title": "Giornata tra moschee e musei",
+          "description": "Visita la Sultan Omar Ali Saifuddien Mosque al mattino, il Royal Regalia Museum verso mezzogiorno, la Jame'Asr Hassanil Bolkiah Mosque nel pomeriggio, e concludi al Taman Mahkota Jubli Emas Park per il tramonto con Kampong Ayer e la moschea riflessi nell'acqua."
+        },
+        {
+          "title": "Giornata tra villaggio sull'acqua e vita locale",
+          "description": "Inizia al mercato di Tamu Kianggeh al mattino, prendi un taxi d'acqua attraverso Kampong Ayer fermandoti alla sua piccola galleria in tarda mattinata, e chiudi la serata con lo street food del mercato notturno di Gadong."
+        },
+        {
+          "title": "Gita di un giorno alla foresta pluviale di Ulu Temburong",
+          "description": "Dedica un'intera giornata al viaggio verso il distretto di Temburong, risali il fiume su una longboat e affronta il camminamento sospeso a 50 metri e un tratto di foresta primaria, per poi tornare a Bandar Seri Begawan in serata. Poiché l'accesso al parco è controllato, è consigliabile prenotare tramite un operatore locale autorizzato."
         }
       ]
     }
