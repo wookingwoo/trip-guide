@@ -398,54 +398,54 @@
         {
           "name": "Parco Odori",
           "description": "Un parco che si estende per 1,5 km e funge da sito principale del Festival della Neve di Sapporo.",
-          "image": "/images/odori-park.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Museo della Birra di Sapporo",
           "description": "L'unico museo della birra in Giappone, situato in uno storico edificio in mattoni.",
-          "image": "/images/beer-museum.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Susukino",
           "description": "Uno dei tre principali quartieri di intrattenimento del Giappone, vivace con vita notturna e ristoranti.",
-          "image": "/images/susukino.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Santuario di Hokkaido",
           "description": "Un santuario dedicato alle divinità protettrici di Hokkaido, famoso anche per i fiori di ciliegio.",
-          "image": "/images/hokkaido-shrine.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Parco Shiroi Koibito",
           "description": "Un parco a tema dove è possibile visitare la fabbrica del famoso biscotto 'Shiroi Koibito'.",
-          "image": "/images/shiroi-koibito.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "Miso Ramen",
           "description": "Sapporo è la città natale del Miso Ramen.",
-          "image": "/images/miso-ramen.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Soup Curry",
           "description": "Una zuppa leggera al gusto di curry servita con verdure e carne.",
-          "image": "/images/soup-curry.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Genghis Khan",
           "description": "Un piatto locale rappresentativo di Hokkaido a base di agnello alla griglia e verdure.",
-          "image": "/images/genghis-khan.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Kaisendon",
           "description": "Una ciotola di riso ricoperta generosamente di frutti di mare freschi.",
-          "image": "/images/kaisendon.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Gelato Soft",
           "description": "Gelato ricco e morbido fatto con latte fresco di Hokkaido.",
-          "image": "/images/soft-serve.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -517,17 +517,17 @@
         {
           "name": "Pantheon",
           "description": "Un tempio per tutti gli dei, un capolavoro dell'antica architettura romana.",
-          "image": "/images/pantheon.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Musei Vaticani",
           "description": "Uno dei musei più grandi del mondo, che espone arte collezionata dai papi nel corso della storia.",
-          "image": "/images/vatican-museums.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Foro Romano",
           "description": "Il centro della vita politica, economica e religiosa nell'antica Roma.",
-          "image": "/images/roman-forum.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
@@ -544,17 +544,17 @@
         {
           "name": "Cacio e Pepe",
           "description": "Un piatto di pasta tradizionale romano fatto solo con formaggio e pepe.",
-          "image": "/images/cacio-e-pepe.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Pizza al Taglio",
           "description": "Pizza in stile romano cotta in teglie rettangolari e venduta al taglio.",
-          "image": "/images/pizza-al-taglio.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Tiramisù",
           "description": "Un classico dessert italiano fatto con caffè, mascarpone e cacao in polvere.",
-          "image": "/images/tiramisu.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -976,29 +976,29 @@
       "name": "Bangkok",
       "country": "Thailandia",
       "description": "La vibrante capitale della Thailandia, nota per i suoi santuari decorati e la vivace vita di strada.",
-      "image": "/images/bangkok-hero.jpg",
+      "image": "/images/empty.png",
       "attractions": [
         {
           "name": "Grande Palazzo Reale",
           "description": "Un complesso di edifici nel cuore di Bangkok, Thailandia. Il palazzo è stato la residenza ufficiale dei re del Siam.",
-          "image": "/images/grand-palace.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Wat Arun",
           "description": "Il Tempio dell'Alba, un tempio buddista nel distretto di Bangkok Yai a Bangkok, Thailandia, sulla riva occidentale di Thonburi del fiume Chao Phraya.",
-          "image": "/images/wat-arun.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "Pad Thai",
           "description": "Un piatto di spaghetti di riso saltati in padella comunemente servito come cibo di strada e nella maggior parte dei ristoranti in Thailandia.",
-          "image": "/images/pad-thai.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Tom Yum Goong",
           "description": "Un tipo di zuppa thailandese piccante e aspra, solitamente cucinata con gamberi.",
-          "image": "/images/tom-yum-goong.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -1055,29 +1055,29 @@
       "name": "Pattaya",
       "country": "Thailandia",
       "description": "Una città turistica in Thailandia sulla costa orientale del Golfo di Thailandia, nota per le sue spiagge.",
-      "image": "/images/pattaya-hero.jpg",
+      "image": "/images/empty.png",
       "attractions": [
         {
           "name": "Santuario della Verità",
           "description": "Un edificio interamente in legno pieno di sculture basate su motivi tradizionali buddisti e indù.",
-          "image": "/images/sanctuary-of-truth.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Giardino Tropicale di Nong Nooch",
           "description": "Un giardino botanico di 500 acri e attrazione turistica.",
-          "image": "/images/nong-nooch.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "Som Tum",
           "description": "Un'insalata di papaya verde piccante.",
-          "image": "/images/som-tum.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "Frutti di mare",
           "description": "Frutti di mare freschi dal Golfo di Thailandia.",
-          "image": "/images/seafood.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [

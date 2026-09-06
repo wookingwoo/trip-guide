@@ -398,54 +398,54 @@
         {
           "name": "오도리 공원",
           "description": "1.5km에 걸쳐 뻗어 있는 공원으로 삿포로 눈 축제의 주요 장소입니다.",
-          "image": "/images/odori-park.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "삿포로 맥주 박물관",
           "description": "일본 유일의 맥주 박물관으로 역사적인 벽돌 건물에 위치해 있습니다.",
-          "image": "/images/beer-museum.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "스스키노",
           "description": "일본 3대 유흥가 중 하나로, 밤문화와 맛집이 즐비한 거리입니다.",
-          "image": "/images/susukino.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "홋카이도 신궁",
           "description": "홋카이도의 수호신을 모시는 신사로, 벚꽃 명소로도 유명합니다.",
-          "image": "/images/hokkaido-shrine.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "시로이 코이비토 파크",
           "description": "유명한 과자 '시로이 코이비토'의 제조 공장 견학 및 체험이 가능한 테마파크입니다.",
-          "image": "/images/shiroi-koibito.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "미소 라멘",
           "description": "삿포로는 미소 라멘의 발상지입니다.",
-          "image": "/images/miso-ramen.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "스프 카레",
           "description": "채소와 고기가 들어간 묽은 카레 맛 스프입니다.",
-          "image": "/images/soup-curry.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "징기스칸",
           "description": "양고기를 야채와 함께 구워 먹는 홋카이도의 대표적인 향토 요리입니다.",
-          "image": "/images/genghis-khan.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "카이센동",
           "description": "신선한 해산물을 밥 위에 듬뿍 올린 덮밥입니다.",
-          "image": "/images/kaisendon.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "소프트 아이스크림",
           "description": "홋카이도의 신선한 우유로 만든 진하고 부드러운 아이스크림입니다.",
-          "image": "/images/soft-serve.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -517,17 +517,17 @@
         {
           "name": "판테온",
           "description": "모든 신을 위한 신전으로, 고대 로마 건축의 걸작입니다.",
-          "image": "/images/pantheon.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "바티칸 박물관",
           "description": "역대 교황들이 수집한 예술품을 전시하는 세계 최대 규모의 박물관 중 하나입니다.",
-          "image": "/images/vatican-museums.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "포로 로마노",
           "description": "고대 로마의 정치, 경제, 종교의 중심지였던 유적지입니다.",
-          "image": "/images/roman-forum.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
@@ -544,17 +544,17 @@
         {
           "name": "카초 에 페페",
           "description": "치즈와 후추만으로 맛을 낸 로마의 전통 파스타입니다.",
-          "image": "/images/cacio-e-pepe.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "피자 알 탈리오",
           "description": "사각형 팬에 구워 조각으로 잘라 파는 로마식 피자입니다.",
-          "image": "/images/pizza-al-taglio.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "티라미수",
           "description": "커피, 마스카포네 치즈, 코코아 파우더로 만든 이탈리아의 대표적인 디저트입니다.",
-          "image": "/images/tiramisu.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -976,29 +976,29 @@
       "name": "방콕",
       "country": "태국",
       "description": "화려한 사원과 활기찬 거리 생활로 유명한 태국의 활기찬 수도입니다.",
-      "image": "/images/bangkok-hero.jpg",
+      "image": "/images/empty.png",
       "attractions": [
         {
           "name": "왕궁",
           "description": "태국 방콕 중심부에 있는 건물 단지입니다. 이 궁전은 시암 국왕의 공식 거주지였습니다.",
-          "image": "/images/grand-palace.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "왓 아룬",
           "description": "태국 방콕 방콕야이 지구의 짜오프라야 강 톤부리 서쪽 은행에 있는 불교 사원인 새벽 사원입니다.",
-          "image": "/images/wat-arun.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "팟타이",
           "description": "태국의 길거리 음식이나 대부분의 식당에서 흔히 볼 수 있는 볶음 쌀국수 요리입니다.",
-          "image": "/images/pad-thai.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "똠얌꿍",
           "description": "보통 새우를 넣어 조리하는 맵고 신 맛이 나는 태국식 수프입니다.",
-          "image": "/images/tom-yum-goong.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -1055,29 +1055,29 @@
       "name": "파타야",
       "country": "태국",
       "description": "태국 만 동쪽 해안에 위치한 휴양 도시로, 해변으로 유명합니다.",
-      "image": "/images/pattaya-hero.jpg",
+      "image": "/images/empty.png",
       "attractions": [
         {
           "name": "진리의 성전",
           "description": "전통적인 불교 및 힌두교 모티브를 바탕으로 한 조각품으로 가득 찬 목조 건물입니다.",
-          "image": "/images/sanctuary-of-truth.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "농눅 빌리지",
           "description": "500에이커 규모의 식물원이자 관광 명소입니다.",
-          "image": "/images/nong-nooch.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "솜땀",
           "description": "매콤한 그린 파파야 샐러드입니다.",
-          "image": "/images/som-tum.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "해산물",
           "description": "태국 만에서 잡은 신선한 해산물입니다.",
-          "image": "/images/seafood.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [

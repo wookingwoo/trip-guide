@@ -398,54 +398,54 @@
         {
           "name": "大通公園",
           "description": "1.5kmにわたる公園で、さっぽろ雪まつりのメイン会場となります。",
-          "image": "/images/odori-park.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "サッポロビール博物館",
           "description": "日本唯一のビール博物館で、歴史的な赤レンガの建物内にあります。",
-          "image": "/images/beer-museum.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "すすきの",
           "description": "日本3大歓楽街の一つで、ナイトライフやグルメが楽しめる賑やかなエリアです。",
-          "image": "/images/susukino.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "北海道神宮",
           "description": "北海道の守護神を祀る神社で、桜の名所としても有名です。",
-          "image": "/images/hokkaido-shrine.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "白い恋人パーク",
           "description": "有名な銘菓「白い恋人」の製造ライン見学やお菓子作り体験ができるテーマパークです。",
-          "image": "/images/shiroi-koibito.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "味噌ラーメン",
           "description": "札幌は味噌ラーメン発祥の地です。",
-          "image": "/images/miso-ramen.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "スープカレー",
           "description": "野菜と肉が入った、さらっとしたカレー風味のスープです。",
-          "image": "/images/soup-curry.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "ジンギスカン",
           "description": "羊肉を野菜と一緒に焼いて食べる北海道の代表的な郷土料理です。",
-          "image": "/images/genghis-khan.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "海鮮丼",
           "description": "新鮮な魚介類をご飯の上にたっぷり乗せた丼です。",
-          "image": "/images/kaisendon.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "ソフトクリーム",
           "description": "北海道の新鮮な牛乳で作られた濃厚で滑らかなアイスクリームです。",
-          "image": "/images/soft-serve.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -517,17 +517,17 @@
         {
           "name": "パンテオン",
           "description": "すべての神々のための神殿で、古代ローマ建築の傑作です。",
-          "image": "/images/pantheon.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "バチカン美術館",
           "description": "歴代教皇が収集した芸術品を展示する世界最大級の美術館の一つです。",
-          "image": "/images/vatican-museums.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "フォロ・ロマーノ",
           "description": "古代ローマの政治、経済、宗教の中心地だった遺跡です。",
-          "image": "/images/roman-forum.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
@@ -544,17 +544,17 @@
         {
           "name": "カチョ・エ・ペペ",
           "description": "チーズと胡椒だけで味付けされたローマの伝統的なパスタです。",
-          "image": "/images/cacio-e-pepe.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "ピッツァ・アル・タリオ",
           "description": "四角い鉄板で焼かれ、切り売りされるローマ風ピザです。",
-          "image": "/images/pizza-al-taglio.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "ティラミス",
           "description": "コーヒー、マスカルポーネチーズ、ココアパウダーで作るイタリアの代表的なデザートです。",
-          "image": "/images/tiramisu.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -976,29 +976,29 @@
       "name": "バンコク",
       "country": "タイ",
       "description": "華やかな寺院と活気あるストリートライフで知られる、タイの活気あふれる首都です。",
-      "image": "/images/bangkok-hero.jpg",
+      "image": "/images/empty.png",
       "attractions": [
         {
           "name": "王宮",
           "description": "タイのバンコク中心部にある建物群です。この宮殿はシャム国王の公式な住居でした。",
-          "image": "/images/grand-palace.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "ワット・アルン",
           "description": "タイのバンコク、バンコクヤイ地区のチャオプラヤー川トンブリー西岸にある仏教寺院、暁の寺です。",
-          "image": "/images/wat-arun.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "パッタイ",
           "description": "タイの屋台やほとんどのレストランで一般的に提供される焼きそば料理です。",
-          "image": "/images/pad-thai.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "トムヤムクン",
           "description": "通常エビを使って調理される、辛くて酸っぱいタイのスープの一種です。",
-          "image": "/images/tom-yum-goong.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [
@@ -1055,29 +1055,29 @@
       "name": "パタヤ",
       "country": "タイ",
       "description": "タイランド湾の東海岸に位置するリゾート都市で、ビーチで知られています。",
-      "image": "/images/pattaya-hero.jpg",
+      "image": "/images/empty.png",
       "attractions": [
         {
           "name": "サンクチュア・オブ・トゥルース",
           "description": "伝統的な仏教やヒンドゥー教のモチーフに基づいた彫刻で満たされた木造建築です。",
-          "image": "/images/sanctuary-of-truth.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "ノンヌット・トロピカル・ガーデン",
           "description": "500エーカーの植物園兼観光名所です。",
-          "image": "/images/nong-nooch.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "foods": [
         {
           "name": "ソムタム",
           "description": "スパイシーな青パパイヤのサラダです。",
-          "image": "/images/som-tum.jpg"
+          "image": "/images/empty.png"
         },
         {
           "name": "シーフード",
           "description": "タイランド湾で獲れた新鮮なシーフードです。",
-          "image": "/images/seafood.jpg"
+          "image": "/images/empty.png"
         }
       ],
       "tips": [

@@ -5,8 +5,12 @@ import { Providers } from './providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-    title: 'Travel Guide - Sapporo & Rome',
-    description: 'A premium travel guide for Sapporo and Rome.',
+    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
+    title: {
+        default: 'TripGuide',
+        template: '%s | TripGuide',
+    },
+    description: 'A premium multi-language travel guide covering real, visited destinations across Asia, Europe, and Oceania.',
 };
 
 export default function RootLayout({
