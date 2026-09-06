@@ -38,7 +38,8 @@
     "highlights": "What Stands Out",
     "gettingAround": "Getting Around",
     "recommendedAreas": "Recommended Areas",
-    "sampleItinerary": "Sample Itinerary"
+    "sampleItinerary": "Sample Itinerary",
+    "electricity": "Voltage & Plug"
   },
   "cities": {
     "tokyo": {
@@ -164,7 +165,8 @@
           "title": "Culture and Green Space Route",
           "description": "Pair Ueno's museums with a quieter neighborhood walk or a shrine visit to balance Tokyo's density with time outdoors."
         }
-      ]
+      ],
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 50Hz eastern grid that also covers Tokyo and Sapporo. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
     },
     "fuji": {
       "id": "fuji",
@@ -273,7 +275,8 @@
           "title": "Port and Night View Finish",
           "description": "End at Tagonoura or the Gakunan industrial area to contrast the daytime mountain scenery with the city's atmospheric evening lights."
         }
-      ]
+      ],
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, but this is one of the rare places in the country where the Fuji River itself splits a single city between the 50Hz eastern grid and the 60Hz western grid. The frequency split rarely matters in practice, but the flat pins still mean travelers used to round two-pin plugs will need an adapter."
     },
     "shizuoka": {
       "id": "shizuoka",
@@ -382,7 +385,8 @@
           "title": "Seafood Evening",
           "description": "Finish in the Shimizu side with tuna or shirasu if timing works, or return to central Shizuoka for oden and a slower night walk."
         }
-      ]
+      ],
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
     },
     "sapporo": {
       "id": "sapporo",
@@ -490,7 +494,8 @@
           "title": "Winter-Focused Plan",
           "description": "Use the underground network during the day, visit the Beer Museum or indoor sights, and return outdoors after dark for festival lights or snow scenery."
         }
-      ]
+      ],
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 50Hz eastern grid that also covers Tokyo and Sapporo. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
     },
     "rome": {
       "id": "rome",
@@ -598,7 +603,8 @@
           "title": "Evening in Trastevere",
           "description": "Cross the river for dinner, wine, and a looser night walk where the atmosphere is often more memorable than ticking off another monument."
         }
-      ]
+      ],
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
     },
     "vatican": {
       "id": "vatican",
@@ -719,7 +725,8 @@
           "title": "Rome-Linked Vatican Half-and-Half",
           "description": "Use a deep half day inside the Vatican, then cross the Tiber for dinner and a slow evening in Navona or the historic center instead of overfilling the afternoon."
         }
-      ]
+      ],
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
     },
     "pisa": {
       "id": "pisa",
@@ -839,7 +846,8 @@
           "title": "Tuscany Day-Trip Version",
           "description": "If arriving from Florence or Lucca, build the morning around the timed tower entry and leave the later hours for the old center and Arno rather than rushing straight back."
         }
-      ]
+      ],
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
     },
     "florence": {
       "id": "florence",
@@ -960,7 +968,8 @@
           "title": "Viewpoints and Food Day",
           "description": "Start with calmer streets and coffee, eat lightly during the day, and save late afternoon for Piazzale Michelangelo followed by an Oltrarno dinner."
         }
-      ]
+      ],
+      "electricity": "Italy runs on 230V at 50Hz with round two-pin Type C and F outlets. These are compatible with round two-pin plugs from much of the world without an adapter, though older buildings sometimes have only Italy's three-pin, in-line Type L sockets, so it's worth packing an adapter just in case."
     },
     "bangkok": {
       "id": "bangkok",
@@ -1038,7 +1047,8 @@
           "title": "Night Market or Rooftop Finish",
           "description": "End with a food-focused evening, either at a market for casual variety or at a rooftop bar if you want skyline views and a slower pace."
         }
-      ]
+      ],
+      "electricity": "Thailand runs on 230V at 50Hz with a mix of round two-pin Type C and O outlets alongside flat two- and three-pin Type A and B. Most sockets, especially in hotels, are hybrid designs that accept several plug types at once, so an adapter usually isn't essential, though older buildings may need one."
     },
     "pattaya": {
       "id": "pattaya",
@@ -1116,7 +1126,8 @@
           "title": "Seafood and Sunset Evening",
           "description": "Finish with a seafood dinner and either a relaxed seafront walk or a more energetic nightlife route depending on your base area."
         }
-      ]
+      ],
+      "electricity": "Thailand runs on 230V at 50Hz with a mix of round two-pin Type C and O outlets alongside flat two- and three-pin Type A and B. Most sockets, especially in hotels, are hybrid designs that accept several plug types at once, so an adapter usually isn't essential, though older buildings may need one."
     },
     "cebu": {
       "id": "cebu",
@@ -1236,7 +1247,8 @@
           "title": "Mactan and Marine Day",
           "description": "Leave early for snorkeling or island-hopping from Mactan, slow down later at a resort or beachside venue, and end with seafood near the water for the clearest contrast to the inland city experience."
         }
-      ]
+      ],
+      "electricity": "The Philippines runs on 220V at 60Hz with flat two-pin Type A and grounded Type B outlets. The flat pins mean round two-pin plugs won't fit without an adapter, though the voltage itself is compatible with most electronics."
     },
     "kyoto": {
       "id": "kyoto",
@@ -1362,7 +1374,8 @@
           "title": "Arashiyama and Northern Temples",
           "description": "Use the morning for the bamboo grove, Tenryu-ji, and Togetsukyo Bridge, then choose only one or two northern temples such as Kinkaku-ji or Ryoan-ji for a slower garden-focused afternoon."
         }
-      ]
+      ],
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
     },
     "osaka": {
       "id": "osaka",
@@ -1488,7 +1501,8 @@
           "title": "South Osaka Retro Day",
           "description": "Use Tennoji or Abeno to keep the first half of the day manageable, then move into Shinsekai, Tsutenkaku, and Janjan Yokocho later on for kushikatsu, older street texture, and a more rugged night atmosphere."
         }
-      ]
+      ],
+      "electricity": "Japan runs on 100V with flat two-pin Type A outlets, and this falls within the 60Hz western grid that also covers Osaka and Kyoto. Most phone and laptop chargers handle 100-240V without issue, so voltage itself rarely matters, but the flat pins mean travelers used to round two-pin plugs will need an adapter."
     },
     "sydney": {
       "id": "sydney",
@@ -1608,7 +1622,8 @@
           "title": "Urban Sydney Day",
           "description": "Build the day around a serious brunch, central walking, Barangaroo or Darling Harbour, and a waterside dinner so the city feels lived-in rather than purely monumental."
         }
-      ]
+      ],
+      "electricity": "Australia runs on 230V at 50Hz with distinctive Type I outlets, recognizable by their angled two pins plus a grounding pin. The shape doesn't match any other region's plugs, so a Type I adapter is essential."
     },
     "melbourne": {
       "id": "melbourne",
@@ -1728,7 +1743,8 @@
           "title": "City and Coast Day",
           "description": "Use the morning for central Melbourne coffee and short walks, then take the day toward St Kilda later on for sea air, slower pacing, and sunset at the water."
         }
-      ]
+      ],
+      "electricity": "Australia runs on 230V at 50Hz with distinctive Type I outlets, recognizable by their angled two pins plus a grounding pin. The shape doesn't match any other region's plugs, so a Type I adapter is essential."
     },
     "singapore": {
       "id": "singapore",
@@ -1848,7 +1864,8 @@
           "title": "City and Greenery Balance",
           "description": "Use the morning for the Botanic Gardens or another lower-heat green space, retreat indoors during the hottest hours, then return to the city core after dark for skyline views."
         }
-      ]
+      ],
+      "electricity": "Singapore runs on 230V at 50Hz with UK-style rectangular three-pin Type G outlets. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential."
     },
     "taipei": {
       "id": "taipei",
@@ -1973,7 +1990,8 @@
           "title": "Hot Springs and Tea Hills",
           "description": "Use the cooler part of the day for Beitou hot springs or Yangmingshan scenery, then choose Maokong tea houses or a relaxed dinner back in the city depending on energy and weather."
         }
-      ]
+      ],
+      "electricity": "Taiwan runs on 110V at 60Hz with flat two-pin Type A (or grounded Type B) outlets, the same shape used in Japan and the US. The lower voltage rarely bothers phone and laptop chargers, but travelers used to round two-pin plugs will still need an adapter."
     },
     "shanghai": {
       "id": "shanghai",
@@ -2094,7 +2112,8 @@
           "title": "Modern Shanghai and Skyline Day",
           "description": "Use the daytime for Pudong's towers, malls, and observation decks, then return to the river or Bund side after dark to see the skyline from the angle that makes Shanghai most iconic."
         }
-      ]
+      ],
+      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe."
     },
     "hangzhou": {
       "id": "hangzhou",
@@ -2215,7 +2234,8 @@
           "title": "Balanced Summer or Weekend Plan",
           "description": "Place wetlands, museums, or indoor breaks in the hotter middle hours, then return to the lake or Leifeng Pagoda near sunset for the strongest overall rhythm."
         }
-      ]
+      ],
+      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe."
     },
     "suzhou": {
       "id": "suzhou",
@@ -2336,7 +2356,8 @@
           "title": "One-Night Shanghai Extension",
           "description": "Spend the first day on the core garden-museum-Pingjiang cluster, then use the second morning for another garden or Tiger Hill before leaving at a much slower pace than a day trip allows."
         }
-      ]
+      ],
+      "electricity": "China runs on 220V at 50Hz, most commonly through angled two-pin-plus-ground Type I outlets, though round Type C and flat Type A sockets also turn up. Hotels usually have multi-standard sockets that cover several plug types, but it's still worth packing an adapter to be safe."
     },
     "kotakinabalu": {
       "id": "kotakinabalu",
@@ -2457,7 +2478,8 @@
           "title": "Culture and Nature Day",
           "description": "Choose based on your energy: a half-day tour of Mari Mari Cultural Village to see traditional houses and performances from five Bornean ethnic groups, or a full day at Kinabalu Park for its botanical trails and highland scenery."
         }
-      ]
+      ],
+      "electricity": "Malaysia runs on 240V at 50Hz with UK-style rectangular three-pin Type G outlets. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential."
     },
     "bandarseribegawan": {
       "id": "bandarseribegawan",
@@ -2578,7 +2600,8 @@
           "title": "Ulu Temburong Rainforest Day Trip",
           "description": "Set aside a full day to travel to the Temburong district, ride a longboat upriver, and take on the 50-meter canopy walk and a stretch of primary rainforest before returning to Bandar Seri Begawan by evening. Since park access is controlled, booking through a licensed local operator is recommended."
         }
-      ]
+      ],
+      "electricity": "Brunei runs on 240V at 50Hz with the same UK-style rectangular three-pin Type G outlets used in neighboring Malaysia. The shape is completely different from round or flat two-pin plugs, so a Type G adapter is essential."
     }
   }
 }

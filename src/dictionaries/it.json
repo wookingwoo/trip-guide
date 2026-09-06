@@ -38,7 +38,8 @@
     "highlights": "Cosa distingue la città",
     "gettingAround": "Come muoversi",
     "recommendedAreas": "Zone consigliate",
-    "sampleItinerary": "Itinerario consigliato"
+    "sampleItinerary": "Itinerario consigliato",
+    "electricity": "Voltaggio e Presa"
   },
   "cities": {
     "tokyo": {
@@ -164,7 +165,8 @@
           "title": "Cultura e respiro verde",
           "description": "Abbina i musei di Ueno a una passeggiata in un quartiere più tranquillo o a un santuario per alleggerire la densità urbana."
         }
-      ]
+      ],
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e Tokyo e Sapporo si trovano nella rete orientale a 50Hz. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
     },
     "fuji": {
       "id": "fuji",
@@ -273,7 +275,8 @@
           "title": "Porto e luci serali",
           "description": "Concludi a Tagonoura o nell'area industriale di Gakunan per vedere il contrasto tra il paesaggio del giorno e quello notturno."
         }
-      ]
+      ],
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, ma questo è uno dei rari punti del paese dove il fiume Fuji divide letteralmente una stessa città tra la rete orientale a 50Hz e quella occidentale a 60Hz. Nella pratica la differenza di frequenza conta poco, ma la forma piatta dei piedini richiede comunque un adattatore per chi è abituato a spine tonde a due poli."
     },
     "shizuoka": {
       "id": "shizuoka",
@@ -382,7 +385,8 @@
           "title": "Sera di mare e cucina locale",
           "description": "Se gli orari aiutano, chiudi a Shimizu con tonno o shirasu; in alternativa rientra in centro e termina con un giro lento e un buon oden."
         }
-      ]
+      ],
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
     },
     "sapporo": {
       "id": "sapporo",
@@ -490,7 +494,8 @@
           "title": "Percorso invernale",
           "description": "Sfrutta la rete sotterranea e gli spazi interni durante il giorno, poi rientra all'aperto al calare della luce per neve e illuminazioni."
         }
-      ]
+      ],
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e Tokyo e Sapporo si trovano nella rete orientale a 50Hz. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
     },
     "rome": {
       "id": "rome",
@@ -598,7 +603,8 @@
           "title": "Sera a Trastevere",
           "description": "Attraversa il fiume per cena, vino e una passeggiata senza fretta: spesso lascia un ricordo più forte di un monumento in più."
         }
-      ]
+      ],
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
     },
     "vatican": {
       "id": "vatican",
@@ -719,7 +725,8 @@
           "title": "Mezza giornata Vaticano più Roma",
           "description": "Dedica una mezza giornata profonda al Vaticano e poi attraversa il Tevere per cena e passeggiata in zona Navona o nel centro storico senza riempire troppo il resto."
         }
-      ]
+      ],
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
     },
     "pisa": {
       "id": "pisa",
@@ -839,7 +846,8 @@
           "title": "Versione gita in giornata dalla Toscana",
           "description": "Se arrivi da Firenze o Lucca, costruisci la mattina attorno all'orario della torre e lascia il resto del tempo al centro e all'Arno invece di rientrare di corsa."
         }
-      ]
+      ],
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
     },
     "florence": {
       "id": "florence",
@@ -960,7 +968,8 @@
           "title": "Giornata tra panorami e cibo",
           "description": "Inizia con vie più calme e caffè, mangia leggero nelle ore centrali e tieni il tardo pomeriggio per Piazzale Michelangelo e una cena in Oltrarno."
         }
-      ]
+      ],
+      "electricity": "L'Italia funziona a 230V e 50Hz con prese Tipo C ed F a due piedini tondi. Sono compatibili con le spine tonde a due poli usate in gran parte del mondo senza bisogno di adattatore, anche se negli edifici più vecchi si trovano a volte solo le prese Tipo L italiane a tre piedini in linea, quindi conviene comunque portare un adattatore per sicurezza."
     },
     "bangkok": {
       "id": "bangkok",
@@ -1038,7 +1047,8 @@
           "title": "Mercato serale o rooftop",
           "description": "Chiudi con una serata centrata sul cibo, scegliendo tra la varietà rilassata di un mercato o il panorama più lento di un rooftop bar."
         }
-      ]
+      ],
+      "electricity": "La Thailandia funziona a 230V e 50Hz con un mix di prese Tipo C e O a piedini tondi insieme a Tipo A e B a piedini piatti. La maggior parte delle prese, soprattutto negli hotel, sono ibride e accettano più tipi di spina insieme, quindi un adattatore di solito non è indispensabile, anche se può servire negli edifici più vecchi."
     },
     "pattaya": {
       "id": "pattaya",
@@ -1116,7 +1126,8 @@
           "title": "Sera di pesce e tramonto",
           "description": "Concludi con una cena di pesce e una passeggiata sul mare, oppure passa a una serata più vivace in base alla zona in cui alloggi."
         }
-      ]
+      ],
+      "electricity": "La Thailandia funziona a 230V e 50Hz con un mix di prese Tipo C e O a piedini tondi insieme a Tipo A e B a piedini piatti. La maggior parte delle prese, soprattutto negli hotel, sono ibride e accettano più tipi di spina insieme, quindi un adattatore di solito non è indispensabile, anche se può servire negli edifici più vecchi."
     },
     "cebu": {
       "id": "cebu",
@@ -1236,7 +1247,8 @@
           "title": "Mactan e mare",
           "description": "Parti presto per snorkeling o island hopping da Mactan, rallenta nel pomeriggio in resort o sul lungomare e chiudi con una cena di pesce per sentire bene il contrasto con la parte più urbana di Cebu."
         }
-      ]
+      ],
+      "electricity": "Le Filippine funzionano a 220V e 60Hz con prese Tipo A a piedini piatti e Tipo B con messa a terra. La forma piatta dei piedini richiede un adattatore per le spine tonde, anche se il voltaggio è compatibile con la maggior parte dei dispositivi elettronici."
     },
     "kyoto": {
       "id": "kyoto",
@@ -1362,7 +1374,8 @@
           "title": "Arashiyama e templi del nord",
           "description": "Dedica la mattina alla foresta di bambù, a Tenryu-ji e al ponte Togetsukyo, poi scegli solo uno o due templi del nord come Kinkaku-ji o Ryoan-ji per un pomeriggio lento centrato sui giardini."
         }
-      ]
+      ],
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
     },
     "osaka": {
       "id": "osaka",
@@ -1488,7 +1501,8 @@
           "title": "Osaka sud retrò",
           "description": "Usa Tennoji o Abeno per una prima metà giornata più ordinata, poi entra più tardi in Shinsekai, Tsutenkaku e Janjan Yokocho per kushikatsu, insegne d'altri tempi e un'atmosfera serale più ruvida."
         }
-      ]
+      ],
+      "electricity": "Il Giappone funziona a 100V con prese Tipo A a due piedini piatti, e quest'area rientra nella rete occidentale a 60Hz che comprende anche Osaka e Kyoto. Quasi tutti i caricabatterie di telefoni e computer portatili supportano 100-240V, quindi il voltaggio raramente è un problema, ma la forma piatta dei piedini richiede un adattatore per chi è abituato a spine tonde a due poli."
     },
     "sydney": {
       "id": "sydney",
@@ -1608,7 +1622,8 @@
           "title": "Sydney vissuta",
           "description": "Comincia con un vero brunch, poi costruisci la giornata tra CBD, Barangaroo o Darling Harbour e chiudi con una cena sull'acqua per sentire il lato più quotidiano della città."
         }
-      ]
+      ],
+      "electricity": "L'Australia funziona a 230V e 50Hz con le caratteristiche prese Tipo I, riconoscibili per i due piedini inclinati più uno di terra. La forma non corrisponde a nessun'altra presa nel mondo, quindi un adattatore Tipo I è indispensabile."
     },
     "melbourne": {
       "id": "melbourne",
@@ -1728,7 +1743,8 @@
           "title": "Città e costa",
           "description": "Usa il mattino per il centro e il caffè, poi porta il ritmo verso St Kilda nella seconda parte del giorno per mare, passeggiata e luce serale."
         }
-      ]
+      ],
+      "electricity": "L'Australia funziona a 230V e 50Hz con le caratteristiche prese Tipo I, riconoscibili per i due piedini inclinati più uno di terra. La forma non corrisponde a nessun'altra presa nel mondo, quindi un adattatore Tipo I è indispensabile."
     },
     "singapore": {
       "id": "singapore",
@@ -1848,7 +1864,8 @@
           "title": "Città e verde",
           "description": "Usa la mattina per i Botanic Gardens o un'altra tappa verde, passa le ore più calde in spazi interni e torna verso il centro dopo il tramonto per skyline e luci."
         }
-      ]
+      ],
+      "electricity": "Singapore funziona a 230V e 50Hz con prese Tipo G rettangolari a tre piedini, di stile britannico. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile."
     },
     "taipei": {
       "id": "taipei",
@@ -1973,7 +1990,8 @@
           "title": "Terme e colline del tè",
           "description": "Usa le ore più fresche per le terme di Beitou o per Yangmingshan, poi scegli tra le case da tè di Maokong o una cena tranquilla in città in base a energia e meteo."
         }
-      ]
+      ],
+      "electricity": "Taiwan funziona a 110V e 60Hz con prese Tipo A a piedini piatti (o Tipo B con terra), la stessa forma usata in Giappone e negli Stati Uniti. Il voltaggio più basso raramente crea problemi ai caricabatterie di telefoni e computer, ma chi è abituato a spine tonde a due poli avrà comunque bisogno di un adattatore."
     },
     "shanghai": {
       "id": "shanghai",
@@ -2094,7 +2112,8 @@
           "title": "Shanghai moderna e skyline",
           "description": "Dedica il giorno a Pudong tra torri, osservatori e shopping, poi torna verso il fiume o il Bund dopo il tramonto per vedere il profilo della città dall'angolazione più iconica."
         }
-      ]
+      ],
+      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza."
     },
     "hangzhou": {
       "id": "hangzhou",
@@ -2215,7 +2234,8 @@
           "title": "Piano equilibrato per estate o weekend",
           "description": "Usa le ore centrali per zone umide, musei o pause al chiuso e torna verso il lago o la pagoda di Leifeng vicino al tramonto per avere il ritmo migliore."
         }
-      ]
+      ],
+      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza."
     },
     "suzhou": {
       "id": "suzhou",
@@ -2336,7 +2356,8 @@
           "title": "Estensione da Shanghai con una notte",
           "description": "Dedica il primo giorno al nucleo giardino-museo-Pingjiang e usa la seconda mattina per un altro giardino o Tiger Hill, con un ritmo molto più adatto di una semplice gita lampo."
         }
-      ]
+      ],
+      "electricity": "La Cina funziona a 220V e 50Hz, più spesso con prese Tipo I a piedini inclinati più terra, anche se si trovano anche prese Tipo C tonde e Tipo A piatte. Gli hotel di solito hanno prese multistandard che coprono più tipi di spina, ma conviene comunque portare un adattatore per sicurezza."
     },
     "kotakinabalu": {
       "id": "kotakinabalu",
@@ -2457,7 +2478,8 @@
           "title": "Giornata tra cultura e natura",
           "description": "Scegli in base alle energie: un tour di mezza giornata al Mari Mari Cultural Village per vedere case tradizionali ed esibizioni di cinque gruppi etnici del Borneo, oppure un'intera giornata al Kinabalu Park per i suoi sentieri botanici e i paesaggi d'altura."
         }
-      ]
+      ],
+      "electricity": "La Malesia funziona a 240V e 50Hz con prese Tipo G rettangolari a tre piedini, di stile britannico. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile."
     },
     "bandarseribegawan": {
       "id": "bandarseribegawan",
@@ -2578,7 +2600,8 @@
           "title": "Gita di un giorno alla foresta pluviale di Ulu Temburong",
           "description": "Dedica un'intera giornata al viaggio verso il distretto di Temburong, risali il fiume su una longboat e affronta il camminamento sospeso a 50 metri e un tratto di foresta primaria, per poi tornare a Bandar Seri Begawan in serata. Poiché l'accesso al parco è controllato, è consigliabile prenotare tramite un operatore locale autorizzato."
         }
-      ]
+      ],
+      "electricity": "Il Brunei funziona a 240V e 50Hz con le stesse prese Tipo G rettangolari di stile britannico usate nella vicina Malesia. La forma è completamente diversa dalle spine tonde o piatte a due poli, quindi un adattatore Tipo G è indispensabile."
     }
   }
 }

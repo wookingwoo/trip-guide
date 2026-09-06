@@ -29,4 +29,5 @@ export interface City {
   sampleItinerary: CityItineraryItem[];
   tips: string[];
   bestTime: string;
+  electricity: string;
 }
