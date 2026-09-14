@@ -1,0 +1,51 @@
+{
+  "home": {
+    "title": "Temui Pengembaraan Anda Seterusnya",
+    "subtitle": "Terokai Sapporo, Shizuoka, Bandar Fuji, Tokyo, Rom, Kota Vatican, Pisa, Florence, Bangkok, Pattaya, Cebu, Kyoto, Osaka, Sydney, Melbourne, Singapura, Taipei, Shanghai, Hangzhou, Suzhou, Kota Kinabalu dan Bandar Seri Begawan dengan panduan premium kami.",
+    "explore": "Terokai Bandar",
+    "searchLabel": "Cari bandar",
+    "searchPlaceholder": "Cari mengikut nama bandar",
+    "countryLabel": "Tapis mengikut negara",
+    "allCountries": "Semua negara",
+    "noResults": "Tiada bandar yang sepadan dengan tapisan anda",
+    "noResultsHint": "Cuba ubah kata carian atau negara.",
+    "tokyo": "Tokyo",
+    "fuji": "Bandar Fuji",
+    "shizuoka": "Shizuoka",
+    "sapporo": "Sapporo",
+    "rome": "Rom",
+    "vatican": "Kota Vatican",
+    "pisa": "Pisa",
+    "florence": "Florence",
+    "bangkok": "Bangkok",
+    "pattaya": "Pattaya",
+    "cebu": "Cebu",
+    "kyoto": "Kyoto",
+    "osaka": "Osaka",
+    "sydney": "Sydney",
+    "melbourne": "Melbourne",
+    "singapore": "Singapura",
+    "taipei": "Taipei",
+    "shanghai": "Shanghai",
+    "hangzhou": "Hangzhou",
+    "suzhou": "Suzhou"
+  },
+  "nav": {
+    "home": "Laman Utama",
+    "about": "Tentang Kami"
+  },
+  "city": {
+    "attractions": "Tarikan Utama",
+    "food": "Makanan yang Wajib Dicuba",
+    "tips": "Tip Perjalanan",
+    "bestTime": "Waktu Terbaik untuk Melawat",
+    "back": "Kembali ke Laman Utama",
+    "overview": "Gambaran Keseluruhan",
+    "highlights": "Keistimewaan Destinasi",
+    "gettingAround": "Pengangkutan Setempat",
+    "recommendedAreas": "Kawasan yang Disyorkan",
+    "sampleItinerary": "Contoh Jadual Perjalanan",
+    "electricity": "Voltan & Palam",
+    "currency": "Mata Wang & Pembayaran"
+  }
+}

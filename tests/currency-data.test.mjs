@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 
-const locales = ['ko', 'en', 'ja', 'it'];
+const locales = ['ko', 'en', 'ja', 'it', 'ms'];
 const currencyByCity = {
   kotakinabalu: 'MYR',
   bandarseribegawan: 'BND',
