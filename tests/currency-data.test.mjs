@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 
-const locales = ['ko', 'en', 'ja', 'it', 'ms'];
+const locales = ['ko', 'en', 'ja', 'it', 'ms', 'zh-CN', 'zh-TW'];
 const currencyByCity = {
   kotakinabalu: 'MYR',
   bandarseribegawan: 'BND',
@@ -40,6 +40,7 @@ async function loadDictionary(locale) {
 test('every localized city guide includes practical currency information', async () => {
   for (const locale of locales) {
     const dictionary = await loadDictionary(locale);
+    const minimumCurrencyLength = locale.startsWith('zh-') ? 60 : 80;
 
     assert.equal(typeof dictionary.city.currency, 'string', `${locale} currency label`);
     assert.ok(dictionary.city.currency.length > 0, `${locale} currency label is not empty`);
@@ -50,7 +51,10 @@ test('every localized city guide includes practical currency information', async
 
       assert.equal(typeof currency, 'string', `${locale}/${cityId} currency text`);
       assert.match(currency, new RegExp(`\\b${currencyCode}\\b`), `${locale}/${cityId} ISO code`);
-      assert.ok(currency.length >= 80, `${locale}/${cityId} includes practical payment guidance`);
+      assert.ok(
+        currency.length >= minimumCurrencyLength,
+        `${locale}/${cityId} includes practical payment guidance`,
+      );
     }
   }
 });
